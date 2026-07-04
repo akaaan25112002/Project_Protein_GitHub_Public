@@ -1,0 +1,15 @@
+assumed_order,feature_group,n_features,sum_importance,mean_importance,max_importance,mapping_option
+K3_64 + K4_256 + Basic_36,K4_kmer,209,0.079854,0.00038208,0.004972,A
+K3_64 + K4_256 + Basic_36,GC_content,69,0.04035,0.00058478,0.005506,A
+K3_64 + K4_256 + Basic_36,K3_kmer,56,0.018521,0.00033073,0.003782,A
+K3_64 + K4_256 + Basic_36,Other_basic,2,0.008938,0.004469,0.00579,A
+K3_64 + K4_256 + Basic_36,Skew,7,0.005317,0.00075957,0.002588,A
+K3_64 + K4_256 + Basic_36,CpG_related,9,0.002367,0.000263,0.001739,A
+K3_64 + K4_256 + Basic_36,Nucleotide_composition,4,0.000378,9.45e-05,0.000461,A
+Basic_36 + K3_64 + K4_256,K4_kmer,209,0.100873,0.00048265,0.00579,B
+Basic_36 + K3_64 + K4_256,K3_kmer,56,0.050444,0.00090079,0.003782,B
+Basic_36 + K3_64 + K4_256,CpG_related,9,0.006049,0.00067211,0.001603,B
+Basic_36 + K3_64 + K4_256,GC_content,69,-7.6e-05,-1.1e-06,0.003214,B
+Basic_36 + K3_64 + K4_256,Skew,7,-0.000449,-6.414e-05,0.002183,B
+Basic_36 + K3_64 + K4_256,Other_basic,2,-0.000534,-0.000267,0.0,B
+Basic_36 + K3_64 + K4_256,Nucleotide_composition,4,-0.000582,-0.0001455,0.000392,B

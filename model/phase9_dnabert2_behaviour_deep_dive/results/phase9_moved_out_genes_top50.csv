@@ -1,0 +1,12 @@
+gene_symbol_upper,handcrafted_rank,dnabert2_rank,rank_delta_dnabert2_minus_handcrafted,handcrafted_score,dnabert2_score,score_delta_dnabert2_minus_handcrafted,gene_id,gene_symbol,true_label,rank_improvement_by_dnabert2,top50_membership,top100_membership,rank_shift_category,rank_direction,abs_rank_shift,abs_score_shift,curated_biological_themes,has_curated_theme_support
+NDUFB3,19,104,85,0.7789,0.5697,-0.2092,ENSG00000119013,NDUFB3,1,-85,moved_out_from_handcrafted,moved_out_from_handcrafted,large_down_by_DNABERT2,DNABERT2_ranked_lower,85,0.2092,mitochondrial_function;oxidative_phosphorylation,True
+SLC5A1,20,74,54,0.7724,0.6508,-0.1216,ENSG00000100170,SLC5A1,1,-54,moved_out_from_handcrafted,shared,large_down_by_DNABERT2,DNABERT2_ranked_lower,54,0.1216,glucose_metabolism;known_t2d_gwas_or_monogenic,True
+GATD3,23,77,54,0.7709,0.6461,-0.1248,ENSG00000160221,GATD3,0,-54,moved_out_from_handcrafted,shared,large_down_by_DNABERT2,DNABERT2_ranked_lower,54,0.1248,,False
+HMG20A,26,62,36,0.7633,0.6699,-0.0934,ENSG00000140382,HMG20A,1,-36,moved_out_from_handcrafted,shared,moderate_down_by_DNABERT2,DNABERT2_ranked_lower,36,0.0934,,False
+NDUFA7,29,98,69,0.7594,0.587,-0.1724,ENSG00000267855,NDUFA7,1,-69,moved_out_from_handcrafted,shared,large_down_by_DNABERT2,DNABERT2_ranked_lower,69,0.1724,mitochondrial_function;oxidative_phosphorylation,True
+RALY,30,114,84,0.7581,0.5347,-0.2234,ENSG00000125970,RALY,1,-84,moved_out_from_handcrafted,moved_out_from_handcrafted,large_down_by_DNABERT2,DNABERT2_ranked_lower,84,0.2234,,False
+NDUFB1,37,55,18,0.7382,0.6809,-0.0573,ENSG00000183648,NDUFB1,1,-18,moved_out_from_handcrafted,shared,small_down_by_DNABERT2,DNABERT2_ranked_lower,18,0.0573,mitochondrial_function;oxidative_phosphorylation,True
+GRM7,38,61,23,0.732,0.6729,-0.0592,ENSG00000196277,GRM7,0,-23,moved_out_from_handcrafted,shared,moderate_down_by_DNABERT2,DNABERT2_ranked_lower,23,0.0592,,False
+DPP4,39,57,18,0.7289,0.6765,-0.0524,ENSG00000197635,DPP4,1,-18,moved_out_from_handcrafted,shared,small_down_by_DNABERT2,DNABERT2_ranked_lower,18,0.0524,beta_cell_biology;known_t2d_gwas_or_monogenic,True
+EIF4E2,42,64,22,0.7182,0.6671,-0.0511,ENSG00000135930,EIF4E2,0,-22,moved_out_from_handcrafted,shared,moderate_down_by_DNABERT2,DNABERT2_ranked_lower,22,0.0511,,False
+MGAM,46,82,36,0.7106,0.6412,-0.0694,ENSG00000257335,MGAM,1,-36,moved_out_from_handcrafted,shared,moderate_down_by_DNABERT2,DNABERT2_ranked_lower,36,0.0694,,False

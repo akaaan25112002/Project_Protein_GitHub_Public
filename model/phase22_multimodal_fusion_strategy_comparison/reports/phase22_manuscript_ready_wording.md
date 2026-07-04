@@ -1,0 +1,12 @@
+## Methods - Fusion Strategy Comparison
+
+To evaluate whether multimodal integration was limited by feature concatenation, early-fusion, late-fusion and stacking strategies were compared under repeated stratified cross-validation. Early fusion concatenated protein and genomic feature vectors prior to model training. Late fusion trained modality-specific models separately and combined protein and genomic prediction scores using validation-selected weighted averaging. Stacking used logistic regression meta-classifiers trained on modality-level validation scores. The same outer folds were used for all fusion strategies, allowing paired statistical comparison across integration methods.
+
+## Results - Early vs Late Fusion and Stacking
+
+The fusion strategy comparison showed that the strongest mean PR-AUC was achieved by Stacking_Protein_Handcrafted_DNABERT2 (0.721 ± 0.020), while the strongest mean MCC was achieved by Early_fusion_Protein_DNABERT2Genomic (0.339 ± 0.054). Late-fusion weights were used to assess the relative contribution of protein and genomic modality scores. If the selected protein weights are consistently high, this supports the previous block-permutation finding that protein embeddings provide the dominant signal. If late fusion or stacking improves PR-AUC or MCC over early fusion, this suggests that decision-level integration can better preserve complementary genomic information than simple feature concatenation.
+
+## Discussion - Multimodal Integration Interpretation
+
+The fusion analysis directly addresses whether the limited multimodal gains were caused by the integration strategy. If late fusion or stacking provides only small improvements over early fusion, the main conclusion remains that genomic information contributes modest complementary signal but does not fundamentally change performance beyond the protein representation. Conversely, if decision-level fusion improves MCC, specificity or PR-AUC, it supports the interpretation that protein and genomic modalities contain partially complementary information whose contribution is better captured at the score level than by direct feature concatenation. In either case, the results should be interpreted as integration-strategy evidence rather than a claim of definitive model superiority.
+

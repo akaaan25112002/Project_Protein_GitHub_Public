@@ -1,0 +1,7 @@
+phase,branch,representation,embedding_policy,feature_type,model,test_roc_auc,test_pr_auc,test_f1,test_mcc,note
+5.3,Multimodal,ProtBERT-SW + DNABERT-2,early_fusion,protein foundation embedding + genomic foundation embedding,SVM RBF,0.7567538126361655,0.7446882147625922,0.6615969581749049,0.34349810959811267,Multimodal foundation-model extension
+3.1,Multimodal,ProtBERT-SW + K3/K4/Basic,early_fusion,protein embedding + handcrafted genomic,SVM RBF,0.729,0.7573,0.659,0.3438,Official multimodal model before DNABERT-2
+3.1,Protein shared split,ProtBERT-SW,shared split,protein foundation embedding,SVM RBF,0.7274,0.7433,0.6667,0.3215,Protein-only on Phase 3 shared split
+5.2,Genomic regulatory,DNABERT-2,sliding_window_2048_stride_1024,genomic foundation embedding,Random Forest,0.6832788671023965,0.6838355849863269,0.5478260869565217,0.24245437940080117,DNABERT-2 genomic-only extension
+2.1,Genomic regulatory,K3 + K4 + Basic,handcrafted,genomic handcrafted regulatory features,Random Forest,0.6496,0.6327,0.6406,0.2557,Official handcrafted genomic model
+1.2E,Protein,ProtBERT,sliding_window_1022_stride_1022,protein foundation embedding,Logistic Regression,0.6487,0.6551,0.5896,0.1941,Best protein model before shared split

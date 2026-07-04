@@ -1,0 +1,17 @@
+model_name,display_name,metric,mean_rank,sd_rank,n_rank1,n_evaluations
+Protein_only_ProtBERT_SW,Protein-only,f1,1.68,0.7483,12,25
+DNABERT2_multimodal,DNABERT-2 multimodal,f1,2.16,0.9866,8,25
+Handcrafted_multimodal,Handcrafted multimodal,f1,2.32,0.8524,5,25
+Genomic_only_K3K4Basic,Genomic-only,f1,3.84,0.4726,0,25
+DNABERT2_multimodal,DNABERT-2 multimodal,mcc,1.76,0.8794,13,25
+Handcrafted_multimodal,Handcrafted multimodal,mcc,2.08,0.7594,5,25
+Protein_only_ProtBERT_SW,Protein-only,mcc,2.24,0.9256,7,25
+Genomic_only_K3K4Basic,Genomic-only,mcc,3.92,0.2769,0,25
+DNABERT2_multimodal,DNABERT-2 multimodal,pr_auc,1.52,0.7703,16,25
+Handcrafted_multimodal,Handcrafted multimodal,pr_auc,1.72,0.5416,8,25
+Protein_only_ProtBERT_SW,Protein-only,pr_auc,2.88,0.6658,1,25
+Genomic_only_K3K4Basic,Genomic-only,pr_auc,3.88,0.3317,0,25
+DNABERT2_multimodal,DNABERT-2 multimodal,roc_auc,1.32,0.7483,21,25
+Handcrafted_multimodal,Handcrafted multimodal,roc_auc,2.0,0.2887,1,25
+Protein_only_ProtBERT_SW,Protein-only,roc_auc,2.68,0.6904,3,25
+Genomic_only_K3K4Basic,Genomic-only,roc_auc,4.0,0.0,0,25

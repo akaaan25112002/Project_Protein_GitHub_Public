@@ -1,0 +1,2 @@
+path,shape,column_used,columns,n_names,n_real_like,groups,preview
+/content/drive/MyDrive/Project_Protein/model/phase3_multimodal_integration/phase3_2_error_modality_contribution/results/phase3_2C_top_genomic_features_combined_lr.csv,"(50, 4)",feature,feature; coefficient; abs_coefficient; modality,50,50,"{""K4_kmer"": 45, ""K3_kmer"": 4, ""GC_content"": 1}",k4_GTAG; k4_GGTA; k4_ACCA; k4_TCTG; k4_CTGT; k4_CCGA; k4_CCAT; k4_TGAC; k4_ATCC; k4_CGAC; k4_GGTT; k4_GATC; k4_CTTT; k4_CAAG; k4_GAGA

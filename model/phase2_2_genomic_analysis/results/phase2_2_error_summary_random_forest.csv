@@ -1,0 +1,2 @@
+model,threshold,TP,TN,FP,FN,n,fp_rate_among_actual_negative,fn_rate_among_actual_positive,accuracy,f1,mcc
+Random Forest,0.6000000000000005,39,118,18,96,271,0.1323529411764706,0.7111111111111111,0.5793357933579336,0.40625,0.19204637361434412

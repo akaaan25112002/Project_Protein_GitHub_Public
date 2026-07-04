@@ -1,0 +1,9 @@
+table_id,content,source,main_or_supplement,notes
+Table 1,Dataset and feature representation summary,Existing manuscript / Phase 3 / Phase 16,Main,"Include n=1,806; 903 positive / 903 background; feature dimensions."
+Table 2,Repeated CV performance summary,Phase 17,Main,"PR-AUC, ROC-AUC, MCC, F1 mean ± SD."
+Table 3,Top-K ranking utility,Phase 24,Main,"Top-50, Top-100, Top-200 Precision@K, N positives, enrichment."
+Table 4,Claim strength and validation summary,Phase 25,Main or Supplementary,Useful for transparent paper narrative.
+Supplementary Table S1,Negative-set sensitivity,Phase 18,Supplementary,All scenarios.
+Supplementary Table S2,External/pathway validation,Phase 19 / 20,Supplementary,Supportive/hypothesis-generating only.
+Supplementary Table S3,Case-level gene audit,Phase 21,Supplementary,"Include NDUFV1, NDUFA12, GIPR, GCKR, NKX6-1, etc."
+Supplementary Table S4,Leakage and bias audit,Phase 23 / 23B,Supplementary,"Duplicate, nearest-neighbor, nuisance-only, matched sampling."

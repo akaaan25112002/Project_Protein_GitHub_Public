@@ -1,0 +1,6 @@
+branch,representation,model,threshold_policy,test_roc_auc,test_pr_auc,test_f1,test_mcc,note
+Protein,ProtBERT sliding-window,Logistic Regression,default_0.5,0.6487,0.6551,0.5896,0.1941,Best protein ranking representation
+Protein,ProtBERT sliding-window,Logistic Regression,validation_tuned_f1,0.6487,0.6551,0.6906,0.2409,Best practical protein binary result after threshold tuning
+Genomic regulatory,K3 + K4 + Basic,Random Forest,default_0.5,0.6496187363834423,0.6327321999591006,0.6405693950177936,0.2556690043916305,Official final genomic model selected by validation ROC-AUC
+Genomic regulatory,K3 + K4 + Basic,SVM RBF,diagnostic_default_0.5,0.6764705882352942,0.6504049696069261,0.6619718309859155,0.2933420813226739,Diagnostic best genomic model on held-out test; not official final selection
+Genomic regulatory,K3 + K4 + Basic,Random Forest,validation_tuned_mcc,0.6496187363834423,0.6327321999591006,0.40625,0.19204637361434412,Official genomic model with validation-tuned MCC threshold

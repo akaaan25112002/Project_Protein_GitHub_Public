@@ -1,0 +1,51 @@
+gene_symbol,true_label,consensus_rank,mean_percentile_rank,best_rank,n_curated_pathways,curated_pathways,relabel_audit_priority,external_evidence_strength
+NDUFV1,0,22,0.95374,28,1,Mitochondrial_complex_I_OXPHOS,high,single_source
+NDUFS6,1,90,0.90512,120,1,Mitochondrial_complex_I_OXPHOS,,
+NDUFB11,1,95,0.90125,55,1,Mitochondrial_complex_I_OXPHOS,,
+NDUFA7,1,107,0.89584,28,1,Mitochondrial_complex_I_OXPHOS,,
+NKX6-1,1,115,0.89003,23,1,Beta_cell_function_development,,
+GCKR,1,131,0.87687,6,2,Glucose_metabolism_transport; Known_T2D_GWAS_loci,,
+MGAM,1,156,0.8615,130,1,Incretin_diabetes_pharmacology,,
+NDUFA12,0,158,0.85997,30,1,Mitochondrial_complex_I_OXPHOS,high,single_source
+IRS1,1,159,0.85983,117,3,Glucose_metabolism_transport; Insulin_signalling; Known_T2D_GWAS_loci,,
+CDC123,1,168,0.85582,48,1,Known_T2D_GWAS_loci,,
+NDUFS3,1,190,0.84197,167,1,Mitochondrial_complex_I_OXPHOS,,
+NDUFB6,1,216,0.82604,231,1,Mitochondrial_complex_I_OXPHOS,,
+ADAMTS9,1,229,0.81911,180,1,Known_T2D_GWAS_loci,,
+HMGA2,1,230,0.81911,238,1,Known_T2D_GWAS_loci,,
+GCK,1,236,0.81565,98,5,Beta_cell_function_development; Glucose_metabolism_transport; Incretin_diabetes_pharmacology; Insulin_secretion_KATP_Ca; Known_T2D_GWAS_loci,,
+PPARG,1,247,0.80789,276,3,Incretin_diabetes_pharmacology; Insulin_signalling; Known_T2D_GWAS_loci,,
+INS,1,288,0.78601,131,2,Beta_cell_function_development; Insulin_secretion_KATP_Ca,,
+INSR,1,290,0.78476,162,4,Glucose_metabolism_transport; Incretin_diabetes_pharmacology; Insulin_signalling; Known_T2D_GWAS_loci,,
+AKT2,1,304,0.7777,228,2,Glucose_metabolism_transport; Insulin_signalling,,
+NDUFV2,1,306,0.77493,149,1,Mitochondrial_complex_I_OXPHOS,,
+CDKAL1,1,332,0.76343,247,1,Known_T2D_GWAS_loci,,
+NDUFS7,0,339,0.76136,278,1,Mitochondrial_complex_I_OXPHOS,low,single_source
+TP53INP1,1,357,0.75263,206,1,Known_T2D_GWAS_loci,,
+NDUFB10,0,360,0.75208,198,1,Mitochondrial_complex_I_OXPHOS,moderate,single_source
+THADA,1,400,0.73352,83,1,Known_T2D_GWAS_loci,,
+GIPR,0,413,0.72548,348,3,Incretin_diabetes_pharmacology; Insulin_secretion_KATP_Ca; Known_T2D_GWAS_loci,high,high_multi_source
+NDUFA9,0,431,0.71731,423,1,Mitochondrial_complex_I_OXPHOS,low,single_source
+NDUFB4,0,470,0.6982,359,1,Mitochondrial_complex_I_OXPHOS,low,single_source
+HNF1B,1,474,0.69695,45,1,Beta_cell_function_development,,
+NDUFB7,1,500,0.68712,147,1,Mitochondrial_complex_I_OXPHOS,,
+NDUFB5,0,539,0.66704,354,1,Mitochondrial_complex_I_OXPHOS,low,single_source
+NDUFA10,0,561,0.65637,456,1,Mitochondrial_complex_I_OXPHOS,low,single_source
+MAEA,1,634,0.62465,153,1,Known_T2D_GWAS_loci,,
+NDUFB1,1,670,0.609,456,1,Mitochondrial_complex_I_OXPHOS,,
+NDUFB8,0,678,0.60512,341,1,Mitochondrial_complex_I_OXPHOS,low,single_source
+GAD1,1,706,0.58961,551,1,Beta_cell_function_development,,
+G6PC2,1,729,0.58144,486,1,Glucose_metabolism_transport,,
+PROX1,0,743,0.57562,643,1,Known_T2D_GWAS_loci,low,single_source
+MTNR1B,0,743,0.57562,267,2,Beta_cell_function_development; Known_T2D_GWAS_loci,moderate,moderate_two_source
+NDUFS8,0,749,0.57161,757,1,Mitochondrial_complex_I_OXPHOS,low,single_source
+HHEX,1,830,0.53587,676,1,Known_T2D_GWAS_loci,,
+GLIS3,0,856,0.52521,383,2,Beta_cell_function_development; Known_T2D_GWAS_loci,low,moderate_two_source
+ABCC8,1,864,0.51981,543,2,Incretin_diabetes_pharmacology; Insulin_secretion_KATP_Ca,,
+NDUFS4,1,873,0.51427,172,1,Mitochondrial_complex_I_OXPHOS,,
+NDUFS2,1,960,0.47036,640,1,Mitochondrial_complex_I_OXPHOS,,
+IRS2,1,1027,0.43767,777,2,Glucose_metabolism_transport; Insulin_signalling,,
+ISL1,1,1033,0.43532,312,1,Beta_cell_function_development,,
+NDUFA2,1,1052,0.42909,613,1,Mitochondrial_complex_I_OXPHOS,,
+TSPAN8,0,1061,0.42562,943,1,Known_T2D_GWAS_loci,low,single_source
+JAZF1,0,1073,0.42078,700,1,Known_T2D_GWAS_loci,low,single_source

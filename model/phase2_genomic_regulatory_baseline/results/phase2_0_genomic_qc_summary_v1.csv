@@ -1,0 +1,30 @@
+metric,value
+dataset_file,t2d_tss_proximal_regulatory_sequences_2kbup_500bpdown_nuclear_balanced_v1.csv
+n_rows,1806
+n_columns,58
+sequence_col_detected,tss_proximal_sequence
+n_unique_gene_id,1806
+n_unique_gene_symbol,1805
+label_counts,"{0: 903, 1: 903}"
+missing_gene_id,0
+missing_gene_symbol,1
+missing_label,0
+missing_sequence,0
+min_sequence_length,2500
+median_sequence_length,2500.0
+mean_sequence_length,2500.0
+max_sequence_length,2500
+n_rows_with_invalid_dna_chars,0
+n_rows_with_N,0
+total_N_bases,0
+tss_proximal_sequence_length_value_counts,{2500: 1806}
+target_tss_window_length_value_counts,{2500: 1806}
+tss_window_length_match_check_value_counts,{True: 1806}
+left_boundary_N_padding_value_counts,{0: 1806}
+right_boundary_N_padding_value_counts,{0: 1806}
+total_N_padding_value_counts,{0: 1806}
+chromosome_or_scaffold_value_counts,"{'1': 161, '11': 117, '2': 116, '19': 107, '3': 103, '7': 97, '5': 96, '17': 94, '6': 93, '12': 89, '10': 84, '4': 82, '16': 75, '8': 67, '20': 62, '9': 62, '15': 59, '14': 57, 'X': 56, '22': 44, '18': 40, '13': 29, '21': 15, 'Y': 1}"
+gene_type_value_counts,{'protein_coding': 1806}
+dataset_role_value_counts,"{'negative': 903, 'positive': 903}"
+tss_sequence_orientation_value_counts,"{'forward_gene_orientation': 913, 'reverse_complement_gene_orientation': 893}"
+regulatory_sequence_version_value_counts,{'TSS_Proximal_2kbUp_500bpDown_NuclearBalanced_v1': 1806}

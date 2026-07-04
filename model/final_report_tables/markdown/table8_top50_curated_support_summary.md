@@ -1,0 +1,3 @@
+|   n_top50_genes |   n_true_positive |   n_false_positive |   n_with_curated_t2d_support |   pct_with_curated_t2d_support | supported_genes                                                                                               |
+|----------------:|------------------:|-------------------:|-----------------------------:|-------------------------------:|:--------------------------------------------------------------------------------------------------------------|
+|              50 |                43 |                  7 |                           15 |                             30 | NDUFB2; NEUROD1; INSR; GAD1; NDUFV1; CACNA1D; HHEX; NDUFB3; SLC5A1; IGF2BP2; NDUFA7; SCD5; NDUFB1; DPP4; PDX1 |

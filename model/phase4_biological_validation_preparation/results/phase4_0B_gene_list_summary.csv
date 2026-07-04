@@ -1,0 +1,7 @@
+gene_list_name,n_genes,description
+top_50_combined_predictions,50,Top 50 genes ranked by official Combined SVM predicted T2D score
+top_true_positives,86,Correctly predicted T2D-associated genes ranked by score
+high_confidence_false_positives,40,Background genes predicted as T2D-associated with high confidence
+high_confidence_false_negatives,49,T2D-associated genes predicted as background
+combined_rescued_genes,18,Genes correctly predicted by Combined SVM but incorrectly predicted by Protein-only SVM
+both_wrong_genes,74,Genes misclassified by both Protein-only SVM and Combined SVM

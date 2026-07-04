@@ -1,0 +1,15 @@
+top_n,theme,handcrafted_observed,dnabert2_observed,delta_dnabert2_minus_handcrafted_observed,handcrafted_empirical_p,dnabert2_empirical_p,handcrafted_fdr_p,dnabert2_fdr_p,handcrafted_enrichment_ratio,dnabert2_enrichment_ratio,delta_dnabert2_minus_handcrafted_enrichment_ratio,interpretation
+50,mitochondrial_function,5,2,-3,0.027,0.5684,0.0909,0.6737,2.6867,1.0747,-1.612,Handcrafted has stronger observed theme concentration.
+50,oxidative_phosphorylation,5,2,-3,0.027,0.5684,0.0909,0.6737,2.6867,1.0747,-1.612,Handcrafted has stronger observed theme concentration.
+50,known_t2d_gwas_or_monogenic,9,7,-2,0.002,0.008,0.064,0.064,3.5475,2.7592,-0.7883,Handcrafted has stronger observed theme concentration.
+50,beta_cell_biology,6,5,-1,0.003,0.011,0.064,0.064,3.6742,3.0618,-0.6124,Handcrafted has stronger observed theme concentration.
+50,glucose_metabolism,1,0,-1,0.4795,1.0,0.5902,1.0,1.7271,0.0,-1.7271,Handcrafted has stronger observed theme concentration.
+50,insulin_signalling,1,1,0,0.1768,0.1768,0.3058,0.3058,5.6818,5.6818,0.0,Both models have equal observed theme concentration.
+50,pancreatic_development,3,3,0,0.02,0.02,0.0791,0.0791,4.2076,4.2076,0.0,Both models have equal observed theme concentration.
+100,mitochondrial_function,7,6,-1,0.038,0.1299,0.1158,0.3058,1.895,1.6243,-0.2707,Handcrafted has stronger observed theme concentration.
+100,oxidative_phosphorylation,7,6,-1,0.038,0.1299,0.1158,0.3058,1.895,1.6243,-0.2707,Handcrafted has stronger observed theme concentration.
+100,known_t2d_gwas_or_monogenic,10,10,0,0.01,0.01,0.064,0.064,1.908,1.908,0.0,Both models have equal observed theme concentration.
+100,beta_cell_biology,7,7,0,0.019,0.019,0.0791,0.0791,2.051,2.051,0.0,Both models have equal observed theme concentration.
+100,glucose_metabolism,2,2,0,0.3197,0.3197,0.4654,0.4654,1.7778,1.7778,0.0,Both models have equal observed theme concentration.
+100,insulin_signalling,1,1,0,0.3536,0.3536,0.4654,0.4654,2.8329,2.8329,0.0,Both models have equal observed theme concentration.
+100,pancreatic_development,3,3,0,0.1499,0.1499,0.3058,0.3058,2.0161,2.0161,0.0,Both models have equal observed theme concentration.

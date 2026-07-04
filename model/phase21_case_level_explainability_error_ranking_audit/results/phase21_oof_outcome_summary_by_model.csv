@@ -1,0 +1,17 @@
+model_name,display_name,outcome,n_genes,n_total,percentage
+DNABERT2_multimodal,DNABERT-2 multimodal,FN,311,1806,17.22
+DNABERT2_multimodal,DNABERT-2 multimodal,FP,293,1806,16.224
+DNABERT2_multimodal,DNABERT-2 multimodal,TN,610,1806,33.776
+DNABERT2_multimodal,DNABERT-2 multimodal,TP,592,1806,32.78
+Genomic_only_K3K4Basic,Genomic-only,FN,512,1806,28.35
+Genomic_only_K3K4Basic,Genomic-only,FP,218,1806,12.071
+Genomic_only_K3K4Basic,Genomic-only,TN,685,1806,37.929
+Genomic_only_K3K4Basic,Genomic-only,TP,391,1806,21.65
+Handcrafted_multimodal,Handcrafted multimodal,FN,336,1806,18.605
+Handcrafted_multimodal,Handcrafted multimodal,FP,264,1806,14.618
+Handcrafted_multimodal,Handcrafted multimodal,TN,639,1806,35.382
+Handcrafted_multimodal,Handcrafted multimodal,TP,567,1806,31.395
+Protein_only_ProtBERT_SW,Protein-only,FN,215,1806,11.905
+Protein_only_ProtBERT_SW,Protein-only,FP,408,1806,22.591
+Protein_only_ProtBERT_SW,Protein-only,TN,495,1806,27.409
+Protein_only_ProtBERT_SW,Protein-only,TP,688,1806,38.095

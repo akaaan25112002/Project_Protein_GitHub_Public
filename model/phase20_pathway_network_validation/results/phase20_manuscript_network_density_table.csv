@@ -1,0 +1,5 @@
+display_name,observed_curated_network_edges,random_mean_edges,fold_enrichment_vs_random,empirical_p,empirical_bh_fdr_within_topn,observed_edges
+DNABERT-2 multimodal,6,1.8597,3.2264,0.115,0.4598,NDUFA12-NDUFA7; NDUFA7-NDUFB11; NDUFA12-NDUFV1; NDUFA7-NDUFV1; NDUFA12-NDUFB11; NDUFB11-NDUFV1
+Genomic-only,0,1.85,0.0,1.0,1.0,
+Handcrafted multimodal,1,1.8913,0.5287,0.6378,1.0,NDUFB11-NDUFV1
+Protein-only,0,1.992,0.0,1.0,1.0,

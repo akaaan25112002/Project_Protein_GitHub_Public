@@ -1,0 +1,3 @@
+top_n,shared_n,moved_in_by_DNABERT2_n,moved_out_from_handcrafted_n,outside_both_n,jaccard_top_list,interpretation
+50,39,11,11,210,0.6393,top list moderately changed
+100,87,13,13,158,0.7699,top list largely stable

@@ -1,0 +1,12 @@
+## Methods - Top-K Ranking Utility
+
+To evaluate practical gene-prioritization utility, model rankings were assessed using Top-K metrics in addition to global ROC-AUC and PR-AUC. For each model, out-of-fold gene-level scores were converted into ranked gene lists, and Precision@K, Recall@K, F1@K, HitRate@K, enrichment factor@K, NDCG@K and average precision@K were computed across multiple K thresholds. Random same-size gene sets sampled from the candidate universe were used as empirical baselines for Top-K current-positive recovery. Additional Top-K analyses were performed for pathway-supported and external-supported genes to assess biological prioritization utility.
+
+## Results - Top-K Gene Prioritization
+
+Top-K ranking analysis showed that the strongest Top-100 precision was achieved by Handcrafted multimodal, with 84 current-positive genes in the Top-100 and Precision@100 of 0.840. Against random same-size gene sets, the strongest Top-100 enrichment was observed for Handcrafted multimodal, with 84 observed current positives compared with a random expectation of 50.09. These Top-K metrics provide a prioritization-oriented view of model utility that complements global discrimination metrics.
+
+## Discussion - Ranking Utility Interpretation
+
+Top-K utility metrics are particularly relevant for disease-gene prioritization because downstream users typically inspect a limited number of highly ranked candidates rather than relying on a single binary threshold. If multimodal models improve Precision@K, enrichment factor@K or NDCG@K relative to protein-only and genomic-only baselines, this supports the practical value of multimodal ranking even when global metric gains are modest. These results should be interpreted under the known limitation that current positive labels are incomplete; therefore, high-ranked negative-labelled genes may include unknown positives or hypothesis-generating candidates.
+

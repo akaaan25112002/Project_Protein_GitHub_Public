@@ -1,0 +1,4 @@
+model_name_phase23b,model_name_phase17,matching_strategy,pr_auc_phase17_original,pr_auc_matched,pr_auc_delta_matched_minus_original,roc_auc_phase17_original,roc_auc_matched,roc_auc_delta_matched_minus_original,mcc_phase17_original,mcc_matched,mcc_delta_matched_minus_original,f1_phase17_original,f1_matched,f1_delta_matched_minus_original
+Early_fusion_Protein_DNABERT2,DNABERT2_multimodal,gene_symbol_length_bin_matched,0.7161,0.72211,0.00601,0.7306,0.7332,0.0026,0.3308,0.33136,0.00056,0.646,0.65875,0.01275
+Early_fusion_Protein_Handcrafted,Handcrafted_multimodal,gene_symbol_length_bin_matched,0.7137,0.71996,0.00626,0.7247,0.72844,0.00374,0.3168,0.32201,0.00521,0.633,0.65462,0.02162
+Protein_only,Protein_only_ProtBERT_SW,gene_symbol_length_bin_matched,0.6951,0.70044,0.00534,0.713,0.71543,0.00243,0.3078,0.29797,-0.00983,0.6698,0.64474,-0.02506

@@ -1,0 +1,4 @@
+similarity_risk,n_test_samples,mean_similarity,max_similarity
+high_near_duplicate,1,0.994958,0.994958
+lower_similarity,267,0.701561,0.946954
+moderate_high_similarity,3,0.959204,0.971805

@@ -1,0 +1,9 @@
+phase5_vs_phase3_error_group,true_label,n_genes
+both_correct,0,87
+both_correct,1,81
+both_wrong,0,33
+both_wrong,1,42
+phase3_correct_phase5_wrong,0,9
+phase3_correct_phase5_wrong,1,5
+phase5_correct_phase3_wrong,0,7
+phase5_correct_phase3_wrong,1,7

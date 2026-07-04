@@ -1,0 +1,45 @@
+gene_symbol,true_label,consensus_rank,mean_percentile_rank,best_rank,best_model_rank,best_model,best_model_score,n_external_sets,external_evidence_strength,external_sets,relabel_audit_priority
+NDUFV1,0,22,0.95374,28,28,Handcrafted multimodal,0.83123,1,single_source,Mitochondrial_OXPHOS_complex_I,high
+NDUFA12,0,158,0.85997,30,30,Genomic-only,0.71657,1,single_source,Mitochondrial_OXPHOS_complex_I,high
+GIPR,0,413,0.72548,348,348,Protein-only,0.68563,3,high_multi_source,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion; Known_T2D_GWAS_or_genetic_risk,high
+NDUFB10,0,360,0.75208,198,198,DNABERT-2 multimodal,0.76245,1,single_source,Mitochondrial_OXPHOS_complex_I,moderate
+MTNR1B,0,743,0.57562,267,267,Genomic-only,0.61268,2,moderate_two_source,Beta_cell_function_or_development; Known_T2D_GWAS_or_genetic_risk,moderate
+NDUFS7,0,339,0.76136,278,278,Handcrafted multimodal,0.71925,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+NDUFA9,0,431,0.71731,423,423,Protein-only,0.66055,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+NDUFB4,0,470,0.6982,359,359,Genomic-only,0.58588,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+NDUFB5,0,539,0.66704,354,354,DNABERT-2 multimodal,0.70097,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+NDUFA10,0,561,0.65637,456,456,DNABERT-2 multimodal,0.66111,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+NDUFB8,0,678,0.60512,341,341,Protein-only,0.68705,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+PROX1,0,743,0.57562,643,643,Handcrafted multimodal,0.59532,1,single_source,Known_T2D_GWAS_or_genetic_risk,low
+NDUFS8,0,749,0.57161,757,757,Protein-only,0.55642,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+GLIS3,0,856,0.52521,383,383,Protein-only,0.67275,2,moderate_two_source,Beta_cell_function_or_development; Known_T2D_GWAS_or_genetic_risk,low
+TSPAN8,0,1061,0.42562,943,943,Protein-only,0.48937,1,single_source,Known_T2D_GWAS_or_genetic_risk,low
+JAZF1,0,1073,0.42078,700,700,Genomic-only,0.51871,1,single_source,Known_T2D_GWAS_or_genetic_risk,low
+KCNQ1,0,1082,0.41565,1006,1006,Protein-only,0.47089,1,single_source,Known_T2D_GWAS_or_genetic_risk,low
+NDUFS5,0,1083,0.41524,934,934,Protein-only,0.49258,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+NDUFV3,0,1096,0.40928,685,685,Protein-only,0.57538,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+CACNA1D,0,1181,0.36994,1072,1072,Handcrafted multimodal,0.4394,1,single_source,Beta_cell_function_or_development,low
+CDKN2B,0,1316,0.30679,1049,1049,Genomic-only,0.46914,1,single_source,Known_T2D_GWAS_or_genetic_risk,low
+NDUFB3,0,1324,0.30166,648,648,Genomic-only,0.52688,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+NDUFA5,0,1342,0.29058,1112,1112,Protein-only,0.43223,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+ADCY5,0,1370,0.27632,1148,1148,DNABERT-2 multimodal,0.40566,1,single_source,Known_T2D_GWAS_or_genetic_risk,low
+NDUFB9,0,1382,0.27202,939,939,Protein-only,0.49012,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+PAX4,0,1408,0.26205,659,659,Genomic-only,0.52578,1,single_source,Beta_cell_function_or_development,low
+NDUFA11,0,1474,0.23366,1169,1169,Genomic-only,0.45284,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+NDUFA1,0,1488,0.2277,1246,1246,Protein-only,0.39114,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+NOTCH2,0,1501,0.22244,1079,1079,Genomic-only,0.4648,1,single_source,Known_T2D_GWAS_or_genetic_risk,low
+DPP4,0,1515,0.21648,1322,1322,Genomic-only,0.43436,2,moderate_two_source,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion,low
+GLP1R,0,1552,0.19737,1360,1360,DNABERT-2 multimodal,0.32725,2,moderate_two_source,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion,low
+GRB14,0,1562,0.19474,1174,1174,Protein-only,0.41608,1,single_source,Known_T2D_GWAS_or_genetic_risk,low
+HNF1A,0,1582,0.1849,1125,1125,Genomic-only,0.46001,1,single_source,Beta_cell_function_or_development,low
+SLC30A8,0,1587,0.18324,1426,1426,DNABERT-2 multimodal,0.30394,2,moderate_two_source,Beta_cell_function_or_development; Known_T2D_GWAS_or_genetic_risk,low
+IGF2BP2,0,1638,0.15554,1247,1247,Genomic-only,0.44294,1,single_source,Known_T2D_GWAS_or_genetic_risk,low
+HK1,0,1656,0.14862,1210,1210,DNABERT-2 multimodal,0.37956,1,single_source,Glucose_metabolism_transport_or_insulin_secretion,low
+NDUFA8,0,1669,0.13283,920,920,Genomic-only,0.48648,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+NDUFA6,0,1690,0.12174,1540,1540,Protein-only,0.28484,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+HNF4A,0,1692,0.12119,1562,1562,Protein-only,0.27649,1,single_source,Beta_cell_function_or_development,low
+FTO,0,1702,0.11219,1497,1497,Protein-only,0.30178,1,single_source,Known_T2D_GWAS_or_genetic_risk,low
+NDUFS1,0,1713,0.10512,1373,1373,Protein-only,0.34389,1,single_source,Mitochondrial_OXPHOS_complex_I,low
+TCF7L2,0,1721,0.10138,1319,1319,Genomic-only,0.43446,1,single_source,Known_T2D_GWAS_or_genetic_risk,low
+PIK3R1,0,1771,0.06094,1640,1640,Protein-only,0.24527,1,single_source,Glucose_metabolism_transport_or_insulin_secretion,low
+PCSK1,0,1800,0.02119,1742,1742,DNABERT-2 multimodal,0.18998,2,moderate_two_source,Beta_cell_function_or_development; Glucose_metabolism_transport_or_insulin_secretion,low

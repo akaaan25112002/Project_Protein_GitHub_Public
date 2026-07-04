@@ -1,0 +1,7 @@
+audit_type,n_unique_items,n_duplicated_items,n_rows_in_duplicated_items,notes
+duplicate_gene_symbol,1806,0,0,Duplicate gene symbols across the full candidate table.
+duplicate_feature_rows_Protein_ProtBERT,1806,0,0,Rounded feature vectors hashed at 6 decimals.
+duplicate_feature_rows_Handcrafted_genomic,1805,1,2,Rounded feature vectors hashed at 6 decimals.
+duplicate_feature_rows_DNABERT2_genomic,1805,1,2,Rounded feature vectors hashed at 6 decimals.
+duplicate_feature_rows_Handcrafted_multimodal,1806,0,0,Rounded feature vectors hashed at 6 decimals.
+duplicate_feature_rows_DNABERT2_multimodal,1806,0,0,Rounded feature vectors hashed at 6 decimals.

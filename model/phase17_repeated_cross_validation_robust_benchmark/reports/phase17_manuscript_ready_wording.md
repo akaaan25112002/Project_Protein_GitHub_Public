@@ -1,0 +1,12 @@
+## Methods - Repeated Cross-Validation
+
+To further reduce dependence on a single held-out split, repeated stratified cross-validation was performed on the full shared multimodal dataset. The original training, validation and test partitions were recombined, and 5 repeats of 5-fold stratified cross-validation were applied, producing 25 paired evaluations. Within each outer fold, an inner validation split was used for threshold selection by maximizing MCC, and the selected threshold was applied to the held-out fold. The same fold assignments were used across all model configurations, allowing paired statistical comparison of performance differences.
+
+## Results - Repeated Cross-Validation
+
+Repeated cross-validation confirmed the overall pattern observed in the held-out evaluation. Protein-containing models consistently outperformed the genomic-only baseline, supporting protein embeddings as the dominant predictive signal. The highest mean PR-AUC was obtained by DNABERT-2 multimodal (0.716 ± 0.024), while the highest mean MCC was obtained by DNABERT-2 multimodal (0.331 ± 0.052). Paired tests were used to compare DNABERT-2 multimodal and handcrafted multimodal models across the same folds. These tests provide a more conservative assessment of whether the numerical differences are robust across data partitions.
+
+## Discussion - Robustness Interpretation
+
+The repeated cross-validation analysis strengthens the reliability of the benchmark by showing whether model behaviour is stable across many paired train-test partitions. This is important because the performance differences among the protein-only, handcrafted multimodal and DNABERT-2 multimodal models are modest. Therefore, the conclusions should emphasize robust trends rather than single-split winners. If DNABERT-2 shows only small or non-significant paired gains, it should remain framed as a ranking extension rather than a clearly superior model. If multimodal models improve MCC or specificity relative to protein-only models, this supports the interpretation that genomic information contributes complementary decision-level signal even when aggregate ranking gains are limited.
+

@@ -1,0 +1,20 @@
+gene,Insulin signalling,Beta-cell function,Glucose metabolism,Mitochondrial function,Oxidative phosphorylation,Pancreatic development,T2D GWAS / genetic risk,Glucose transport,Incretin signalling / diabetes pharmacology,Calcium signalling / insulin secretion,Insulin secretion,Lipid metabolism
+INSR,1,0,1,0,0,0,0,0,0,0,0,0
+PDX1,0,1,0,0,0,1,0,0,0,0,0,0
+NEUROD1,0,1,0,0,0,1,0,0,0,0,0,0
+HHEX,0,1,0,0,0,0,1,0,0,0,0,0
+IGF2BP2,0,1,0,0,0,0,1,0,0,0,0,0
+DPP4,0,0,1,0,0,0,0,0,1,0,0,0
+SLC5A1,0,0,1,0,0,0,0,1,0,0,0,0
+CACNA1D,0,1,0,0,0,0,0,0,0,1,0,0
+KCNJ11,0,1,0,0,0,0,0,0,0,0,1,0
+ABCC8,0,1,0,0,0,0,0,0,0,0,1,0
+GAD1,0,1,0,0,0,0,0,0,0,0,0,0
+MTNR1B,0,1,0,0,0,0,0,0,0,0,0,0
+NDUFB2,0,0,0,1,1,0,0,0,0,0,0,0
+NDUFV1,0,0,0,1,1,0,0,0,0,0,0,0
+NDUFA7,0,0,0,1,1,0,0,0,0,0,0,0
+NDUFB1,0,0,0,1,1,0,0,0,0,0,0,0
+NDUFB3,0,0,0,1,1,0,0,0,0,0,0,0
+NDUFA13,0,0,0,1,1,0,0,0,0,0,0,0
+SCD5,0,0,0,0,0,0,0,0,0,0,0,1

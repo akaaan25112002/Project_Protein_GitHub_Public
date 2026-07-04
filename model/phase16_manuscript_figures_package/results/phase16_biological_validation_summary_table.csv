@@ -1,0 +1,6 @@
+theme,observed_top100,random_mean,fdr,model_group
+Known T2D genes,10,5.241,0.064,Multimodal
+Beta-cell genes,7,3.413,0.0791,Multimodal
+Mito/OXPHOS genes,7,3.694,0.1158,Handcrafted multimodal
+Mito/OXPHOS genes,6,3.694,0.3058,DNABERT-2 multimodal
+Mito/OXPHOS genes,8,3.694,0.064,Protein-only

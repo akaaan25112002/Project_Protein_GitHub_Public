@@ -1,0 +1,17 @@
+gene_list_name,n_input_genes,n_significant_terms,n_t2d_relevant_terms,best_p_value,top_term,top_t2d_relevant_term,top_matched_groups
+Multimodal_handcrafted_TP,86,175,41,0.0,respiratory chain complex I,respiratory chain complex I,mitochondrial_function;oxidative_phosphorylation
+Multimodal_DNABERT2_TP,88,148,38,0.0,active monoatomic ion transmembrane transporter activity,NADH dehydrogenase (ubiquinone) activity,mitochondrial_function;oxidative_phosphorylation
+Protein_only_ProtBERT_SW_TP,92,148,34,0.0,NADH dehydrogenase complex,NADH dehydrogenase complex,mitochondrial_function;oxidative_phosphorylation
+Protein_only_ProtBERT_SW_top100,100,106,29,0.0,NADH dehydrogenase (ubiquinone) activity,NADH dehydrogenase (ubiquinone) activity,mitochondrial_function;oxidative_phosphorylation
+Multimodal_handcrafted_top100,100,103,27,0.0,NADH dehydrogenase complex,NADH dehydrogenase complex,mitochondrial_function;oxidative_phosphorylation
+Multimodal_DNABERT2_top100,100,74,25,2e-05,NADH dehydrogenase complex,NADH dehydrogenase complex,mitochondrial_function;oxidative_phosphorylation
+DNABERT2_moved_out_top50,11,37,19,0.00017,respiratory chain complex I,respiratory chain complex I,mitochondrial_function;oxidative_phosphorylation
+DNABERT2_moved_out_top100,13,2,2,0.04201,NADH dehydrogenase complex,NADH dehydrogenase complex,mitochondrial_function;oxidative_phosphorylation
+DNABERT2_moved_in_top50,11,9,0,0.00242,inhibitory synapse,,
+Protein_only_ProtBERT_SW_FN,43,3,0,0.03424,"negative regulation of nucleotide-binding domain, leucine rich repeat containing receptor signaling pathway",,
+Multimodal_handcrafted_FN,49,3,0,0.04796,Anterior uveitis,,
+Multimodal_DNABERT2_FN,47,3,0,0.03798,regulation of leukocyte proliferation,,
+Protein_only_ProtBERT_SW_FP,49,0,0,,,,
+Multimodal_handcrafted_FP,40,0,0,,,,
+Multimodal_DNABERT2_FP,42,0,0,,,,
+DNABERT2_moved_in_top100,13,0,0,,,,

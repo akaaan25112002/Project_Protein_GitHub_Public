@@ -1,0 +1,401 @@
+model_name,display_name,rank_desc,gene_symbol,true_label,mean_oof_score,percentile_rank,n_curated_pathways,curated_pathways,n_external_sets,external_sets,is_pathway_supported,is_external_supported
+DNABERT2_multimodal,DNABERT-2 multimodal,1,ATP4B,1,0.897893,1.0,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,2,GRM8,1,0.892079,0.999446,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,3,NEXMIF,0,0.890804,0.998892,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,4,HAUS6,0,0.889759,0.998338,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,5,ZC3H13,1,0.8817,0.997784,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,6,RBM27,1,0.879396,0.99723,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,7,PNLIP,0,0.877368,0.996676,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,8,MLXIPL,1,0.876813,0.996122,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,9,DENND2A,1,0.876118,0.995568,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,10,RAET1L,1,0.875945,0.995014,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,11,FEZF1,1,0.873884,0.99446,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,12,NSD3,1,0.87223,0.993906,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,13,LRRIQ1,0,0.86975,0.993352,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,14,JAG1,1,0.866804,0.992798,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,15,ETS1,1,0.866114,0.992244,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,16,MTOR,1,0.86559,0.99169,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,17,B4GALNT1,1,0.865224,0.991136,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,18,THEMIS,1,0.865038,0.990582,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,19,LRMDA,0,0.861204,0.990028,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,20,CRTC1,1,0.860336,0.989474,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,21,ZBTB38,1,0.859332,0.98892,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,22,EBAG9,1,0.856759,0.988366,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,23,NKX6-1,1,0.855244,0.987812,1,Beta_cell_function_development,1,Beta_cell_function_or_development,True,True
+DNABERT2_multimodal,DNABERT-2 multimodal,24,CAPN10,1,0.854779,0.987258,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,25,VWA5B1,1,0.85412,0.986704,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,26,AKAP11,1,0.854007,0.98615,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,27,EMILIN2,1,0.85384,0.985596,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,28,NDUFA7,1,0.852825,0.985042,1,Mitochondrial_complex_I_OXPHOS,1,Mitochondrial_OXPHOS_complex_I,True,True
+DNABERT2_multimodal,DNABERT-2 multimodal,29,COQ5,1,0.852439,0.984488,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,30,DNAH11,1,0.851336,0.983934,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,31,DTYMK,1,0.851334,0.98338,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,32,HCN4,1,0.850771,0.982825,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,33,AOC1,1,0.845116,0.982271,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,34,COLGALT1,1,0.844314,0.981717,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,35,ZNF747,1,0.843886,0.981163,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,36,VDR,1,0.843543,0.980609,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,37,ZNF329,1,0.842604,0.980055,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,38,HHIPL1,1,0.841146,0.979501,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,39,CACNA2D3,1,0.84096,0.978947,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,40,IL23R,1,0.840915,0.978393,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,41,GCKR,1,0.840017,0.977839,2,Glucose_metabolism_transport; Known_T2D_GWAS_loci,2,Glucose_metabolism_transport_or_insulin_secretion; Known_T2D_GWAS_or_genetic_risk,True,True
+DNABERT2_multimodal,DNABERT-2 multimodal,42,ATP13A1,1,0.839118,0.977285,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,43,USP48,1,0.839094,0.976731,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,44,BMAL1,1,0.838225,0.976177,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,45,METTL25B,1,0.837367,0.975623,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,46,GMDS,1,0.836825,0.975069,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,47,SEPTIN4,0,0.835284,0.974515,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,48,RLF,1,0.835019,0.973961,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,49,CCDC57,1,0.83446,0.973407,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,50,HMGCR,1,0.831193,0.972853,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,51,ARAP1,1,0.830863,0.972299,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,52,TLCD4,1,0.830666,0.971745,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,53,APOL5,1,0.829959,0.971191,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,54,LRRC74A,1,0.828606,0.970637,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,55,NDUFB11,1,0.827874,0.970083,1,Mitochondrial_complex_I_OXPHOS,1,Mitochondrial_OXPHOS_complex_I,True,True
+DNABERT2_multimodal,DNABERT-2 multimodal,56,TAF11L9,1,0.827847,0.969529,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,57,IGF2BP3,0,0.827039,0.968975,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,58,DNAJC10,1,0.826198,0.968421,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,59,ZNF689,1,0.824096,0.967867,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,60,ANKMY1,0,0.824001,0.967313,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,61,CDC123,1,0.823608,0.966759,1,Known_T2D_GWAS_loci,1,Known_T2D_GWAS_or_genetic_risk,True,True
+DNABERT2_multimodal,DNABERT-2 multimodal,62,NBPF9,1,0.823208,0.966205,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,63,RRP8,1,0.823167,0.965651,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,64,KMT5B,0,0.822839,0.965097,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,65,RGS18,1,0.822725,0.964543,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,66,LINGO2,1,0.822362,0.963989,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,67,JPT2,0,0.821643,0.963435,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,68,TAF2,1,0.821141,0.962881,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,69,SSX5,1,0.820363,0.962327,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,70,MYO5C,1,0.820303,0.961773,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,71,C4ORF36,1,0.820207,0.961219,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,72,NBPF3,0,0.820145,0.960665,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,73,ZNF544,1,0.819365,0.960111,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,74,TSC22D2,1,0.819229,0.959557,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,75,ZC3H12C,0,0.817649,0.959003,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,76,FABP9,1,0.817562,0.958449,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,77,ACADS,1,0.817556,0.957895,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,78,PCNT,1,0.817513,0.957341,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,79,PLA2G3,1,0.81714,0.956787,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,80,SYDE2,0,0.81689,0.956233,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,81,OCRL,1,0.816819,0.955679,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,82,C12ORF43,1,0.81567,0.955125,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,83,TECPR2,1,0.814492,0.954571,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,84,CCDC18,1,0.813647,0.954017,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,85,RNF216,1,0.813422,0.953463,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,86,PHGDH,1,0.813352,0.952909,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,87,SMARCAD1,0,0.812893,0.952355,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,88,KIF16B,1,0.812447,0.951801,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,89,ZNF462,1,0.811528,0.951247,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,90,CCDC188,1,0.81134,0.950693,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,91,TNRC6A,1,0.8104,0.950139,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,92,DNMT3A,0,0.809989,0.949584,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,93,QSOX1,1,0.809702,0.94903,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,94,SLC2A7,1,0.809604,0.948476,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,95,NDUFV1,0,0.808844,0.947922,1,Mitochondrial_complex_I_OXPHOS,1,Mitochondrial_OXPHOS_complex_I,True,True
+DNABERT2_multimodal,DNABERT-2 multimodal,96,NPIPA8,1,0.806979,0.947368,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,97,P2RY12,1,0.80661,0.946814,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,98,NDUFA12,0,0.806018,0.94626,1,Mitochondrial_complex_I_OXPHOS,1,Mitochondrial_OXPHOS_complex_I,True,True
+DNABERT2_multimodal,DNABERT-2 multimodal,99,HMGA1,1,0.805788,0.945706,0,,0,,False,False
+DNABERT2_multimodal,DNABERT-2 multimodal,100,EML5,1,0.804828,0.945152,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,1,IL17REL,0,0.803938,1.0,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,2,SYTL2,1,0.79348,0.999446,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,3,GPC2,1,0.785396,0.998892,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,4,GPAT4,1,0.78277,0.998338,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,5,SLC39A11,1,0.780371,0.997784,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,6,COBLL1,1,0.773798,0.99723,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,7,VDR,1,0.765377,0.996676,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,8,PTCHD4,1,0.760799,0.996122,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,9,DTYMK,1,0.759596,0.995568,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,10,ACVR2A,1,0.759319,0.995014,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,11,ESR1,1,0.756962,0.99446,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,12,FABP9,1,0.749987,0.993906,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,13,FAF1,1,0.747949,0.993352,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,14,B4GALNT1,1,0.745977,0.992798,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,15,ARID3B,0,0.742245,0.992244,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,16,ZNF879,1,0.7405,0.99169,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,17,MRPS14,1,0.740281,0.991136,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,18,ATP5MC1,0,0.739291,0.990582,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,19,ATP4B,1,0.736772,0.990028,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,20,CLIC5,1,0.736556,0.989474,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,21,HCN4,1,0.734337,0.98892,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,22,AKAP17A,1,0.731022,0.988366,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,23,NBPF3,0,0.728801,0.987812,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,24,KRT36,1,0.725652,0.987258,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,25,TAF11L9,1,0.723342,0.986704,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,26,ACVR1C,0,0.721811,0.98615,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,27,AKAP11,1,0.718887,0.985596,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,28,PTGFRN,1,0.717853,0.985042,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,29,PPP2R2A,1,0.717361,0.984488,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,30,NDUFA12,0,0.716567,0.983934,1,Mitochondrial_complex_I_OXPHOS,1,Mitochondrial_OXPHOS_complex_I,True,True
+Genomic_only_K3K4Basic,Genomic-only,31,CCDC152,0,0.716548,0.98338,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,32,SLC22A10,1,0.71591,0.982825,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,33,CDH24,1,0.715884,0.982271,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,34,FAM90A26,1,0.714283,0.981717,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,35,ZC3H13,1,0.712899,0.981163,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,36,DNMT3A,0,0.712132,0.980609,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,37,RGS6,1,0.711313,0.980055,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,38,CALCR,0,0.710778,0.979501,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,39,NPC1,1,0.708792,0.978947,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,40,PIP4K2A,1,0.707466,0.978393,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,41,SGK2,1,0.707099,0.977839,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,42,CIMIP3,0,0.706923,0.977285,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,43,SEC14L3,1,0.705566,0.976731,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,44,HHIP,0,0.703125,0.976177,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,45,HNF1B,1,0.702751,0.975623,1,Beta_cell_function_development,1,Beta_cell_function_or_development,True,True
+Genomic_only_K3K4Basic,Genomic-only,46,SLC38A11,1,0.701492,0.975069,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,47,OSBPL5,1,0.701397,0.974515,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,48,CDC123,1,0.700545,0.973961,1,Known_T2D_GWAS_loci,1,Known_T2D_GWAS_or_genetic_risk,True,True
+Genomic_only_K3K4Basic,Genomic-only,49,CEP43,0,0.699052,0.973407,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,50,PIGT,1,0.696928,0.972853,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,51,SIGLEC9,1,0.695891,0.972299,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,52,ARHGAP19,1,0.695159,0.971745,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,53,SMARCAD1,0,0.695103,0.971191,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,54,COA6,1,0.693656,0.970637,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,55,RCCD1,1,0.692916,0.970083,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,56,COXFA4,1,0.692193,0.969529,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,57,RBM27,1,0.690784,0.968975,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,58,CCDC197,0,0.690596,0.968421,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,59,LORICRIN,1,0.690577,0.967867,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,60,MDM4,1,0.68985,0.967313,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,61,MTOR,1,0.6897,0.966759,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,62,PLA2G3,1,0.689514,0.966205,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,63,RNF216,1,0.688765,0.965651,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,64,CAGE1,1,0.688647,0.965097,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,65,TAF2,1,0.688622,0.964543,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,66,IGSF23,1,0.688401,0.963989,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,67,PCDHGB5,1,0.687464,0.963435,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,68,MDGA2,1,0.686971,0.962881,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,69,SMC1A,0,0.686754,0.962327,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,70,PCDHGB4,1,0.685321,0.961773,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,71,TSPEAR,1,0.685218,0.961219,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,72,CCN5,1,0.685095,0.960665,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,73,PNLIP,0,0.68472,0.960111,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,74,CAPN10,1,0.684508,0.959557,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,75,INTS2,1,0.683635,0.959003,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,76,SEPTIN3,1,0.682741,0.958449,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,77,GMDS,1,0.682499,0.957895,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,78,MS4A14,0,0.682293,0.957341,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,79,PPP4R3C,1,0.68201,0.956787,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,80,P2RY12,1,0.681738,0.956233,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,81,CACNA2D3,1,0.681485,0.955679,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,82,EIF1,1,0.680888,0.955125,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,83,THADA,1,0.680528,0.954571,1,Known_T2D_GWAS_loci,1,Known_T2D_GWAS_or_genetic_risk,True,True
+Genomic_only_K3K4Basic,Genomic-only,84,PACRG,1,0.68043,0.954017,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,85,SSR1,1,0.680167,0.953463,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,86,TMEM230,1,0.680108,0.952909,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,87,OR4D1,0,0.680103,0.952355,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,88,ATAD2,0,0.679247,0.951801,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,89,IL12RB1,1,0.678611,0.951247,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,90,DNAH11,1,0.678202,0.950693,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,91,DYNC2I1,1,0.67757,0.950139,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,92,DENND2A,1,0.676987,0.949584,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,93,RRP12,0,0.676817,0.94903,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,94,KMT5B,0,0.67632,0.948476,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,95,OCIAD2,1,0.675393,0.947922,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,96,ETS1,1,0.674503,0.947368,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,97,UBE2E2,1,0.673931,0.946814,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,98,MRC2,0,0.672424,0.94626,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,99,ZC3H12C,0,0.671515,0.945706,0,,0,,False,False
+Genomic_only_K3K4Basic,Genomic-only,100,COQ5,1,0.671228,0.945152,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,1,VDR,1,0.909922,1.0,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,2,ATP4B,1,0.905314,0.999446,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,3,GRM8,1,0.900463,0.998892,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,4,ZC3H13,1,0.889827,0.998338,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,5,GMDS,1,0.877997,0.997784,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,6,NEXMIF,0,0.875238,0.99723,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,7,CACNA2D3,1,0.873564,0.996676,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,8,EMILIN2,1,0.872315,0.996122,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,9,NSD3,1,0.868825,0.995568,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,10,GCKR,1,0.865136,0.995014,2,Glucose_metabolism_transport; Known_T2D_GWAS_loci,2,Glucose_metabolism_transport_or_insulin_secretion; Known_T2D_GWAS_or_genetic_risk,True,True
+Handcrafted_multimodal,Handcrafted multimodal,11,FEZF1,1,0.864647,0.99446,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,12,COBLL1,1,0.85237,0.993906,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,13,ETS1,1,0.851915,0.993352,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,14,B4GALNT1,1,0.84904,0.992798,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,15,ZNF747,1,0.848617,0.992244,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,16,HAUS6,0,0.847398,0.99169,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,17,MLXIPL,1,0.845482,0.991136,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,18,BMAL1,1,0.844975,0.990582,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,19,METTL25B,1,0.844094,0.990028,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,20,GPC5,1,0.843141,0.989474,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,21,DENND2A,1,0.841228,0.98892,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,22,COLGALT1,1,0.839795,0.988366,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,23,PLA2G3,1,0.838938,0.987812,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,24,ZBTB39,1,0.838043,0.987258,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,25,CCDC188,1,0.837805,0.986704,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,26,HHIPL1,1,0.836311,0.98615,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,27,LRMDA,0,0.831914,0.985596,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,28,NDUFV1,0,0.83123,0.985042,1,Mitochondrial_complex_I_OXPHOS,1,Mitochondrial_OXPHOS_complex_I,True,True
+Handcrafted_multimodal,Handcrafted multimodal,29,IGF2BP3,0,0.830034,0.984488,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,30,SEPTIN4,0,0.828629,0.983934,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,31,TAF2,1,0.828458,0.98338,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,32,KCNK16,1,0.828366,0.982825,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,33,ATP13A1,1,0.828068,0.982271,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,34,WASHC2C,1,0.82789,0.981717,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,35,ZNF431,1,0.827801,0.981163,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,36,TOGARAM1,1,0.827528,0.980609,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,37,THEMIS,1,0.826793,0.980055,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,38,SMARCAD1,0,0.826467,0.979501,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,39,EBAG9,1,0.826383,0.978947,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,40,LRRIQ1,0,0.825994,0.978393,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,41,PRSS37,1,0.824704,0.977839,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,42,TLCD4,1,0.822766,0.977285,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,43,PNLIP,0,0.822467,0.976731,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,44,MARCHF10,0,0.821069,0.976177,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,45,KMT5B,0,0.819654,0.975623,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,46,DNAH11,1,0.819432,0.975069,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,47,SLC2A7,1,0.819292,0.974515,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,48,VN1R2,1,0.818785,0.973961,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,49,RBM27,1,0.816113,0.973407,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,50,EPHA7,1,0.816034,0.972853,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,51,SHQ1,1,0.815986,0.972299,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,52,TBC1D3,1,0.815602,0.971745,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,53,NKX6-1,1,0.815379,0.971191,1,Beta_cell_function_development,1,Beta_cell_function_or_development,True,True
+Handcrafted_multimodal,Handcrafted multimodal,54,NLRC3,1,0.815343,0.970637,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,55,JAG1,1,0.815307,0.970083,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,56,CDC25A,1,0.815292,0.969529,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,57,COL23A1,0,0.814573,0.968975,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,58,PACRG,1,0.814445,0.968421,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,59,RGS18,1,0.814196,0.967867,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,60,ACADS,1,0.81344,0.967313,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,61,ANK1,1,0.812768,0.966759,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,62,SLCO4A1,1,0.812027,0.966205,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,63,RAET1L,1,0.811789,0.965651,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,64,IL17REL,0,0.811692,0.965097,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,65,PHGDH,1,0.810758,0.964543,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,66,ZNF462,1,0.810099,0.963989,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,67,OSBPL5,1,0.809872,0.963435,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,68,SYTL2,1,0.809679,0.962881,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,69,RLF,1,0.809387,0.962327,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,70,CDH24,1,0.809182,0.961773,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,71,ZC3H12C,0,0.806565,0.961219,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,72,EML5,1,0.806093,0.960665,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,73,HMGCR,1,0.805799,0.960111,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,74,MAGI2,1,0.804821,0.959557,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,75,ADAD1,1,0.80258,0.959003,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,76,FGFR4,1,0.802498,0.958449,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,77,CCDC57,1,0.802441,0.957895,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,78,E4F1,1,0.80196,0.957341,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,79,LIPH,1,0.801152,0.956787,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,80,HCN4,1,0.801131,0.956233,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,81,AOC1,1,0.800993,0.955679,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,82,LRRC74A,1,0.80073,0.955125,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,83,BPTF,1,0.800601,0.954571,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,84,TSC22D2,1,0.800326,0.954017,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,85,OCRL,1,0.799723,0.953463,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,86,ACSL1,1,0.799253,0.952909,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,87,TNRC6A,1,0.799246,0.952355,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,88,FADS2,1,0.799176,0.951801,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,89,SSX5,1,0.798069,0.951247,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,90,CLIC5,1,0.797081,0.950693,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,91,SEC14L3,1,0.796294,0.950139,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,92,BMF,0,0.796032,0.949584,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,93,DTYMK,1,0.795241,0.94903,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,94,ZNF329,1,0.79465,0.948476,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,95,NDUFB11,1,0.794551,0.947922,1,Mitochondrial_complex_I_OXPHOS,1,Mitochondrial_OXPHOS_complex_I,True,True
+Handcrafted_multimodal,Handcrafted multimodal,96,KCNB2,1,0.792476,0.947368,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,97,TAF11L9,1,0.792459,0.946814,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,98,RPAP1,0,0.792443,0.94626,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,99,MEOX2,1,0.792008,0.945706,0,,0,,False,False
+Handcrafted_multimodal,Handcrafted multimodal,100,SCAND3,1,0.790967,0.945152,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,1,NEXMIF,0,0.872624,1.0,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,2,GPC5,1,0.857847,0.999446,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,3,COL23A1,0,0.851496,0.998892,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,4,GRM8,1,0.845997,0.998338,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,5,FEZF1,1,0.84124,0.997784,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,6,GCKR,1,0.840578,0.99723,2,Glucose_metabolism_transport; Known_T2D_GWAS_loci,2,Glucose_metabolism_transport_or_insulin_secretion; Known_T2D_GWAS_or_genetic_risk,True,True
+Protein_only_ProtBERT_SW,Protein-only,7,MARCHF10,0,0.838059,0.996676,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,8,BPTF,1,0.837505,0.996122,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,9,ZNF747,1,0.835508,0.995568,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,10,PIM3,1,0.835159,0.995014,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,11,ATP4B,1,0.834172,0.99446,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,12,KCNK16,1,0.830498,0.993906,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,13,MLXIPL,1,0.82981,0.993352,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,14,CACNA2D3,1,0.828097,0.992798,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,15,MEF2C,0,0.827147,0.992244,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,16,ACADS,1,0.825742,0.99169,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,17,HMGA1,1,0.823014,0.991136,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,18,EML5,1,0.8227,0.990582,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,19,ZNF326,1,0.822118,0.990028,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,20,HAUS6,0,0.820168,0.989474,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,21,LRRC74A,1,0.819402,0.98892,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,22,FGFR4,1,0.818347,0.988366,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,23,VDR,1,0.818092,0.987812,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,24,SLC2A7,1,0.817316,0.987258,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,25,ZNF462,1,0.815075,0.986704,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,26,SCARB2,0,0.81491,0.98615,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,27,CAMK2B,0,0.814065,0.985596,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,28,CCDC188,1,0.813313,0.985042,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,29,TOGARAM1,1,0.812775,0.984488,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,30,PTGS2,1,0.812026,0.983934,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,31,RPAP1,0,0.811525,0.98338,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,32,THEMIS,1,0.811411,0.982825,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,33,GMDS,1,0.811081,0.982271,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,34,CRY2,0,0.810993,0.981717,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,35,ATP13A1,1,0.809104,0.981163,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,36,KRT77,1,0.808886,0.980609,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,37,EBAG9,1,0.808705,0.980055,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,38,TRIM66,1,0.806739,0.979501,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,39,NKX6-1,1,0.806466,0.978947,1,Beta_cell_function_development,1,Beta_cell_function_or_development,True,True
+Protein_only_ProtBERT_SW,Protein-only,40,COLGALT1,1,0.805417,0.978393,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,41,NBPF9,1,0.805061,0.977839,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,42,BMAL1,1,0.802842,0.977285,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,43,PRSS37,1,0.800864,0.976731,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,44,LIPH,1,0.798282,0.976177,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,45,PCBD1,1,0.797562,0.975623,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,46,ETS1,1,0.796322,0.975069,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,47,ZC3H13,1,0.796319,0.974515,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,48,METTL25B,1,0.796292,0.973961,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,49,JAG1,1,0.794861,0.973407,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,50,KCP,1,0.793197,0.972853,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,51,SARDH,1,0.791861,0.972299,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,52,LRRIQ1,0,0.791044,0.971745,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,53,EMILIN2,1,0.790656,0.971191,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,54,ZNF407,0,0.790142,0.970637,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,55,MEOX2,1,0.789181,0.970083,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,56,APOL5,1,0.788418,0.969529,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,57,GRP,1,0.787686,0.968975,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,58,LDB2,0,0.787591,0.968421,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,59,PFN3,1,0.787333,0.967867,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,60,FADS2,1,0.786928,0.967313,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,61,VWA5B1,1,0.785998,0.966759,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,62,TECTB,1,0.785732,0.966205,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,63,FGGY,1,0.784445,0.965651,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,64,NRXN3,1,0.78433,0.965097,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,65,FLACC1,1,0.783712,0.964543,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,66,MAGI1,1,0.78366,0.963989,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,67,ALOXE3,0,0.783209,0.963435,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,68,FGD5,1,0.782837,0.962881,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,69,RGS18,1,0.781927,0.962327,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,70,B4GALNT1,1,0.781925,0.961773,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,71,NRAP,0,0.781118,0.961219,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,72,WDR3,0,0.779757,0.960665,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,73,NLRC3,1,0.779746,0.960111,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,74,CSF1,1,0.779412,0.959557,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,75,ZNF541,1,0.779274,0.959003,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,76,ZNF431,1,0.77912,0.958449,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,77,NDUFV1,0,0.778761,0.957895,1,Mitochondrial_complex_I_OXPHOS,1,Mitochondrial_OXPHOS_complex_I,True,True
+Protein_only_ProtBERT_SW,Protein-only,78,POU5F1B,0,0.778388,0.957341,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,79,SEPTIN4,0,0.77765,0.956787,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,80,E4F1,1,0.7772,0.956233,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,81,ANK1,1,0.776318,0.955679,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,82,PDGFC,0,0.77382,0.955125,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,83,TSHZ2,1,0.772735,0.954571,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,84,DTYMK,1,0.772565,0.954017,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,85,EPHA7,1,0.771944,0.953463,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,86,SLC12A8,0,0.771358,0.952909,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,87,SMARCAD1,0,0.77103,0.952355,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,88,MYO5C,1,0.770952,0.951801,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,89,ACSL1,1,0.769729,0.951247,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,90,SDCBP,1,0.768628,0.950693,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,91,PNPLA3,0,0.768578,0.950139,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,92,RBM27,1,0.768511,0.949584,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,93,NPEPL1,1,0.76741,0.94903,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,94,GRID1,1,0.767297,0.948476,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,95,ARL15,1,0.766877,0.947922,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,96,HHIPL1,1,0.766805,0.947368,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,97,MAFF,1,0.766728,0.946814,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,98,GCK,1,0.766265,0.94626,5,Beta_cell_function_development; Glucose_metabolism_transport; Incretin_diabetes_pharmacology; Insulin_secretion_KATP_Ca; Known_T2D_GWAS_loci,4,Beta_cell_function_or_development; Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion; Known_T2D_GWAS_or_genetic_risk,True,True
+Protein_only_ProtBERT_SW,Protein-only,99,SCAND3,1,0.765859,0.945706,0,,0,,False,False
+Protein_only_ProtBERT_SW,Protein-only,100,ZFP64,0,0.765304,0.945152,0,,0,,False,False

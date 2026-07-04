@@ -1,0 +1,7 @@
+evidence_area,key_result,interpretation
+Statistical evidence,DNABERT-2 multimodal achieved the highest ROC-AUC=0.7568; ROC-AUC gain over handcrafted multimodal delta=0.0278.,"DNABERT-2 is the best global ranking extension, but PR-AUC improvement is not significant."
+Protein contribution,"Protein-only ROC-AUC=0.7274, PR-AUC=0.7433; close to multimodal performance.",Protein embeddings are the dominant predictive signal.
+Genomic contribution,Genomic-only ROC-AUC=0.6397; handcrafted multimodal significantly improves over genomic-only.,"Genomic sequence alone is weaker, but it adds complementary information in multimodal models."
+Biological validation,Handcrafted multimodal shows stronger mitochondrial/OXPHOS and curated T2D biological enrichment.,Handcrafted multimodal remains the stronger biologically interpretable model.
+DNABERT-2 behaviour,"DNABERT-2 moved several OXPHOS/glucose/T2D genes out of the top-ranked region, while moved-in genes showed weak/no T2D-relevant enrichment.",DNABERT-2 improves global ranking but weakens top-ranked biological concentration.
+Final model positioning,Official biologically validated model: ProtBERT-SW + K3/K4/Basic. Best ROC-AUC extension: ProtBERT-SW + DNABERT-2.,"The final framework is protein-dominant, genomically supported, biologically validated, and extensible to DNA foundation models."

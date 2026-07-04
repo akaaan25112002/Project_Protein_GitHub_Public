@@ -1,0 +1,5 @@
+cross_modality_group,n,percentage
+both_correct,15,33.33333333333333
+genomic_correct_protein_wrong,10,22.22222222222222
+protein_correct_genomic_wrong,10,22.22222222222222
+both_wrong,10,22.22222222222222

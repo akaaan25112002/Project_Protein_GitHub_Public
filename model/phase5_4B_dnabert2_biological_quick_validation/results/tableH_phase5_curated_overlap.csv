@@ -1,0 +1,15 @@
+query_gene_list,curated_set,n_query_genes,n_curated_genes,n_overlap,overlap_fraction_query,overlap_genes
+phase5_true_positives,insulin_secretion_beta_cell,88,19,8,0.0909,ABCC8;CACNA1D;DPP4;GAD1;INSR;KCNJ11;NEUROD1;PDX1
+phase5_true_positives,mitochondrial_oxphos,88,20,8,0.0909,NDUFA2;NDUFA7;NDUFA9;NDUFB1;NDUFB2;NDUFB3;NDUFC2;NDUFV1
+phase5_true_positives,known_T2D_GWAS_or_monogenic_related,88,28,7,0.0795,ABCC8;HHEX;IGF2BP2;INSR;KCNJ11;NEUROD1;PDX1
+phase5_top50,known_T2D_GWAS_or_monogenic_related,50,28,5,0.1,HHEX;IGF2BP2;INSR;NEUROD1;PDX1
+phase5_top50,insulin_secretion_beta_cell,50,19,5,0.1,CACNA1D;GAD1;INSR;NEUROD1;PDX1
+phase5_false_negatives,known_T2D_GWAS_or_monogenic_related,47,28,3,0.0638,MTNR1B;PAX4;THADA
+phase5_top50,mitochondrial_oxphos,50,20,2,0.04,NDUFB2;NDUFV1
+phase5_true_positives,glucose_metabolism_transport,88,18,2,0.0227,SLC5A1;SLC5A2
+phase5_lost_vs_phase3,known_T2D_GWAS_or_monogenic_related,14,28,1,0.0714,MTNR1B
+phase5_lost_vs_phase3,mitochondrial_oxphos,14,20,1,0.0714,NDUFA13
+phase5_false_negatives,glucose_metabolism_transport,47,18,1,0.0213,G6PC2
+phase5_false_negatives,mitochondrial_oxphos,47,20,1,0.0213,NDUFA13
+phase5_top50,lipid_metabolism_adipose,50,18,1,0.02,SCD5
+phase5_true_positives,lipid_metabolism_adipose,88,18,1,0.0114,SCD5

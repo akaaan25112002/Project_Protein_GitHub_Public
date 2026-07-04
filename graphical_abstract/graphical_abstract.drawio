@@ -1,0 +1,73 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="sXw1selG929T6kRNhs5e">
+    <mxGraphModel dx="1455" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="003hSfcaSNz73O1TOhQG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="003hSfcaSNz73O1TOhQG-1" target="003hSfcaSNz73O1TOhQG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-1" value="&lt;b&gt;Candidate Universe&lt;/b&gt;&lt;div&gt;&lt;div&gt;T2D current-positive genes/proteins&lt;/div&gt;&lt;div&gt;Background-labelled candidates&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="003hSfcaSNz73O1TOhQG-2" target="003hSfcaSNz73O1TOhQG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-2" value="&lt;b&gt;Sequence Inputs&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Protein sequences&lt;/div&gt;&lt;div&gt;Genomic regulatory sequences&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="003hSfcaSNz73O1TOhQG-3" target="003hSfcaSNz73O1TOhQG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-3" value="&lt;b&gt;Feature Representations&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Protein embeddings&lt;/div&gt;&lt;div&gt;Handcrafted genomic descriptors&lt;/div&gt;&lt;div&gt;DNABERT-2 genomic embeddings&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="003hSfcaSNz73O1TOhQG-4" target="003hSfcaSNz73O1TOhQG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-4" value="&lt;b&gt;Modeling&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Genomic-only models&lt;/div&gt;&lt;div&gt;Protein-only models&lt;/div&gt;&lt;div&gt;Multimodal fusion models&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="240" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="003hSfcaSNz73O1TOhQG-5" target="003hSfcaSNz73O1TOhQG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-5" value="&lt;b&gt;Evaluation&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Repeated cross-validation&lt;/div&gt;&lt;div&gt;Paired statistical testing&lt;/div&gt;&lt;div&gt;BH-FDR correction&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="240" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="003hSfcaSNz73O1TOhQG-6" target="003hSfcaSNz73O1TOhQG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-6" value="&lt;b&gt;Leakage &amp;amp; Bias Audit&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Duplicate checks&lt;/div&gt;&lt;div&gt;Near-duplicate audit&lt;/div&gt;&lt;div&gt;Nuisance-feature controls&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="420" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="003hSfcaSNz73O1TOhQG-7" target="003hSfcaSNz73O1TOhQG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-7" value="&lt;b&gt;Top-K Ranking Utility&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Top-K current-positive recovery&lt;/div&gt;&lt;div&gt;Random-baseline calibration&lt;/div&gt;&lt;div&gt;Candidate prioritization&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="420" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="003hSfcaSNz73O1TOhQG-8" target="003hSfcaSNz73O1TOhQG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-8" value="&lt;b&gt;Biological Validation&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;T2D-relevant biological themes&lt;/div&gt;&lt;div&gt;Beta-cell biology&lt;/div&gt;&lt;div&gt;Insulin and glucose pathways&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="420" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-9" value="&lt;b&gt;Final Output&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Ranked T2D candidate genes&lt;/div&gt;&lt;div&gt;Interpretable evidence&lt;/div&gt;&lt;div&gt;Submission-ready framework&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-20" value="Key message: protein-derived representations provide strong prioritization signal, genomic representations add complementary support, and robustness audits reduce overclaiming.&#xa;Output supports gene/protein prioritization and hypothesis generation, not clinical diagnosis or causal inference." style="text;whiteSpace=wrap;verticalAlign=middle;align=center;fontStyle=2;fontSize=13;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="550" width="1080" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="140" width="1320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-18" value="Bias-Audited Multimodal Sequence-Based Framework for T2D Gene/Protein Prioritization" style="text;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;fontSize=24;" vertex="1" parent="003hSfcaSNz73O1TOhQG-21">
+          <mxGeometry width="1320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="003hSfcaSNz73O1TOhQG-19" value="Gene/protein-level prioritization — not patient-level diagnosis" style="text;whiteSpace=wrap;verticalAlign=middle;align=center;fontSize=16;" vertex="1" parent="003hSfcaSNz73O1TOhQG-21">
+          <mxGeometry y="30" width="1320" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

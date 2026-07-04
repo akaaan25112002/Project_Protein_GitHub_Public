@@ -1,0 +1,11 @@
+model_key,top_n,theme,observed_count,random_mean,random_sd,enrichment_ratio,empirical_p,fdr_p,claim_strength,calibrated_interpretation
+Multimodal_handcrafted,100,mitochondrial_function,7,3.694,1.5161,1.895,0.038,0.1158,Nominal / FDR-borderline,"Can be described as supportive or hypothesis-generating evidence, but not as confirmed enrichment after correction."
+Multimodal_handcrafted,100,oxidative_phosphorylation,7,3.694,1.5161,1.895,0.038,0.1158,Nominal / FDR-borderline,"Can be described as supportive or hypothesis-generating evidence, but not as confirmed enrichment after correction."
+Multimodal_DNABERT2,100,mitochondrial_function,6,3.694,1.5161,1.6243,0.1299,0.3058,Descriptive only,Observed count should be described descriptively and not claimed as enriched.
+Multimodal_DNABERT2,100,oxidative_phosphorylation,6,3.694,1.5161,1.6243,0.1299,0.3058,Descriptive only,Observed count should be described descriptively and not claimed as enriched.
+Protein_only_ProtBERT_SW,100,mitochondrial_function,8,3.694,1.5161,2.1657,0.006,0.064,Nominal / FDR-borderline,"Can be described as supportive or hypothesis-generating evidence, but not as confirmed enrichment after correction."
+Protein_only_ProtBERT_SW,100,oxidative_phosphorylation,8,3.694,1.5161,2.1657,0.006,0.064,Nominal / FDR-borderline,"Can be described as supportive or hypothesis-generating evidence, but not as confirmed enrichment after correction."
+Multimodal_handcrafted,100,known_t2d_gwas_or_monogenic,10,5.241,1.7709,1.908,0.01,0.064,Nominal / FDR-borderline,"Can be described as supportive or hypothesis-generating evidence, but not as confirmed enrichment after correction."
+Multimodal_DNABERT2,100,known_t2d_gwas_or_monogenic,10,5.241,1.7709,1.908,0.01,0.064,Nominal / FDR-borderline,"Can be described as supportive or hypothesis-generating evidence, but not as confirmed enrichment after correction."
+Multimodal_handcrafted,100,beta_cell_biology,7,3.413,1.3958,2.051,0.019,0.0791,Nominal / FDR-borderline,"Can be described as supportive or hypothesis-generating evidence, but not as confirmed enrichment after correction."
+Multimodal_DNABERT2,100,beta_cell_biology,7,3.413,1.3958,2.051,0.019,0.0791,Nominal / FDR-borderline,"Can be described as supportive or hypothesis-generating evidence, but not as confirmed enrichment after correction."

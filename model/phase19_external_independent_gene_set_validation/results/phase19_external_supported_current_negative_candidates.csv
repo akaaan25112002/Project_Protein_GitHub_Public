@@ -1,0 +1,177 @@
+sample_index,gene_symbol,true_label,mean_oof_score,sd_oof_score,n_oof_predictions,model_name,rank_desc,percentile_rank,display_name,external_sets,n_external_sets,is_current_negative,is_current_positive
+268,NDUFV1,0,0.808844,0.037659,5,DNABERT2_multimodal,95,0.947922,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+585,NDUFA12,0,0.806018,0.030543,5,DNABERT2_multimodal,98,0.94626,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+628,NDUFB10,0,0.76245,0.041657,5,DNABERT2_multimodal,198,0.890859,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+514,NDUFB5,0,0.700973,0.068433,5,DNABERT2_multimodal,354,0.804432,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+810,GIPR,0,0.679566,0.044854,5,DNABERT2_multimodal,408,0.774515,DNABERT-2 multimodal,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion; Known_T2D_GWAS_or_genetic_risk,3,True,False
+607,NDUFA9,0,0.672797,0.04792,5,DNABERT2_multimodal,428,0.763435,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+403,NDUFA10,0,0.661107,0.06731,5,DNABERT2_multimodal,456,0.747922,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+727,NDUFS7,0,0.613066,0.043973,5,DNABERT2_multimodal,591,0.67313,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+328,NDUFB4,0,0.610561,0.057368,5,DNABERT2_multimodal,596,0.67036,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+320,NDUFB8,0,0.597424,0.072656,5,DNABERT2_multimodal,633,0.649861,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+1187,NDUFS8,0,0.550146,0.061338,5,DNABERT2_multimodal,762,0.578393,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+829,MTNR1B,0,0.548154,0.054049,5,DNABERT2_multimodal,768,0.575069,DNABERT-2 multimodal,Beta_cell_function_or_development; Known_T2D_GWAS_or_genetic_risk,2,True,False
+19,PROX1,0,0.540032,0.038278,5,DNABERT2_multimodal,787,0.564543,DNABERT-2 multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+1570,GLIS3,0,0.482672,0.085378,5,DNABERT2_multimodal,939,0.480332,DNABERT-2 multimodal,Beta_cell_function_or_development; Known_T2D_GWAS_or_genetic_risk,2,True,False
+324,TSPAN8,0,0.465327,0.09427,5,DNABERT2_multimodal,992,0.45097,DNABERT-2 multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+938,KCNQ1,0,0.446832,0.063131,5,DNABERT2_multimodal,1040,0.424377,DNABERT-2 multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+684,NDUFV3,0,0.43357,0.105289,5,DNABERT2_multimodal,1075,0.404986,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+619,NDUFS5,0,0.425748,0.021169,5,DNABERT2_multimodal,1093,0.395014,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+28,CACNA1D,0,0.413074,0.07157,5,DNABERT2_multimodal,1129,0.375069,DNABERT-2 multimodal,Beta_cell_function_or_development,1,True,False
+1302,ADCY5,0,0.405663,0.030363,5,DNABERT2_multimodal,1148,0.364543,DNABERT-2 multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+1133,HK1,0,0.379558,0.024093,5,DNABERT2_multimodal,1210,0.330194,DNABERT-2 multimodal,Glucose_metabolism_transport_or_insulin_secretion,1,True,False
+1221,JAZF1,0,0.37955,0.046853,5,DNABERT2_multimodal,1211,0.32964,DNABERT-2 multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+680,NDUFB9,0,0.377293,0.092663,5,DNABERT2_multimodal,1213,0.328532,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+509,GLP1R,0,0.327253,0.038162,5,DNABERT2_multimodal,1360,0.247091,DNABERT-2 multimodal,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion,2,True,False
+1624,NDUFB3,0,0.318661,0.052315,5,DNABERT2_multimodal,1381,0.235457,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+820,NOTCH2,0,0.315776,0.032328,5,DNABERT2_multimodal,1384,0.233795,DNABERT-2 multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+688,CDKN2B,0,0.315514,0.053935,5,DNABERT2_multimodal,1385,0.233241,DNABERT-2 multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+947,NDUFA11,0,0.314899,0.067322,5,DNABERT2_multimodal,1389,0.231025,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+762,PAX4,0,0.305007,0.023029,5,DNABERT2_multimodal,1418,0.214958,DNABERT-2 multimodal,Beta_cell_function_or_development,1,True,False
+1539,SLC30A8,0,0.303936,0.041335,5,DNABERT2_multimodal,1426,0.210526,DNABERT-2 multimodal,Beta_cell_function_or_development; Known_T2D_GWAS_or_genetic_risk,2,True,False
+67,DPP4,0,0.300834,0.060799,5,DNABERT2_multimodal,1438,0.203878,DNABERT-2 multimodal,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion,2,True,False
+976,GRB14,0,0.296948,0.062043,5,DNABERT2_multimodal,1453,0.195568,DNABERT-2 multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+74,NDUFA1,0,0.296253,0.068071,5,DNABERT2_multimodal,1454,0.195014,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+692,NDUFA5,0,0.284748,0.037636,5,DNABERT2_multimodal,1486,0.177285,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+657,NDUFA6,0,0.25885,0.035262,5,DNABERT2_multimodal,1566,0.132964,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+835,HNF1A,0,0.25815,0.035993,5,DNABERT2_multimodal,1569,0.131302,DNABERT-2 multimodal,Beta_cell_function_or_development,1,True,False
+1641,IGF2BP2,0,0.254181,0.028272,5,DNABERT2_multimodal,1579,0.125762,DNABERT-2 multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+134,FTO,0,0.249077,0.066554,5,DNABERT2_multimodal,1600,0.114127,DNABERT-2 multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+950,HNF4A,0,0.24115,0.062266,5,DNABERT2_multimodal,1626,0.099723,DNABERT-2 multimodal,Beta_cell_function_or_development,1,True,False
+512,PIK3R1,0,0.218395,0.014092,5,DNABERT2_multimodal,1689,0.06482,DNABERT-2 multimodal,Glucose_metabolism_transport_or_insulin_secretion,1,True,False
+1587,NDUFS1,0,0.217623,0.058245,5,DNABERT2_multimodal,1692,0.063158,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+1482,PCSK1,0,0.189975,0.020601,5,DNABERT2_multimodal,1742,0.035457,DNABERT-2 multimodal,Beta_cell_function_or_development; Glucose_metabolism_transport_or_insulin_secretion,2,True,False
+1144,TCF7L2,0,0.16264,0.028423,5,DNABERT2_multimodal,1784,0.012188,DNABERT-2 multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+851,NDUFA8,0,0.154085,0.021852,5,DNABERT2_multimodal,1795,0.006094,DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+585,NDUFA12,0,0.716567,0.029793,5,Genomic_only_K3K4Basic,30,0.983934,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+268,NDUFV1,0,0.656229,0.039585,5,Genomic_only_K3K4Basic,138,0.9241,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+829,MTNR1B,0,0.612676,0.03614,5,Genomic_only_K3K4Basic,267,0.852632,Genomic-only,Beta_cell_function_or_development; Known_T2D_GWAS_or_genetic_risk,2,True,False
+328,NDUFB4,0,0.585883,0.044706,5,Genomic_only_K3K4Basic,359,0.801662,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+727,NDUFS7,0,0.560678,0.027679,5,Genomic_only_K3K4Basic,462,0.744598,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+1624,NDUFB3,0,0.526875,0.033688,5,Genomic_only_K3K4Basic,648,0.641551,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+762,PAX4,0,0.525777,0.015451,5,Genomic_only_K3K4Basic,659,0.635457,Genomic-only,Beta_cell_function_or_development,1,True,False
+1221,JAZF1,0,0.51871,0.024846,5,Genomic_only_K3K4Basic,700,0.612742,Genomic-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+607,NDUFA9,0,0.509415,0.025054,5,Genomic_only_K3K4Basic,753,0.58338,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+810,GIPR,0,0.505806,0.014285,5,Genomic_only_K3K4Basic,774,0.571745,Genomic-only,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion; Known_T2D_GWAS_or_genetic_risk,3,True,False
+1187,NDUFS8,0,0.505016,0.037861,5,Genomic_only_K3K4Basic,778,0.569529,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+19,PROX1,0,0.50404,0.03013,5,Genomic_only_K3K4Basic,787,0.564543,Genomic-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+851,NDUFA8,0,0.48648,0.018396,5,Genomic_only_K3K4Basic,920,0.490859,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+403,NDUFA10,0,0.486346,0.038732,5,Genomic_only_K3K4Basic,923,0.489197,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+628,NDUFB10,0,0.48465,0.012669,5,Genomic_only_K3K4Basic,934,0.483102,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+514,NDUFB5,0,0.471331,0.0266,5,Genomic_only_K3K4Basic,1034,0.427701,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+619,NDUFS5,0,0.470509,0.028828,5,Genomic_only_K3K4Basic,1039,0.424931,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+688,CDKN2B,0,0.469143,0.023562,5,Genomic_only_K3K4Basic,1049,0.419391,Genomic-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+820,NOTCH2,0,0.464802,0.053142,5,Genomic_only_K3K4Basic,1079,0.40277,Genomic-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+938,KCNQ1,0,0.460743,0.018644,5,Genomic_only_K3K4Basic,1119,0.380609,Genomic-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+835,HNF1A,0,0.460014,0.045477,5,Genomic_only_K3K4Basic,1125,0.377285,Genomic-only,Beta_cell_function_or_development,1,True,False
+28,CACNA1D,0,0.456627,0.021426,5,Genomic_only_K3K4Basic,1144,0.366759,Genomic-only,Beta_cell_function_or_development,1,True,False
+324,TSPAN8,0,0.456583,0.087957,5,Genomic_only_K3K4Basic,1145,0.366205,Genomic-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+947,NDUFA11,0,0.452839,0.028353,5,Genomic_only_K3K4Basic,1169,0.352909,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+692,NDUFA5,0,0.451191,0.03895,5,Genomic_only_K3K4Basic,1185,0.344044,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+1641,IGF2BP2,0,0.442943,0.047019,5,Genomic_only_K3K4Basic,1247,0.309695,Genomic-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+1570,GLIS3,0,0.440135,0.017804,5,Genomic_only_K3K4Basic,1263,0.300831,Genomic-only,Beta_cell_function_or_development; Known_T2D_GWAS_or_genetic_risk,2,True,False
+1144,TCF7L2,0,0.434464,0.026258,5,Genomic_only_K3K4Basic,1319,0.269806,Genomic-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+67,DPP4,0,0.434363,0.029623,5,Genomic_only_K3K4Basic,1322,0.268144,Genomic-only,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion,2,True,False
+74,NDUFA1,0,0.420284,0.012789,5,Genomic_only_K3K4Basic,1414,0.217175,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+320,NDUFB8,0,0.418047,0.024344,5,Genomic_only_K3K4Basic,1433,0.206648,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+1539,SLC30A8,0,0.410894,0.028985,5,Genomic_only_K3K4Basic,1478,0.181717,Genomic-only,Beta_cell_function_or_development; Known_T2D_GWAS_or_genetic_risk,2,True,False
+684,NDUFV3,0,0.404758,0.020637,5,Genomic_only_K3K4Basic,1523,0.156787,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+1133,HK1,0,0.403903,0.041978,5,Genomic_only_K3K4Basic,1531,0.152355,Genomic-only,Glucose_metabolism_transport_or_insulin_secretion,1,True,False
+509,GLP1R,0,0.403209,0.021327,5,Genomic_only_K3K4Basic,1538,0.148476,Genomic-only,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion,2,True,False
+950,HNF4A,0,0.395137,0.032313,5,Genomic_only_K3K4Basic,1579,0.125762,Genomic-only,Beta_cell_function_or_development,1,True,False
+976,GRB14,0,0.393403,0.037912,5,Genomic_only_K3K4Basic,1591,0.119114,Genomic-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+1302,ADCY5,0,0.391642,0.028187,5,Genomic_only_K3K4Basic,1598,0.115235,Genomic-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+657,NDUFA6,0,0.376839,0.052411,5,Genomic_only_K3K4Basic,1668,0.076454,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+512,PIK3R1,0,0.361592,0.028889,5,Genomic_only_K3K4Basic,1719,0.048199,Genomic-only,Glucose_metabolism_transport_or_insulin_secretion,1,True,False
+1587,NDUFS1,0,0.36054,0.029954,5,Genomic_only_K3K4Basic,1722,0.046537,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+134,FTO,0,0.356989,0.048674,5,Genomic_only_K3K4Basic,1729,0.042659,Genomic-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+680,NDUFB9,0,0.316054,0.024585,5,Genomic_only_K3K4Basic,1797,0.004986,Genomic-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+1482,PCSK1,0,0.299871,0.012455,5,Genomic_only_K3K4Basic,1801,0.00277,Genomic-only,Beta_cell_function_or_development; Glucose_metabolism_transport_or_insulin_secretion,2,True,False
+268,NDUFV1,0,0.83123,0.028878,5,Handcrafted_multimodal,28,0.985042,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+727,NDUFS7,0,0.71925,0.056602,5,Handcrafted_multimodal,278,0.846537,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+585,NDUFA12,0,0.719083,0.05206,5,Handcrafted_multimodal,279,0.845983,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+628,NDUFB10,0,0.709497,0.072259,5,Handcrafted_multimodal,311,0.828255,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+607,NDUFA9,0,0.663449,0.058163,5,Handcrafted_multimodal,441,0.756233,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+320,NDUFB8,0,0.661044,0.068125,5,Handcrafted_multimodal,448,0.752355,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+810,GIPR,0,0.658171,0.058485,5,Handcrafted_multimodal,456,0.747922,Handcrafted multimodal,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion; Known_T2D_GWAS_or_genetic_risk,3,True,False
+514,NDUFB5,0,0.644085,0.086154,5,Handcrafted_multimodal,496,0.725762,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+328,NDUFB4,0,0.641426,0.086501,5,Handcrafted_multimodal,505,0.720776,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+403,NDUFA10,0,0.623485,0.077111,5,Handcrafted_multimodal,565,0.687535,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+19,PROX1,0,0.595321,0.041863,5,Handcrafted_multimodal,643,0.644321,Handcrafted multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+1187,NDUFS8,0,0.538149,0.08432,5,Handcrafted_multimodal,800,0.557341,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+1570,GLIS3,0,0.521434,0.087932,5,Handcrafted_multimodal,847,0.531302,Handcrafted multimodal,Beta_cell_function_or_development; Known_T2D_GWAS_or_genetic_risk,2,True,False
+829,MTNR1B,0,0.501121,0.048579,5,Handcrafted_multimodal,896,0.504155,Handcrafted multimodal,Beta_cell_function_or_development; Known_T2D_GWAS_or_genetic_risk,2,True,False
+684,NDUFV3,0,0.473117,0.090944,5,Handcrafted_multimodal,986,0.454294,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+1221,JAZF1,0,0.450875,0.072808,5,Handcrafted_multimodal,1041,0.423823,Handcrafted multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+938,KCNQ1,0,0.443671,0.027313,5,Handcrafted_multimodal,1058,0.414404,Handcrafted multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+324,TSPAN8,0,0.440161,0.07859,5,Handcrafted_multimodal,1071,0.407202,Handcrafted multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+28,CACNA1D,0,0.4394,0.065247,5,Handcrafted_multimodal,1072,0.406648,Handcrafted multimodal,Beta_cell_function_or_development,1,True,False
+619,NDUFS5,0,0.409907,0.00791,5,Handcrafted_multimodal,1160,0.357895,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+1302,ADCY5,0,0.376528,0.037658,5,Handcrafted_multimodal,1252,0.306925,Handcrafted multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+680,NDUFB9,0,0.358203,0.059433,5,Handcrafted_multimodal,1311,0.274238,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+692,NDUFA5,0,0.348114,0.051097,5,Handcrafted_multimodal,1343,0.25651,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+688,CDKN2B,0,0.33368,0.039682,5,Handcrafted_multimodal,1386,0.232687,Handcrafted multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+509,GLP1R,0,0.325385,0.052621,5,Handcrafted_multimodal,1411,0.218837,Handcrafted multimodal,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion,2,True,False
+947,NDUFA11,0,0.319639,0.081817,5,Handcrafted_multimodal,1426,0.210526,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+67,DPP4,0,0.313383,0.065685,5,Handcrafted_multimodal,1442,0.201662,Handcrafted multimodal,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion,2,True,False
+1624,NDUFB3,0,0.313078,0.046646,5,Handcrafted_multimodal,1443,0.201108,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+74,NDUFA1,0,0.302858,0.069632,5,Handcrafted_multimodal,1466,0.188366,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+1539,SLC30A8,0,0.294895,0.090629,5,Handcrafted_multimodal,1490,0.175069,Handcrafted multimodal,Beta_cell_function_or_development; Known_T2D_GWAS_or_genetic_risk,2,True,False
+820,NOTCH2,0,0.282903,0.037744,5,Handcrafted_multimodal,1518,0.159557,Handcrafted multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+762,PAX4,0,0.261353,0.032031,5,Handcrafted_multimodal,1563,0.134626,Handcrafted multimodal,Beta_cell_function_or_development,1,True,False
+657,NDUFA6,0,0.255884,0.02827,5,Handcrafted_multimodal,1571,0.130194,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+950,HNF4A,0,0.250735,0.088495,5,Handcrafted_multimodal,1582,0.1241,Handcrafted multimodal,Beta_cell_function_or_development,1,True,False
+134,FTO,0,0.249875,0.049172,5,Handcrafted_multimodal,1588,0.120776,Handcrafted multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+976,GRB14,0,0.244473,0.063383,5,Handcrafted_multimodal,1600,0.114127,Handcrafted multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+835,HNF1A,0,0.223082,0.029,5,Handcrafted_multimodal,1660,0.080886,Handcrafted multimodal,Beta_cell_function_or_development,1,True,False
+1587,NDUFS1,0,0.214611,0.02212,5,Handcrafted_multimodal,1678,0.070914,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+1641,IGF2BP2,0,0.208501,0.044635,5,Handcrafted_multimodal,1693,0.062604,Handcrafted multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+512,PIK3R1,0,0.183638,0.028259,5,Handcrafted_multimodal,1736,0.038781,Handcrafted multimodal,Glucose_metabolism_transport_or_insulin_secretion,1,True,False
+1133,HK1,0,0.183585,0.012101,5,Handcrafted_multimodal,1737,0.038227,Handcrafted multimodal,Glucose_metabolism_transport_or_insulin_secretion,1,True,False
+1144,TCF7L2,0,0.162172,0.017473,5,Handcrafted_multimodal,1767,0.021607,Handcrafted multimodal,Known_T2D_GWAS_or_genetic_risk,1,True,False
+851,NDUFA8,0,0.161665,0.038196,5,Handcrafted_multimodal,1769,0.020499,Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,1,True,False
+1482,PCSK1,0,0.155384,0.018312,5,Handcrafted_multimodal,1779,0.014958,Handcrafted multimodal,Beta_cell_function_or_development; Glucose_metabolism_transport_or_insulin_secretion,2,True,False
+268,NDUFV1,0,0.778761,0.049924,5,Protein_only_ProtBERT_SW,77,0.957895,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+320,NDUFB8,0,0.687053,0.052974,5,Protein_only_ProtBERT_SW,341,0.811634,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+810,GIPR,0,0.68563,0.042796,5,Protein_only_ProtBERT_SW,348,0.807756,Protein-only,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion; Known_T2D_GWAS_or_genetic_risk,3,True,False
+628,NDUFB10,0,0.685125,0.040018,5,Protein_only_ProtBERT_SW,351,0.806094,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+1570,GLIS3,0,0.672753,0.091521,5,Protein_only_ProtBERT_SW,383,0.788366,Protein-only,Beta_cell_function_or_development; Known_T2D_GWAS_or_genetic_risk,2,True,False
+727,NDUFS7,0,0.669069,0.070972,5,Protein_only_ProtBERT_SW,396,0.781163,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+607,NDUFA9,0,0.660554,0.043515,5,Protein_only_ProtBERT_SW,423,0.766205,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+514,NDUFB5,0,0.628714,0.059989,5,Protein_only_ProtBERT_SW,524,0.710249,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+403,NDUFA10,0,0.624754,0.086207,5,Protein_only_ProtBERT_SW,541,0.700831,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+585,NDUFA12,0,0.602528,0.07923,5,Protein_only_ProtBERT_SW,608,0.663712,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+684,NDUFV3,0,0.575378,0.101967,5,Protein_only_ProtBERT_SW,685,0.621053,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+328,NDUFB4,0,0.565921,0.03685,5,Protein_only_ProtBERT_SW,723,0.6,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+1187,NDUFS8,0,0.556417,0.0725,5,Protein_only_ProtBERT_SW,757,0.581163,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+19,PROX1,0,0.525655,0.043706,5,Protein_only_ProtBERT_SW,851,0.529086,Protein-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+619,NDUFS5,0,0.492576,0.070162,5,Protein_only_ProtBERT_SW,934,0.483102,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+680,NDUFB9,0,0.490116,0.080508,5,Protein_only_ProtBERT_SW,939,0.480332,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+324,TSPAN8,0,0.489373,0.063443,5,Protein_only_ProtBERT_SW,943,0.478116,Protein-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+938,KCNQ1,0,0.470892,0.07601,5,Protein_only_ProtBERT_SW,1006,0.443213,Protein-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+692,NDUFA5,0,0.432231,0.078178,5,Protein_only_ProtBERT_SW,1112,0.384488,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+829,MTNR1B,0,0.424651,0.066337,5,Protein_only_ProtBERT_SW,1137,0.370637,Protein-only,Beta_cell_function_or_development; Known_T2D_GWAS_or_genetic_risk,2,True,False
+976,GRB14,0,0.416075,0.03703,5,Protein_only_ProtBERT_SW,1174,0.350139,Protein-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+688,CDKN2B,0,0.411273,0.064915,5,Protein_only_ProtBERT_SW,1189,0.341828,Protein-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+28,CACNA1D,0,0.402807,0.045865,5,Protein_only_ProtBERT_SW,1208,0.331302,Protein-only,Beta_cell_function_or_development,1,True,False
+1302,ADCY5,0,0.395781,0.050176,5,Protein_only_ProtBERT_SW,1231,0.31856,Protein-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+1221,JAZF1,0,0.395413,0.07454,5,Protein_only_ProtBERT_SW,1234,0.316898,Protein-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+74,NDUFA1,0,0.391137,0.072157,5,Protein_only_ProtBERT_SW,1246,0.310249,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+1587,NDUFS1,0,0.343892,0.023241,5,Protein_only_ProtBERT_SW,1373,0.239889,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+67,DPP4,0,0.311451,0.072311,5,Protein_only_ProtBERT_SW,1459,0.192244,Protein-only,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion,2,True,False
+509,GLP1R,0,0.303355,0.039523,5,Protein_only_ProtBERT_SW,1490,0.175069,Protein-only,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion,2,True,False
+134,FTO,0,0.301781,0.040075,5,Protein_only_ProtBERT_SW,1497,0.171191,Protein-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+1539,SLC30A8,0,0.296708,0.059367,5,Protein_only_ProtBERT_SW,1507,0.165651,Protein-only,Beta_cell_function_or_development; Known_T2D_GWAS_or_genetic_risk,2,True,False
+835,HNF1A,0,0.286611,0.045731,5,Protein_only_ProtBERT_SW,1535,0.150139,Protein-only,Beta_cell_function_or_development,1,True,False
+657,NDUFA6,0,0.284841,0.039885,5,Protein_only_ProtBERT_SW,1540,0.147368,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+947,NDUFA11,0,0.279461,0.058429,5,Protein_only_ProtBERT_SW,1553,0.140166,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+950,HNF4A,0,0.276493,0.081267,5,Protein_only_ProtBERT_SW,1562,0.13518,Protein-only,Beta_cell_function_or_development,1,True,False
+1624,NDUFB3,0,0.273212,0.034337,5,Protein_only_ProtBERT_SW,1574,0.128532,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False
+1641,IGF2BP2,0,0.27042,0.015153,5,Protein_only_ProtBERT_SW,1582,0.1241,Protein-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+1144,TCF7L2,0,0.255392,0.054307,5,Protein_only_ProtBERT_SW,1622,0.101939,Protein-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+820,NOTCH2,0,0.247041,0.029788,5,Protein_only_ProtBERT_SW,1637,0.093629,Protein-only,Known_T2D_GWAS_or_genetic_risk,1,True,False
+512,PIK3R1,0,0.245267,0.042546,5,Protein_only_ProtBERT_SW,1640,0.091967,Protein-only,Glucose_metabolism_transport_or_insulin_secretion,1,True,False
+1133,HK1,0,0.23381,0.013025,5,Protein_only_ProtBERT_SW,1673,0.073684,Protein-only,Glucose_metabolism_transport_or_insulin_secretion,1,True,False
+762,PAX4,0,0.227486,0.02946,5,Protein_only_ProtBERT_SW,1692,0.063158,Protein-only,Beta_cell_function_or_development,1,True,False
+1482,PCSK1,0,0.20085,0.029664,5,Protein_only_ProtBERT_SW,1749,0.031579,Protein-only,Beta_cell_function_or_development; Glucose_metabolism_transport_or_insulin_secretion,2,True,False
+851,NDUFA8,0,0.177916,0.025157,5,Protein_only_ProtBERT_SW,1781,0.01385,Protein-only,Mitochondrial_OXPHOS_complex_I,1,True,False

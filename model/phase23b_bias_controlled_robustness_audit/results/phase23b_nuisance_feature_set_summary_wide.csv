@@ -1,0 +1,6 @@
+model_name,accuracy,f1,mcc,pr_auc,precision,recall,roc_auc,specificity
+Gene_symbol_length_only,0.49657,0.40841,-0.01341,0.49941,0.45914,0.55827,0.49261,0.43364
+Nuisance_all_including_gene_symbol_length,0.5711,0.54146,0.16428,0.62675,0.59598,0.56576,0.63318,0.57659
+Nuisance_genomic_summary_only,0.54164,0.40397,0.11119,0.59839,0.6066,0.41224,0.5995,0.67136
+Nuisance_protein_summary_only,0.56003,0.56832,0.13782,0.57379,0.56268,0.64852,0.59928,0.47151
+Nuisance_pure_feature_summaries_no_gene_symbol,0.57564,0.54585,0.17033,0.62603,0.59936,0.56097,0.63467,0.59057

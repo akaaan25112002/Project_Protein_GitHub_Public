@@ -1,0 +1,2 @@
+model,dataset,accuracy,precision,recall_sensitivity,specificity,f1,roc_auc,pr_auc,mcc,tn,fp,fn,tp,representation
+Stacking,validation,0.6483516483516484,0.6614173228346457,0.6131386861313869,0.6838235294117647,0.6363636363636364,0.7248819235723487,0.7231420271762795,0.2976820474430343,93,43,53,84,ESM2_t6_8M_mean_pool_truncated_1022

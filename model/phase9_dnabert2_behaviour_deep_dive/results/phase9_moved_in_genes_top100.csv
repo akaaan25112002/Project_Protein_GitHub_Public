@@ -1,0 +1,14 @@
+gene_symbol_upper,handcrafted_rank,dnabert2_rank,rank_delta_dnabert2_minus_handcrafted,handcrafted_score,dnabert2_score,score_delta_dnabert2_minus_handcrafted,gene_id,gene_symbol,true_label,rank_improvement_by_dnabert2,top50_membership,top100_membership,rank_shift_category,rank_direction,abs_rank_shift,abs_score_shift,curated_biological_themes,has_curated_theme_support
+PARP8,115,33,-82,0.5407,0.7399,0.1991,ENSG00000151883,PARP8,1,82,moved_in_by_DNABERT2,moved_in_by_DNABERT2,large_up_by_DNABERT2,DNABERT2_ranked_higher,82,0.1991,,False
+GPAT4,109,56,-53,0.5723,0.6808,0.1085,ENSG00000158669,GPAT4,1,53,outside_both,moved_in_by_DNABERT2,large_up_by_DNABERT2,DNABERT2_ranked_higher,53,0.1085,,False
+SLC38A11,107,59,-48,0.5754,0.6757,0.1004,ENSG00000169507,SLC38A11,1,48,outside_both,moved_in_by_DNABERT2,moderate_up_by_DNABERT2,DNABERT2_ranked_higher,48,0.1004,,False
+SCTR,105,63,-42,0.5795,0.6683,0.0889,ENSG00000080293,SCTR,1,42,outside_both,moved_in_by_DNABERT2,moderate_up_by_DNABERT2,DNABERT2_ranked_higher,42,0.0889,,False
+TBC1D8,106,65,-41,0.5757,0.6665,0.0909,ENSG00000204634,TBC1D8,0,41,outside_both,moved_in_by_DNABERT2,moderate_up_by_DNABERT2,DNABERT2_ranked_higher,41,0.0909,,False
+PELO,119,84,-35,0.5269,0.6364,0.1095,ENSG00000152684,PELO,1,35,outside_both,moved_in_by_DNABERT2,moderate_up_by_DNABERT2,DNABERT2_ranked_higher,35,0.1095,,False
+AFAP1L2,104,86,-18,0.5795,0.6336,0.0541,ENSG00000169129,AFAP1L2,1,18,outside_both,moved_in_by_DNABERT2,small_up_by_DNABERT2,DNABERT2_ranked_higher,18,0.0541,,False
+TENT5C,110,88,-22,0.5615,0.6291,0.0676,ENSG00000183508,TENT5C,1,22,outside_both,moved_in_by_DNABERT2,moderate_up_by_DNABERT2,DNABERT2_ranked_higher,22,0.0676,,False
+NDUFA9,125,89,-36,0.5,0.6238,0.1238,ENSG00000139180,NDUFA9,1,36,outside_both,moved_in_by_DNABERT2,moderate_up_by_DNABERT2,DNABERT2_ranked_higher,36,0.1238,mitochondrial_function;oxidative_phosphorylation,True
+TMEM106B,113,91,-22,0.551,0.609,0.058,ENSG00000106460,TMEM106B,1,22,outside_both,moved_in_by_DNABERT2,moderate_up_by_DNABERT2,DNABERT2_ranked_higher,22,0.058,,False
+HCFC2,102,92,-10,0.5826,0.6086,0.0261,ENSG00000111727,HCFC2,0,10,outside_both,moved_in_by_DNABERT2,small_up_by_DNABERT2,DNABERT2_ranked_higher,10,0.0261,,False
+PGBD5,139,93,-46,0.4643,0.606,0.1417,ENSG00000177614,PGBD5,0,46,outside_both,moved_in_by_DNABERT2,moderate_up_by_DNABERT2,DNABERT2_ranked_higher,46,0.1417,,False
+ARF5,101,97,-4,0.5855,0.5889,0.0034,ENSG00000004059,ARF5,1,4,outside_both,moved_in_by_DNABERT2,stable,DNABERT2_ranked_higher,4,0.0034,,False

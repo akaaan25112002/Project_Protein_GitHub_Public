@@ -1,0 +1,4 @@
+feature_set,pr_auc_random,pr_auc_group,pr_auc_delta_group_minus_random,roc_auc_random,roc_auc_group,roc_auc_delta_group_minus_random,mcc_random,mcc_group,mcc_delta_group_minus_random,f1_random,f1_group,f1_delta_group_minus_random
+Early_fusion_Protein_DNABERT2,0.71678,0.70223,-0.01455,0.72879,0.71468,-0.01412,0.324,0.30238,-0.02163,0.60875,0.63908,0.03032
+Early_fusion_Protein_Handcrafted,0.71774,0.69511,-0.02263,0.72577,0.70582,-0.01995,0.32713,0.28026,-0.04687,0.66058,0.62812,-0.03246
+Protein_only,0.6986,0.67637,-0.02223,0.71315,0.69369,-0.01946,0.3111,0.28291,-0.02819,0.65525,0.68302,0.02778

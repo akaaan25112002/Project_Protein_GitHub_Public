@@ -1,0 +1,41 @@
+seed,model_key,model_description,n_train,n_val,n_test,n_features,selected_threshold,validation_threshold_metric,validation_threshold_metric_value,roc_auc,pr_auc,threshold,accuracy,precision,recall_sensitivity,specificity,f1,mcc,tn,fp,fn,tp
+11,Protein_only_ProtBERT_SW,Protein-only ProtBERT sliding-window embedding,1264,271,271,1024,-0.1757,mcc,0.332,0.7534,0.7324,-0.1757,0.6531,0.625,0.7721,0.5333,0.6908,0.3146,72,63,31,105
+11,Genomic_only_K3K4Basic,Genomic-only handcrafted K3/K4/Basic regulatory features extracted from combined matrix,1264,271,271,356,0.117,mcc,0.1607,0.6518,0.6391,0.117,0.6162,0.6404,0.5368,0.6963,0.584,0.236,94,41,63,73
+11,Multimodal_handcrafted,ProtBERT-SW + handcrafted K3/K4/Basic genomic features,1264,271,271,1380,-0.0941,mcc,0.3165,0.7586,0.7118,-0.0941,0.7011,0.6752,0.7794,0.6222,0.7235,0.4068,84,51,30,106
+11,Multimodal_DNABERT2,ProtBERT-SW + DNABERT-2 genomic embedding,1264,271,271,1792,-0.3005,mcc,0.3351,0.7578,0.7192,-0.3005,0.7011,0.6536,0.8603,0.5407,0.7429,0.4234,73,62,19,117
+22,Protein_only_ProtBERT_SW,Protein-only ProtBERT sliding-window embedding,1264,271,271,1024,-0.1192,mcc,0.3611,0.6958,0.6855,-0.1192,0.6384,0.6234,0.7059,0.5704,0.6621,0.2789,77,58,40,96
+22,Genomic_only_K3K4Basic,Genomic-only handcrafted K3/K4/Basic regulatory features extracted from combined matrix,1264,271,271,356,0.2968,mcc,0.316,0.6721,0.6697,0.2968,0.5941,0.6413,0.4338,0.7556,0.5175,0.2,102,33,77,59
+22,Multimodal_handcrafted,ProtBERT-SW + handcrafted K3/K4/Basic genomic features,1264,271,271,1380,0.2899,mcc,0.3971,0.7202,0.7104,0.2899,0.6494,0.703,0.5221,0.7778,0.5992,0.3101,105,30,65,71
+22,Multimodal_DNABERT2,ProtBERT-SW + DNABERT-2 genomic embedding,1264,271,271,1792,0.632,mcc,0.3954,0.7285,0.6978,0.632,0.6015,0.7188,0.3382,0.8667,0.46,0.2412,117,18,90,46
+33,Protein_only_ProtBERT_SW,Protein-only ProtBERT sliding-window embedding,1264,271,271,1024,-0.0495,mcc,0.4428,0.7036,0.6668,-0.0495,0.6458,0.6345,0.6815,0.6103,0.6571,0.2925,83,53,43,92
+33,Genomic_only_K3K4Basic,Genomic-only handcrafted K3/K4/Basic regulatory features extracted from combined matrix,1264,271,271,356,-0.0947,mcc,0.1956,0.5931,0.568,-0.0947,0.5683,0.5584,0.637,0.5,0.5952,0.1383,68,68,49,86
+33,Multimodal_handcrafted,ProtBERT-SW + handcrafted K3/K4/Basic genomic features,1264,271,271,1380,-0.05,mcc,0.3948,0.7104,0.6918,-0.05,0.6494,0.6333,0.7037,0.5956,0.6667,0.301,81,55,40,95
+33,Multimodal_DNABERT2,ProtBERT-SW + DNABERT-2 genomic embedding,1264,271,271,1792,-0.4202,mcc,0.4002,0.6971,0.6963,-0.4202,0.6125,0.5789,0.8148,0.4118,0.6769,0.2475,56,80,25,110
+44,Protein_only_ProtBERT_SW,Protein-only ProtBERT sliding-window embedding,1264,271,271,1024,-0.3624,mcc,0.3582,0.7495,0.7436,-0.3624,0.6605,0.6175,0.837,0.4853,0.7107,0.3442,66,70,22,113
+44,Genomic_only_K3K4Basic,Genomic-only handcrafted K3/K4/Basic regulatory features extracted from combined matrix,1264,271,271,356,0.2963,mcc,0.1784,0.7185,0.7081,0.2963,0.6384,0.7681,0.3926,0.8824,0.5196,0.3156,120,16,82,53
+44,Multimodal_handcrafted,ProtBERT-SW + handcrafted K3/K4/Basic genomic features,1264,271,271,1380,-0.2665,mcc,0.3357,0.7633,0.7607,-0.2665,0.679,0.6395,0.8148,0.5441,0.7166,0.3727,74,62,25,110
+44,Multimodal_DNABERT2,ProtBERT-SW + DNABERT-2 genomic embedding,1264,271,271,1792,-0.3378,mcc,0.3353,0.7842,0.7687,-0.3378,0.6974,0.6532,0.837,0.5588,0.7338,0.4119,76,60,22,113
+55,Protein_only_ProtBERT_SW,Protein-only ProtBERT sliding-window embedding,1264,271,271,1024,-0.3539,mcc,0.3735,0.7444,0.7318,-0.3539,0.6716,0.6298,0.8382,0.5037,0.7192,0.363,68,67,22,114
+55,Genomic_only_K3K4Basic,Genomic-only handcrafted K3/K4/Basic regulatory features extracted from combined matrix,1264,271,271,356,-0.3807,mcc,0.2741,0.6741,0.6675,-0.3807,0.5978,0.5692,0.8162,0.3778,0.6707,0.2159,51,84,25,111
+55,Multimodal_handcrafted,ProtBERT-SW + handcrafted K3/K4/Basic genomic features,1264,271,271,1380,-0.3492,mcc,0.4164,0.7826,0.7875,-0.3492,0.6494,0.6041,0.875,0.4222,0.7147,0.3336,57,78,17,119
+55,Multimodal_DNABERT2,ProtBERT-SW + DNABERT-2 genomic embedding,1264,271,271,1792,-0.2315,mcc,0.3796,0.7881,0.7795,-0.2315,0.7048,0.6707,0.8088,0.6,0.7333,0.4182,81,54,26,110
+66,Protein_only_ProtBERT_SW,Protein-only ProtBERT sliding-window embedding,1264,271,271,1024,-0.1705,mcc,0.3949,0.6994,0.6889,-0.1705,0.6421,0.6319,0.6741,0.6103,0.6523,0.2849,83,53,44,91
+66,Genomic_only_K3K4Basic,Genomic-only handcrafted K3/K4/Basic regulatory features extracted from combined matrix,1264,271,271,356,-0.5598,mcc,0.2454,0.6325,0.6285,-0.5598,0.5683,0.5398,0.9037,0.2353,0.6759,0.1868,32,104,13,122
+66,Multimodal_handcrafted,ProtBERT-SW + handcrafted K3/K4/Basic genomic features,1264,271,271,1380,0.0604,mcc,0.3823,0.7308,0.7259,0.0604,0.6679,0.6891,0.6074,0.7279,0.6457,0.3379,99,37,53,82
+66,Multimodal_DNABERT2,ProtBERT-SW + DNABERT-2 genomic embedding,1264,271,271,1792,0.0148,mcc,0.3658,0.7351,0.7256,0.0148,0.679,0.6875,0.6519,0.7059,0.6692,0.3583,96,40,47,88
+77,Protein_only_ProtBERT_SW,Protein-only ProtBERT sliding-window embedding,1264,271,271,1024,0.2579,mcc,0.3417,0.7361,0.7381,0.2579,0.6642,0.7228,0.5368,0.7926,0.616,0.3406,107,28,63,73
+77,Genomic_only_K3K4Basic,Genomic-only handcrafted K3/K4/Basic regulatory features extracted from combined matrix,1264,271,271,356,0.5085,mcc,0.2379,0.6417,0.639,0.5085,0.5756,0.6479,0.3382,0.8148,0.4444,0.174,110,25,90,46
+77,Multimodal_handcrafted,ProtBERT-SW + handcrafted K3/K4/Basic genomic features,1264,271,271,1380,0.4965,mcc,0.3295,0.7544,0.7663,0.4965,0.6494,0.806,0.3971,0.9037,0.532,0.3486,122,13,82,54
+77,Multimodal_DNABERT2,ProtBERT-SW + DNABERT-2 genomic embedding,1264,271,271,1792,0.2496,mcc,0.4005,0.7739,0.7716,0.2496,0.7159,0.7921,0.5882,0.8444,0.6751,0.4474,114,21,56,80
+88,Protein_only_ProtBERT_SW,Protein-only ProtBERT sliding-window embedding,1264,271,271,1024,-0.3299,mcc,0.3662,0.7003,0.6639,-0.3299,0.6458,0.6077,0.8148,0.4779,0.6962,0.3108,65,71,25,110
+88,Genomic_only_K3K4Basic,Genomic-only handcrafted K3/K4/Basic regulatory features extracted from combined matrix,1264,271,271,356,0.0989,mcc,0.3082,0.6409,0.631,0.0989,0.583,0.5887,0.5407,0.625,0.5637,0.1663,85,51,62,73
+88,Multimodal_handcrafted,ProtBERT-SW + handcrafted K3/K4/Basic genomic features,1264,271,271,1380,-0.0258,mcc,0.425,0.7166,0.6918,-0.0258,0.6494,0.6408,0.6741,0.625,0.657,0.2994,85,51,44,91
+88,Multimodal_DNABERT2,ProtBERT-SW + DNABERT-2 genomic embedding,1264,271,271,1792,0.0808,mcc,0.4185,0.7449,0.7059,0.0808,0.6605,0.6667,0.637,0.6838,0.6515,0.3212,93,43,49,86
+99,Protein_only_ProtBERT_SW,Protein-only ProtBERT sliding-window embedding,1264,271,271,1024,0.047,mcc,0.3806,0.694,0.6895,0.047,0.6421,0.6512,0.6176,0.6667,0.634,0.2846,90,45,52,84
+99,Genomic_only_K3K4Basic,Genomic-only handcrafted K3/K4/Basic regulatory features extracted from combined matrix,1264,271,271,356,0.1015,mcc,0.2994,0.6027,0.5813,0.1015,0.6125,0.6372,0.5294,0.6963,0.5783,0.2289,94,41,64,72
+99,Multimodal_handcrafted,ProtBERT-SW + handcrafted K3/K4/Basic genomic features,1264,271,271,1380,0.3597,mcc,0.3719,0.6966,0.6973,0.3597,0.5978,0.6588,0.4118,0.7852,0.5068,0.2122,106,29,80,56
+99,Multimodal_DNABERT2,ProtBERT-SW + DNABERT-2 genomic embedding,1264,271,271,1792,0.0049,mcc,0.3742,0.7114,0.688,0.0049,0.6642,0.68,0.625,0.7037,0.6513,0.3297,95,40,51,85
+111,Protein_only_ProtBERT_SW,Protein-only ProtBERT sliding-window embedding,1264,271,271,1024,0.6402,mcc,0.3561,0.7147,0.7124,0.6402,0.6273,0.8036,0.3333,0.9191,0.4712,0.3117,125,11,90,45
+111,Genomic_only_K3K4Basic,Genomic-only handcrafted K3/K4/Basic regulatory features extracted from combined matrix,1264,271,271,356,-0.191,mcc,0.1743,0.6435,0.6372,-0.191,0.6089,0.6,0.6444,0.5735,0.6214,0.2185,78,58,48,87
+111,Multimodal_handcrafted,ProtBERT-SW + handcrafted K3/K4/Basic genomic features,1264,271,271,1380,0.0216,mcc,0.3728,0.7171,0.7043,0.0216,0.6642,0.6528,0.6963,0.6324,0.6738,0.3293,86,50,41,94
+111,Multimodal_DNABERT2,ProtBERT-SW + DNABERT-2 genomic embedding,1264,271,271,1792,-0.1362,mcc,0.4279,0.733,0.7038,-0.1362,0.6605,0.6424,0.7185,0.6029,0.6783,0.3236,82,54,38,97

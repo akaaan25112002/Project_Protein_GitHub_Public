@@ -1,0 +1,7 @@
+branch,model,feature_set,pr_auc
+Genomic regulatory,SVM RBF,K3 + K4 + Basic,0.6504049696069261
+Genomic regulatory,Stacking,K3 + K4 + Basic,0.6502049411333639
+Genomic regulatory,Soft Voting,K3 + K4 + Basic,0.6489886254458386
+Genomic regulatory,Logistic Regression,K3 + K4 + Basic,0.6474768981141288
+Genomic regulatory,Random Forest,K3 + K4 + Basic,0.6327321999591006
+Genomic regulatory,LightGBM,K3 + K4 + Basic,0.6230163932752648

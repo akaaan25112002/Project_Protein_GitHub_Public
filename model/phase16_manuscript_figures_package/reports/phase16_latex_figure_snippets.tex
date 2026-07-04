@@ -1,0 +1,69 @@
+% =========================
+% Figure 1: Overall workflow
+% =========================
+\begin{figure*}[htbp]
+\centering
+\includegraphics[width=\textwidth]{figures/fig1_overall_workflow_diagram.png}
+\caption{Overall workflow of the proposed explainable multi-omics framework for Type 2 Diabetes gene/protein prioritization. The framework integrates dataset construction, sequence extraction, protein and genomic feature representation, model comparison, robustness evaluation, explainability analysis and biological validation.}
+\label{fig:workflow}
+\end{figure*}
+
+% =========================
+% Figure 2: Held-out performance
+% =========================
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\linewidth]{figures/fig2_heldout_model_performance_comparison.png}
+\caption{Held-out test performance across model configurations. Protein-based and multimodal models outperformed the genomic-only baseline, while DNABERT-2 achieved the highest ROC-AUC and handcrafted multimodal features achieved the strongest PR-AUC in the held-out comparison.}
+\label{fig:heldout_performance}
+\end{figure}
+
+% =========================
+% Figure 3: Repeated split robustness
+% =========================
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\linewidth]{figures/fig3_repeated_split_performance_errorbars.png}
+\caption{Repeated-split robustness across 10 stratified train/validation/test splits. Bars represent mean performance and error bars represent standard deviation across seeds.}
+\label{fig:repeated_split}
+\end{figure}
+
+% =========================
+% Figure 4: Paired delta
+% =========================
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\linewidth]{figures/fig4_paired_delta_dnabert2_vs_handcrafted.png}
+\caption{Paired metric differences between DNABERT-2 multimodal and handcrafted multimodal models across repeated splits. Positive values favour DNABERT-2. Benjamini--Hochberg adjusted values indicate that the observed differences did not establish statistically significant superiority after multiple-testing correction.}
+\label{fig:paired_delta}
+\end{figure}
+
+% =========================
+% Figure 5: Modality contribution
+% =========================
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\linewidth]{figures/fig5_block_level_permutation_importance.png}
+\caption{Block-level permutation importance for multimodal models. The protein and genomic feature blocks were permuted separately on the held-out test set, and larger metric drops indicate stronger model dependence on the corresponding modality.}
+\label{fig:block_importance}
+\end{figure}
+
+% =========================
+% Figure 6: Candidate gene pathway heatmap
+% =========================
+\begin{figure*}[htbp]
+\centering
+\includegraphics[width=\textwidth]{figures/fig6_candidate_gene_pathway_heatmap.png}
+\caption{Literature-supported candidate genes across T2D-relevant biological themes. Candidate genes were grouped into insulin signalling, beta-cell function, glucose metabolism, mitochondrial function, oxidative phosphorylation and related mechanisms.}
+\label{fig:candidate_pathway_heatmap}
+\end{figure*}
+
+% =========================
+% Figure 8: Biological validation baseline
+% =========================
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\linewidth]{figures/fig8_biological_validation_random_baseline_summary.png}
+\caption{Biological theme overlap compared with random gene-set baselines. Observed top-ranked gene counts are shown against random expectation, with FDR-adjusted values reported above each comparison.}
+\label{fig:bio_random_baseline}
+\end{figure}

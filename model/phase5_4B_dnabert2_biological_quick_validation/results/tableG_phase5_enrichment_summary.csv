@@ -1,0 +1,6 @@
+gene_list_name,n_input_genes,n_significant_terms,n_t2d_relevant_terms,best_p_value,top_term,top_t2d_relevant_term
+phase5_true_positives,88,148,47,5.060766690085867e-11,active monoatomic ion transmembrane transporter activity,Oxidative phosphorylation
+phase5_top50,50,43,16,1.241294073270957e-05,cis-regulatory region sequence-specific DNA binding,"DNA-binding transcription activator activity, RNA polymerase II-specific"
+phase5_false_negatives,47,3,1,0.037981581771587385,regulation of leukocyte proliferation,regulation of leukocyte proliferation
+phase5_rescued_vs_phase3,14,0,0,,,
+phase5_false_positives,42,0,0,,,

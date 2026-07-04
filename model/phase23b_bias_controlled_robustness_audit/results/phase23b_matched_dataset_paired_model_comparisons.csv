@@ -1,0 +1,13 @@
+comparison,metric,mean_delta,sd_delta,ci95_low,ci95_high,wins_model_a,wins_model_b,ties,wilcoxon_p,n_pairs,wilcoxon_bh_fdr
+Early_fusion_Protein_DNABERT2 minus Early_fusion_Protein_Handcrafted,pr_auc,0.00215,0.01765,-0.00165,0.00608,38,37,0,0.30315,75,0.36378
+Early_fusion_Protein_DNABERT2 minus Early_fusion_Protein_Handcrafted,roc_auc,0.00477,0.01171,0.00222,0.00744,52,23,0,0.00075,75,0.00129
+Early_fusion_Protein_DNABERT2 minus Early_fusion_Protein_Handcrafted,mcc,0.00935,0.04523,-0.00082,0.01932,46,29,0,0.07958,75,0.11937
+Early_fusion_Protein_DNABERT2 minus Early_fusion_Protein_Handcrafted,f1,0.00414,0.0687,-0.01154,0.01976,43,32,0,0.41007,75,0.44735
+Early_fusion_Protein_DNABERT2 minus Protein_only,pr_auc,0.02167,0.02355,0.01655,0.02687,61,14,0,0.0,75,0.0
+Early_fusion_Protein_DNABERT2 minus Protein_only,roc_auc,0.01777,0.01639,0.01396,0.02142,63,12,0,0.0,75,0.0
+Early_fusion_Protein_DNABERT2 minus Protein_only,mcc,0.03339,0.04921,0.02166,0.04501,56,19,0,0.0,75,0.0
+Early_fusion_Protein_DNABERT2 minus Protein_only,f1,0.01401,0.08648,-0.00571,0.03375,43,32,0,0.15857,75,0.21142
+Early_fusion_Protein_Handcrafted minus Protein_only,pr_auc,0.01952,0.0167,0.01558,0.02315,66,9,0,0.0,75,0.0
+Early_fusion_Protein_Handcrafted minus Protein_only,roc_auc,0.013,0.01123,0.01038,0.01547,64,11,0,0.0,75,0.0
+Early_fusion_Protein_Handcrafted minus Protein_only,mcc,0.02404,0.04671,0.01348,0.03503,52,23,0,8e-05,75,0.00015
+Early_fusion_Protein_Handcrafted minus Protein_only,f1,0.00988,0.08953,-0.01074,0.0308,39,36,0,0.60481,75,0.60481

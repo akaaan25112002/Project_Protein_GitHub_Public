@@ -1,0 +1,5 @@
+representation,model,best_cv_roc_auc,best_train_roc_auc,overfit_gap_train_minus_cv,best_params
+ESM2_t6_8M_sliding_window_mean_pool_1022_stride_1022,Random Forest,0.6949317804885611,0.9979545240647205,0.30302274357615944,"{'model__bootstrap': True, 'model__max_depth': 8, 'model__max_features': 0.2, 'model__min_samples_leaf': 5, 'model__n_estimators': 300}"
+ESM2_t6_8M_sliding_window_mean_pool_1022_stride_1022,LightGBM,0.6853333862917725,0.9945475723784641,0.3092141860866916,"{'model__colsample_bytree': 0.8, 'model__learning_rate': 0.03, 'model__max_depth': 5, 'model__min_child_samples': 50, 'model__n_estimators': 200, 'model__num_leaves': 15, 'model__reg_alpha': 0.1, 'model__reg_lambda': 5, 'model__subsample': 0.8}"
+ESM2_t6_8M_sliding_window_mean_pool_1022_stride_1022,SVM RBF,0.684340415555831,0.9107287812077718,0.22638836565194076,"{'model__C': 1, 'model__gamma': 'scale'}"
+ESM2_t6_8M_sliding_window_mean_pool_1022_stride_1022,Logistic Regression,0.6666928552607105,0.7947932176607304,0.12810036240001987,"{'model__C': 0.01, 'model__penalty': 'l2', 'model__solver': 'lbfgs'}"

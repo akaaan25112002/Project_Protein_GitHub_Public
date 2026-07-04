@@ -1,0 +1,8 @@
+evidence_layer,model_or_analysis,main_result,interpretation
+Repeated CV benchmark,DNABERT-2 multimodal,PR-AUC 0.716 ± 0.024; MCC 0.331 ± 0.052; ROC-AUC 0.731 ± 0.023,Core internal robustness benchmark.
+Repeated CV benchmark,Handcrafted multimodal,PR-AUC 0.714 ± 0.019; MCC 0.317 ± 0.049; ROC-AUC 0.725 ± 0.020,Core internal robustness benchmark.
+Repeated CV benchmark,Protein-only,PR-AUC 0.695 ± 0.024; MCC 0.308 ± 0.033; ROC-AUC 0.713 ± 0.020,Core internal robustness benchmark.
+Repeated CV benchmark,Genomic-only,PR-AUC 0.645 ± 0.029; MCC 0.203 ± 0.043; ROC-AUC 0.641 ± 0.029,Core internal robustness benchmark.
+Fusion strategy comparison,Best PR-AUC fusion,Stacking_Protein_Handcrafted_DNABERT2 achieved PR-AUC 0.721 ± 0.020,Decision-level fusion provides small ranking gains.
+Fusion strategy comparison,Best MCC fusion,Early_fusion_Protein_DNABERT2Genomic achieved MCC 0.339 ± 0.054,Early DNABERT-2 fusion remains strong for threshold-based classification.
+Top-K ranking utility,Handcrafted multimodal,Top-100 recovered 84/100 positives; Precision@100=0.840,Strong gene-prioritization utility.

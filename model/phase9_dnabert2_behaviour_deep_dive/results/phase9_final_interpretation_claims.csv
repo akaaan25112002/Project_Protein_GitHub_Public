@@ -1,0 +1,6 @@
+claim,evidence,interpretation
+DNABERT-2 improves global ranking performance.,Phase 7 showed DNABERT-2 multimodal achieved the highest ROC-AUC and statistically improved ROC-AUC over handcrafted multimodal.,DNABERT-2 captures useful ranking signal across the full test set.
+DNABERT-2 does not improve PR-AUC or biological enrichment over handcrafted multimodal.,Phase 7 PR-AUC difference was not significant; Phase 8/9 enrichment shows fewer significant and T2D-relevant terms for DNABERT-2 top100/TP lists.,DNABERT-2 ranking improvement is not equivalent to stronger top-ranked biological concentration.
+Handcrafted multimodal retains stronger mitochondrial/OXPHOS biological validation.,"Moved-out genes include mitochondrial/OXPHOS genes such as NDUFA7, NDUFB1, NDUFB3/NDUFA13 depending on top list threshold.",Removing these genes weakens DNABERT-2 enrichment.
+DNABERT-2 top100 still preserves broad T2D biology.,"Top100 curated theme counts are similar for known T2D, beta-cell biology, glucose metabolism, insulin signalling, and pancreatic development.",DNABERT-2 does not lose diabetes biology completely; it changes ranking concentration.
+Moved-in DNABERT-2 genes require separate literature review.,Moved-in genes show weak/no significant enrichment as a group.,They may reflect different regulatory or less curated biological signals.

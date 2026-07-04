@@ -1,0 +1,8 @@
+| gene_list_name                  |   n_input_genes |   n_significant_terms |   n_t2d_relevant_terms | best_p_value_scientific   | top_term                                             | top_t2d_relevant_term     |
+|:--------------------------------|----------------:|----------------------:|-----------------------:|:--------------------------|:-----------------------------------------------------|:--------------------------|
+| top_true_positives              |              86 |                   175 |                     63 | 6.97e-11                  | respiratory chain complex I                          | oxidative phosphorylation |
+| top_50_combined_predictions     |              50 |                   102 |                     41 | 1.85e-05                  | NADH dehydrogenase (ubiquinone) activity             | Oxidative phosphorylation |
+| high_confidence_false_negatives |              49 |                     3 |                      0 | 4.80e-02                  | Anterior uveitis                                     | nan                       |
+| both_wrong_genes                |              74 |                     1 |                      0 | 1.07e-02                  | regulation of toll-like receptor 3 signaling pathway | nan                       |
+| high_confidence_false_positives |              40 |                     0 |                      0 |                           | nan                                                  | nan                       |
+| combined_rescued_genes          |              18 |                     0 |                      0 |                           | nan                                                  | nan                       |

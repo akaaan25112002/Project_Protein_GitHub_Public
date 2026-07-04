@@ -1,0 +1,14 @@
+gene_symbol_upper,handcrafted_rank,dnabert2_rank,rank_delta_dnabert2_minus_handcrafted,handcrafted_score,dnabert2_score,score_delta_dnabert2_minus_handcrafted,gene_id,gene_symbol,true_label,rank_improvement_by_dnabert2,top50_membership,top100_membership,rank_shift_category,rank_direction,abs_rank_shift,abs_score_shift,curated_biological_themes,has_curated_theme_support
+NDUFB3,19,104,85,0.7789,0.5697,-0.2092,ENSG00000119013,NDUFB3,1,-85,moved_out_from_handcrafted,moved_out_from_handcrafted,large_down_by_DNABERT2,DNABERT2_ranked_lower,85,0.2092,mitochondrial_function;oxidative_phosphorylation,True
+RALY,30,114,84,0.7581,0.5347,-0.2234,ENSG00000125970,RALY,1,-84,moved_out_from_handcrafted,moved_out_from_handcrafted,large_down_by_DNABERT2,DNABERT2_ranked_lower,84,0.2234,,False
+NDUFA13,53,151,98,0.6944,0.4408,-0.2535,ENSG00000186010,NDUFA13,1,-98,outside_both,moved_out_from_handcrafted,large_down_by_DNABERT2,DNABERT2_ranked_lower,98,0.2535,mitochondrial_function;oxidative_phosphorylation,True
+ILVBL,55,110,55,0.693,0.5481,-0.1449,ENSG00000105135,ILVBL,0,-55,outside_both,moved_out_from_handcrafted,large_down_by_DNABERT2,DNABERT2_ranked_lower,55,0.1449,,False
+SMPDL3A,59,103,44,0.6904,0.5702,-0.1202,ENSG00000172594,SMPDL3A,0,-44,outside_both,moved_out_from_handcrafted,moderate_down_by_DNABERT2,DNABERT2_ranked_lower,44,0.1202,,False
+ARID5B,71,137,66,0.6593,0.4681,-0.1912,ENSG00000150347,ARID5B,1,-66,outside_both,moved_out_from_handcrafted,large_down_by_DNABERT2,DNABERT2_ranked_lower,66,0.1912,,False
+WDR3,79,190,111,0.6409,0.3671,-0.2738,ENSG00000065183,WDR3,0,-111,outside_both,moved_out_from_handcrafted,large_down_by_DNABERT2,DNABERT2_ranked_lower,111,0.2738,,False
+MYBL2,80,140,60,0.6387,0.4651,-0.1736,ENSG00000101057,MYBL2,1,-60,outside_both,moved_out_from_handcrafted,large_down_by_DNABERT2,DNABERT2_ranked_lower,60,0.1736,,False
+RPS19,85,116,31,0.6232,0.5309,-0.0923,ENSG00000105372,RPS19,0,-31,outside_both,moved_out_from_handcrafted,moderate_down_by_DNABERT2,DNABERT2_ranked_lower,31,0.0923,,False
+ATG16L1,92,122,30,0.6069,0.5241,-0.0828,ENSG00000085978,ATG16L1,1,-30,outside_both,moved_out_from_handcrafted,moderate_down_by_DNABERT2,DNABERT2_ranked_lower,30,0.0828,,False
+EXOC1,97,132,35,0.5977,0.4811,-0.1166,ENSG00000090989,EXOC1,0,-35,outside_both,moved_out_from_handcrafted,moderate_down_by_DNABERT2,DNABERT2_ranked_lower,35,0.1166,,False
+QSOX1,98,120,22,0.5973,0.525,-0.0723,ENSG00000116260,QSOX1,0,-22,outside_both,moved_out_from_handcrafted,moderate_down_by_DNABERT2,DNABERT2_ranked_lower,22,0.0723,,False
+TNIP1,100,107,7,0.586,0.5664,-0.0196,ENSG00000145901,TNIP1,1,-7,outside_both,moved_out_from_handcrafted,small_down_by_DNABERT2,DNABERT2_ranked_lower,7,0.0196,,False

@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+cache/
+temp/
+tmp/
+intermediate/
+
+# Environment files
+.env
+.venv/
+venv/
+conda-env/
+
+# Google Drive shortcuts / metadata
+*.gdoc
+*.gsheet
+*.gslides
+
+# Private or restricted data
+data/raw/
+restricted_data/
+private_data/
+
+# Turnitin / private review material
+*turnitin*
+*Turnitin*
+revision_evidence_report*
+email_to_professor*
+professor_revision*
+*_private*
+*_confidential*
+
+# Large binary model and feature artifacts
+# Keep these ignored for public GitHub unless Git LFS is intentionally used.
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.h5
+*.npy
+*.npz
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Large genomic sequence files excluded from public GitHub
+data/UniPro/category_d_genomic_sequence_output/*.csv
+data/UniPro/category_d_genomic_sequence_output/*.fasta
+data/UniPro/category_d_genomic_sequence_output/*.fa
+
+# Large genomic sequence files excluded from public GitHub
+data/UniPro/category_d_genomic_sequence_output/*.csv
+data/UniPro/category_d_genomic_sequence_output/*.fasta
+data/UniPro/category_d_genomic_sequence_output/*.fa

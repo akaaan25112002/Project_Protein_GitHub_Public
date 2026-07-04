@@ -1,0 +1,20 @@
+## Abstract Results
+
+Across repeated stratified cross-validation, protein-containing models consistently outperformed the genomic-only baseline. Multimodal models improved ranking-oriented metrics relative to protein-only models, although gains were modest. DNABERT-2 multimodal representations achieved directional improvements in some settings but did not establish clear superiority over handcrafted genomic features after multiple-testing correction. Top-K ranking analysis demonstrated strong gene-prioritization utility, with multimodal models recovering substantially more current-positive genes in top-ranked lists than expected under random same-size gene baselines. Biological validation supported selected T2D-relevant mechanisms, particularly mitochondrial/OXPHOS and glucose-regulatory candidates, but did not provide confirmatory pathway enrichment after correction.
+
+## Results Overview
+
+The final evaluation combined repeated cross-validation, negative-set sensitivity analysis, fusion strategy comparison, Top-K ranking utility, biological validation and leakage/bias audits. The most robust pattern was that protein-containing models substantially outperformed the genomic-only baseline. Multimodal models provided modest but reproducible improvements in ranking-oriented metrics, especially PR-AUC and Top-K recovery. DNABERT-2 multimodal models were competitive with handcrafted multimodal models but should be interpreted as a ranking extension rather than a clearly superior replacement. Top-K ranking utility provided the strongest practical evidence for gene prioritization: multimodal rankings recovered many more current-positive genes in the top-ranked lists than expected by random sampling.
+
+## Discussion
+
+The results support a cautious interpretation of the proposed framework. The strongest conclusion is not that the model definitively classifies T2D and non-T2D genes, but that sequence-derived protein and genomic representations can support useful gene prioritization. Protein embeddings provided the dominant signal, while genomic features contributed complementary but modest information. DNABERT-2 changed ranking behaviour and provided directional improvements in selected analyses, but its advantage over handcrafted genomic features was not statistically established across all metrics. External and pathway-level validation were supportive rather than confirmatory, consistent with incomplete disease-gene labels and the limitations of binary negative sampling. Leakage and bias audits did not identify severe duplicate leakage, and gene-symbol-length matching did not reduce model performance; nevertheless, nuisance-only signal and cluster-aware performance reduction indicate residual dataset-level bias that should be acknowledged.
+
+## Limitations
+
+Several limitations should be emphasized. First, the task is gene/protein-level prioritization rather than patient-level T2D diagnosis. Second, negative labels represent genes without current T2D evidence, not confirmed non-disease genes. Third, external and pathway validation did not remain significant after correction and should be treated as hypothesis-generating. Fourth, protein embedding cluster-aware evaluation showed modest performance reduction, suggesting that part of the signal may reflect embedding-neighborhood or protein-family similarity. Fifth, nuisance-only models achieved moderate performance, indicating residual dataset-level bias. These limitations motivate future work using independent external validation sets, more stringent homology-aware splits, improved negative sampling, tissue-specific regulatory data and experimental validation of prioritized candidates.
+
+## Conclusion
+
+Overall, the study provides a robust and explainable sequence-based framework for T2D gene prioritization. The framework demonstrates strong Top-K prioritization utility, modest multimodal gains, and interpretable modality-level behaviour. The results support the value of combining protein and genomic sequence representations while emphasizing that biological findings remain hypothesis-generating under incomplete disease-gene labels.
+

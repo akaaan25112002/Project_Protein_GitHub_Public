@@ -1,0 +1,2 @@
+target_id,target_symbol,target_name,association_score,positive_tier,exclusion_reason
+ENSG00000293584,ENSG00000293584,novel protein,0.3044892304359669,Tier_B_strong_positive_0.30_to_0.50,No reviewed UniProt canonical protein sequence found via primary ENST-to-ENSG mapping or exact primary gene-symbol rescue

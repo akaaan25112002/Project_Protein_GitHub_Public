@@ -1,0 +1,11 @@
+phase,branch,representation,model,test_roc_auc,test_pr_auc,test_f1,test_mcc,main_note
+3.1,Multimodal,ProtBERT SW + K3/K4/Basic,SVM RBF,0.729,0.7573,0.659,0.3438,Official multimodal integration model
+3.1,Protein shared split,ProtBERT SW,SVM RBF,0.7274,0.7433,0.6667,0.3215,Best protein-only model on shared Phase 3 split
+1.2E,Protein,ProtBERT,Logistic Regression,0.6487,0.6551,0.5896,0.1941,Best protein ranking representation before shared split
+2.2,Genomic regulatory,K3 + K4 + Basic,SVM RBF,0.6765,0.6504,0.662,0.2933,"Diagnostic best genomic model, not official selection"
+1.2D,Protein,ProtBERT,Logistic Regression,0.6371,0.6423,0.6014,0.1943,ProtBERT truncated
+2.1,Genomic regulatory,K3 + K4 + Basic,Random Forest,0.6496,0.6327,0.6406,0.2557,Official genomic handcrafted model
+1.2B,Protein,ESM2_t6_8M,Soft Voting,0.6277,0.6278,0.587,0.165,ESM-2 small sliding-window
+1.2A,Protein,ESM2_t6_8M,Stacking,0.6202,0.6188,0.5926,0.1941,ESM-2 small truncated baseline
+1.2C,Protein,ESM2_t12_35M,Soft Voting,0.5875,0.5942,0.5654,0.0995,Larger ESM-2 did not improve under truncation
+1.1,Protein,AAC + Physchem,Random Forest,0.552,0.555,0.539,0.048,Protein handcrafted baseline

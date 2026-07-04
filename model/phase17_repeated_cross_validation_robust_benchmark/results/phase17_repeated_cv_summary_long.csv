@@ -1,0 +1,33 @@
+model_name,display_name,metric,mean,sd,ci95_low,ci95_high,n_folds
+DNABERT2_multimodal,DNABERT-2 multimodal,roc_auc,0.73059,0.02294,0.72168,0.73917,25
+DNABERT2_multimodal,DNABERT-2 multimodal,pr_auc,0.71613,0.02381,0.70716,0.72528,25
+DNABERT2_multimodal,DNABERT-2 multimodal,mcc,0.33084,0.0525,0.31018,0.35048,25
+DNABERT2_multimodal,DNABERT-2 multimodal,f1,0.646,0.06639,0.61866,0.67016,25
+DNABERT2_multimodal,DNABERT-2 multimodal,accuracy,0.66068,0.02802,0.6496,0.6711,25
+DNABERT2_multimodal,DNABERT-2 multimodal,precision,0.67846,0.05077,0.65957,0.69847,25
+DNABERT2_multimodal,DNABERT-2 multimodal,recall,0.63837,0.13176,0.58438,0.6875,25
+DNABERT2_multimodal,DNABERT-2 multimodal,specificity,0.68306,0.11513,0.63946,0.72916,25
+Genomic_only_K3K4Basic,Genomic-only,roc_auc,0.64082,0.02866,0.62942,0.65126,25
+Genomic_only_K3K4Basic,Genomic-only,pr_auc,0.64472,0.02863,0.63319,0.65488,25
+Genomic_only_K3K4Basic,Genomic-only,mcc,0.20341,0.04318,0.18713,0.22055,25
+Genomic_only_K3K4Basic,Genomic-only,f1,0.50115,0.10245,0.45956,0.53931,25
+Genomic_only_K3K4Basic,Genomic-only,accuracy,0.59258,0.02512,0.58307,0.60261,25
+Genomic_only_K3K4Basic,Genomic-only,precision,0.65363,0.05826,0.63237,0.67673,25
+Genomic_only_K3K4Basic,Genomic-only,recall,0.43282,0.14059,0.37829,0.48684,25
+Genomic_only_K3K4Basic,Genomic-only,specificity,0.75235,0.11896,0.705,0.79647,25
+Handcrafted_multimodal,Handcrafted multimodal,roc_auc,0.72465,0.01986,0.71718,0.73218,25
+Handcrafted_multimodal,Handcrafted multimodal,pr_auc,0.71374,0.01932,0.7064,0.72103,25
+Handcrafted_multimodal,Handcrafted multimodal,mcc,0.31675,0.04928,0.29744,0.33502,25
+Handcrafted_multimodal,Handcrafted multimodal,f1,0.63303,0.06275,0.60773,0.65637,25
+Handcrafted_multimodal,Handcrafted multimodal,accuracy,0.65338,0.02659,0.64279,0.66338,25
+Handcrafted_multimodal,Handcrafted multimodal,precision,0.67649,0.05056,0.65807,0.69644,25
+Handcrafted_multimodal,Handcrafted multimodal,recall,0.61545,0.13094,0.56362,0.66385,25
+Handcrafted_multimodal,Handcrafted multimodal,specificity,0.69119,0.12227,0.64351,0.73693,25
+Protein_only_ProtBERT_SW,Protein-only,roc_auc,0.71302,0.01994,0.7054,0.72054,25
+Protein_only_ProtBERT_SW,Protein-only,pr_auc,0.69511,0.02349,0.68654,0.70437,25
+Protein_only_ProtBERT_SW,Protein-only,mcc,0.30778,0.03315,0.29492,0.3209,25
+Protein_only_ProtBERT_SW,Protein-only,f1,0.66979,0.05019,0.64895,0.68789,25
+Protein_only_ProtBERT_SW,Protein-only,accuracy,0.64618,0.01841,0.63916,0.65346,25
+Protein_only_ProtBERT_SW,Protein-only,precision,0.6323,0.04051,0.61749,0.64834,25
+Protein_only_ProtBERT_SW,Protein-only,recall,0.73524,0.13243,0.68126,0.78333,25
+Protein_only_ProtBERT_SW,Protein-only,specificity,0.55698,0.13529,0.50652,0.61031,25

@@ -1,0 +1,2 @@
+model,dataset,accuracy,precision,recall_sensitivity,specificity,f1,roc_auc,pr_auc,mcc,tn,fp,fn,tp,representation
+Logistic Regression,test,0.5970695970695971,0.5928571428571429,0.6102941176470589,0.583941605839416,0.6014492753623188,0.6370759982825247,0.6422789673606879,0.19429830279008636,80,57,53,83,ProtBERT_mean_pool_truncated_1022

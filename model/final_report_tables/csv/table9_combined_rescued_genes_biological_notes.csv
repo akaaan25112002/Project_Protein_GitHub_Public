@@ -1,0 +1,19 @@
+gene_id,gene_symbol,true_label,protein_svm_score,combined_svm_score,protein_svm_pred,combined_svm_pred,protein_error_type,combined_error_type,score_delta_combined_minus_protein,biological_note
+ENSG00000151883,PARP8,1,0.4571,0.5407,0,1,FN,TP,0.0837,no_curated_support_in_current_gene_sets
+ENSG00000006071,ABCC8,1,0.469,0.5225,0,1,FN,TP,0.0535,known_T2D_or_GWAS_related; insulin_secretion_beta_cell_related
+ENSG00000134640,MTNR1B,1,0.4946,0.5,0,1,FN,TP,0.0054,known_T2D_or_GWAS_related
+ENSG00000103978,TMEM87A,0,0.6179,0.4942,1,0,FP,TN,-0.1236,no_curated_support_in_current_gene_sets
+ENSG00000122550,KLHL7,0,0.7143,0.4918,1,0,FP,TN,-0.2226,no_curated_support_in_current_gene_sets
+ENSG00000105738,SIPA1L3,0,0.5978,0.4869,1,0,FP,TN,-0.1109,no_curated_support_in_current_gene_sets
+ENSG00000077327,SPAG6,0,0.5563,0.4764,1,0,FP,TN,-0.0799,no_curated_support_in_current_gene_sets
+ENSG00000197530,MIB2,0,0.5765,0.4636,1,0,FP,TN,-0.1129,no_curated_support_in_current_gene_sets
+ENSG00000154832,CXXC1,0,0.6072,0.4602,1,0,FP,TN,-0.1469,no_curated_support_in_current_gene_sets
+ENSG00000173320,STOX2,0,0.5691,0.4526,1,0,FP,TN,-0.1166,no_curated_support_in_current_gene_sets
+ENSG00000138286,FAM149B1,0,0.5476,0.4522,1,0,FP,TN,-0.0954,no_curated_support_in_current_gene_sets
+ENSG00000136950,ARPC5L,0,0.5676,0.4519,1,0,FP,TN,-0.1158,no_curated_support_in_current_gene_sets
+ENSG00000127863,TNFRSF19,0,0.5509,0.4372,1,0,FP,TN,-0.1138,no_curated_support_in_current_gene_sets
+ENSG00000206203,TSSK2,0,0.5081,0.4153,1,0,FP,TN,-0.0927,no_curated_support_in_current_gene_sets
+ENSG00000092208,GEMIN2,0,0.6726,0.4011,1,0,FP,TN,-0.2715,no_curated_support_in_current_gene_sets
+ENSG00000185156,MFSD6L,0,0.5339,0.3855,1,0,FP,TN,-0.1484,no_curated_support_in_current_gene_sets
+ENSG00000124155,PIGT,0,0.5,0.3319,1,0,FP,TN,-0.1681,no_curated_support_in_current_gene_sets
+ENSG00000153930,ANKFN1,0,0.5141,0.2842,1,0,FP,TN,-0.2299,no_curated_support_in_current_gene_sets

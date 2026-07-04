@@ -1,0 +1,9 @@
+theme,universe_size,theme_gene_set_size_original,theme_genes_present_in_universe,theme_fraction_in_universe,theme_genes_in_universe
+insulin_signalling,271,23,1,0.0037,INSR
+glucose_metabolism,271,23,3,0.0111,G6PC2;SLC5A1;SLC5A2
+beta_cell_biology,271,26,9,0.0332,ABCC8;CACNA1D;DPP4;GAD1;ISL1;KCNJ11;NEUROD1;PAX4;PDX1
+mitochondrial_function,271,52,10,0.0369,NDUFA13;NDUFA2;NDUFA7;NDUFA9;NDUFB1;NDUFB2;NDUFB3;NDUFB9;NDUFC2;NDUFV1
+oxidative_phosphorylation,271,25,10,0.0369,NDUFA13;NDUFA2;NDUFA7;NDUFA9;NDUFB1;NDUFB2;NDUFB3;NDUFB9;NDUFC2;NDUFV1
+pancreatic_development,271,20,4,0.0148,ISL1;NEUROD1;PAX4;PDX1
+lipid_metabolism,271,20,1,0.0037,SCD5
+known_t2d_gwas_or_monogenic,271,32,14,0.0517,ABCC8;CACNA1D;DPP4;GAD1;HHEX;IGF2BP2;INSR;KCNJ11;MTNR1B;NEUROD1;PAX4;PDX1;SLC5A1;THADA

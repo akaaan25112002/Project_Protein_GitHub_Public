@@ -1,0 +1,21 @@
+display_name,external_set,observed_overlap,random_mean,enrichment_fold_vs_random,empirical_p,empirical_bh_fdr_within_topn,top_genes_overlap
+DNABERT-2 multimodal,Beta_cell_function_or_development,1,1.0006,0.9994,0.6387,1.0,NKX6-1
+Genomic-only,Beta_cell_function_or_development,1,1.0138,0.9864,0.6481,1.0,HNF1B
+Handcrafted multimodal,Beta_cell_function_or_development,1,1.0162,0.9841,0.6525,1.0,NKX6-1
+Protein-only,Beta_cell_function_or_development,2,0.9956,2.0088,0.2666,1.0,GCK; NKX6-1
+DNABERT-2 multimodal,Diabetes_drug_targets_or_pharmacology,0,0.55,0.0,1.0,1.0,
+Genomic-only,Diabetes_drug_targets_or_pharmacology,0,0.532,0.0,1.0,1.0,
+Handcrafted multimodal,Diabetes_drug_targets_or_pharmacology,0,0.5642,0.0,1.0,1.0,
+Protein-only,Diabetes_drug_targets_or_pharmacology,1,0.577,1.7331,0.4505,1.0,GCK
+DNABERT-2 multimodal,Glucose_metabolism_transport_or_insulin_secretion,1,1.0058,0.9942,0.6493,1.0,GCKR
+Genomic-only,Glucose_metabolism_transport_or_insulin_secretion,0,1.0078,0.0,1.0,1.0,
+Handcrafted multimodal,Glucose_metabolism_transport_or_insulin_secretion,1,0.9738,1.0269,0.6343,1.0,GCKR
+Protein-only,Glucose_metabolism_transport_or_insulin_secretion,2,1.0454,1.9131,0.2859,1.0,GCK; GCKR
+DNABERT-2 multimodal,Known_T2D_GWAS_or_genetic_risk,2,1.833,1.0911,0.5585,1.0,CDC123; GCKR
+Genomic-only,Known_T2D_GWAS_or_genetic_risk,2,1.8068,1.1069,0.5527,1.0,CDC123; THADA
+Handcrafted multimodal,Known_T2D_GWAS_or_genetic_risk,1,1.7942,0.5574,0.8512,1.0,GCKR
+Protein-only,Known_T2D_GWAS_or_genetic_risk,2,1.8238,1.0966,0.5557,1.0,GCK; GCKR
+DNABERT-2 multimodal,Mitochondrial_OXPHOS_complex_I,4,1.916,2.0877,0.122,1.0,NDUFA12; NDUFA7; NDUFB11; NDUFV1
+Genomic-only,Mitochondrial_OXPHOS_complex_I,1,1.879,0.5322,0.862,1.0,NDUFA12
+Handcrafted multimodal,Mitochondrial_OXPHOS_complex_I,2,1.8844,1.0614,0.5733,1.0,NDUFB11; NDUFV1
+Protein-only,Mitochondrial_OXPHOS_complex_I,1,1.899,0.5266,0.857,1.0,NDUFV1

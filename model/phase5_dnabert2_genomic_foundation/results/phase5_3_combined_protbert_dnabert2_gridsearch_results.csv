@@ -1,0 +1,4 @@
+representation,model,best_cv_roc_auc,best_train_roc_auc,overfit_gap_train_minus_cv,best_params
+Combined ProtBERT-SW + DNABERT-2,Logistic Regression,0.72084868359709,0.7995305254876752,0.07868184189058525,"{'model__C': 0.0003, 'model__penalty': 'l2', 'model__solver': 'lbfgs'}"
+Combined ProtBERT-SW + DNABERT-2,Random Forest,0.7188772038415834,0.9875390249112556,0.2686618210696722,"{'model__bootstrap': True, 'model__max_depth': 8, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 10, 'model__n_estimators': 300}"
+Combined ProtBERT-SW + DNABERT-2,SVM RBF,0.7139288144537488,0.9681875924316954,0.2542587779779466,"{'model__C': 1, 'model__gamma': 'scale'}"

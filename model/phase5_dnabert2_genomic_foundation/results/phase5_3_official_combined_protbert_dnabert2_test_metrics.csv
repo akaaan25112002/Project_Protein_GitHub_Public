@@ -1,0 +1,2 @@
+representation,model,dataset,accuracy,precision,recall_sensitivity,specificity,f1,roc_auc,pr_auc,mcc,tn,fp,fn,tp
+Combined ProtBERT-SW + DNABERT-2,SVM RBF,test,0.6715867158671587,0.6796875,0.6444444444444445,0.6985294117647058,0.6615969581749049,0.7567538126361655,0.7446882147625922,0.34349810959811267,95,41,48,87

@@ -1,0 +1,6 @@
+cross_modality_group,0,1,All
+both_correct,7,8,15
+both_wrong,9,1,10
+genomic_correct_protein_wrong,9,1,10
+protein_correct_genomic_wrong,1,9,10
+All,26,19,45

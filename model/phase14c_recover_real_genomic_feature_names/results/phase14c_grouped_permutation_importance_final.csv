@@ -1,0 +1,9 @@
+feature_group,n_features,sum_importance,mean_importance,max_importance,relative_group_importance,mapping_confidence,mapping_source
+K4_kmer,256,0.104116,0.0004067,0.005506,0.66858886,low_assumed_reconstructed_order,reconstructed_order_default_assumption::K3_K4_Basic
+K3_kmer,64,0.029172,0.00045581,0.003782,0.18733023,low_assumed_reconstructed_order,reconstructed_order_default_assumption::K3_K4_Basic
+Sequence_length,1,0.00579,0.00579,0.00579,0.03718093,low_assumed_reconstructed_order,reconstructed_order_default_assumption::K3_K4_Basic
+GC_content,14,0.005437,0.00038836,0.002736,0.03491411,low_assumed_reconstructed_order,reconstructed_order_default_assumption::K3_K4_Basic
+Skew,7,0.005317,0.00075957,0.002588,0.03414352,low_assumed_reconstructed_order,reconstructed_order_default_assumption::K3_K4_Basic
+Other_basic,1,0.003148,0.003148,0.003148,0.02021512,low_assumed_reconstructed_order,reconstructed_order_default_assumption::K3_K4_Basic
+CpG_related,9,0.002367,0.000263,0.001739,0.01519987,low_assumed_reconstructed_order,reconstructed_order_default_assumption::K3_K4_Basic
+Nucleotide_composition,4,0.000378,9.45e-05,0.000461,0.00242736,low_assumed_reconstructed_order,reconstructed_order_default_assumption::K3_K4_Basic

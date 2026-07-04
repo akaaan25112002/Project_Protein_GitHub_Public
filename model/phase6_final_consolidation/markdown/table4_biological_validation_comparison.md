@@ -1,0 +1,4 @@
+| model                                        |   top50_curated_supported_n |   top50_curated_supported_pct |   top50_significant_terms |   top50_t2d_relevant_terms | top_t2d_relevant_term                                                    |
+|:---------------------------------------------|----------------------------:|------------------------------:|--------------------------:|---------------------------:|:-------------------------------------------------------------------------|
+| Phase 3.1 Combined ProtBERT-SW + K3/K4/Basic |                          15 |                            30 |                       102 |                         41 | Oxidative phosphorylation                                                |
+| Phase 5.3 Combined ProtBERT-SW + DNABERT-2   |                          10 |                            20 |                        43 |                         16 | DNA-binding transcription activator activity, RNA polymerase II-specific |

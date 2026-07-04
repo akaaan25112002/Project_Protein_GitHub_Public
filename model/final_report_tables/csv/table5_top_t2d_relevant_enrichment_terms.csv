@@ -1,0 +1,31 @@
+gene_list_name,source,native,name,p_value_scientific,intersection_size,term_size,precision,recall,overlap_genes,matched_biological_groups
+top_50_combined_predictions,KEGG,KEGG:00190,Oxidative phosphorylation,1.29e-02,5,136,0.1471,0.0368,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1,mitochondria_energy;signaling_regulation
+top_50_combined_predictions,WP,WP:WP623,Oxidative phosphorylation,1.48e-02,4,60,0.1111,0.0667,NDUFB2; NDUFV1; NDUFA7; NDUFB1,mitochondria_energy;signaling_regulation
+top_50_combined_predictions,GO:BP,GO:0006119,oxidative phosphorylation,3.08e-02,5,146,0.1064,0.0342,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1,mitochondria_energy;signaling_regulation
+top_50_combined_predictions,GO:BP,GO:0031016,pancreas development,4.90e-02,4,79,0.0851,0.0506,NEUROD1; INSR; ISL1; PDX1,development_beta_cell;diabetes_glucose_insulin
+top_50_combined_predictions,GO:MF,GO:0008137,NADH dehydrogenase (ubiquinone) activity,1.85e-05,5,41,0.1042,0.122,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1,mitochondria_energy
+top_50_combined_predictions,GO:CC,GO:0030964,NADH dehydrogenase complex,2.14e-05,5,49,0.1,0.102,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1,mitochondria_energy
+top_50_combined_predictions,GO:CC,GO:0045271,respiratory chain complex I,2.14e-05,5,49,0.1,0.102,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1,mitochondria_energy
+top_50_combined_predictions,GO:BP,GO:0006120,"mitochondrial electron transport, NADH to ubiquinone",2.00e-04,5,53,0.1064,0.0943,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1,mitochondria_energy
+top_50_combined_predictions,GO:MF,GO:0001228,"DNA-binding transcription activator activity, RNA polymerase II-specific",2.91e-04,9,431,0.1875,0.0209,ETV1; NEUROD1; HHEX; TCF12; BCL11B; MEIS1; NFAT5; ISL1; TFAP2B,signaling_regulation
+top_50_combined_predictions,GO:MF,GO:0001216,DNA-binding transcription activator activity,3.26e-04,9,437,0.1875,0.0206,ETV1; NEUROD1; HHEX; TCF12; BCL11B; MEIS1; NFAT5; ISL1; TFAP2B,signaling_regulation
+top_50_combined_predictions,WP,WP:WP4324,Mitochondrial complex I assembly model OXPHOS system,4.23e-04,5,56,0.1389,0.0893,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1,mitochondria_energy
+top_50_combined_predictions,GO:MF,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",5.52e-04,14,1309,0.2917,0.0107,FOXN3; DACH1; ETV1; NEUROD1; TSHZ3; HHEX; TCF12; BCL11B; MEIS1; NFAT5; ISL1; TFAP2B; PDX1; PRDM5,signaling_regulation
+top_50_combined_predictions,GO:BP,GO:0042776,proton motive force-driven mitochondrial ATP synthesis,6.59e-04,5,67,0.1064,0.0746,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1,mitochondria_energy
+top_50_combined_predictions,GO:MF,GO:0003700,DNA-binding transcription factor activity,1.17e-03,14,1395,0.2917,0.01,FOXN3; DACH1; ETV1; NEUROD1; TSHZ3; HHEX; TCF12; BCL11B; MEIS1; NFAT5; ISL1; TFAP2B; PDX1; PRDM5,signaling_regulation
+top_50_combined_predictions,GO:MF,GO:0000976,transcription cis-regulatory region binding,1.36e-03,14,1413,0.2917,0.0099,FOXN3; DACH1; ETV1; NEUROD1; HHEX; TCF12; DNMT3A; BCL11B; MEIS1; NFAT5; ISL1; TFAP2B; PDX1; PRDM5,signaling_regulation
+top_true_positives,GO:BP,GO:0006119,oxidative phosphorylation,1.57e-05,9,146,0.1059,0.0616,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1; NDUFA13; NDUFC2; NDUFA2; NDUFA9,mitochondria_energy;signaling_regulation
+top_true_positives,WP,WP:WP623,Oxidative phosphorylation,2.06e-05,7,60,0.1186,0.1167,NDUFB2; NDUFV1; NDUFA7; NDUFB1; NDUFC2; NDUFA2; NDUFA9,mitochondria_energy;signaling_regulation
+top_true_positives,KEGG,KEGG:00190,Oxidative phosphorylation,2.26e-05,9,136,0.1525,0.0662,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1; NDUFA13; NDUFC2; NDUFA2; NDUFA9,mitochondria_energy;signaling_regulation
+top_true_positives,GO:CC,GO:0045271,respiratory chain complex I,6.97e-11,9,49,0.1047,0.1837,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1; NDUFA13; NDUFC2; NDUFA2; NDUFA9,mitochondria_energy
+top_true_positives,GO:CC,GO:0030964,NADH dehydrogenase complex,6.97e-11,9,49,0.1047,0.1837,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1; NDUFA13; NDUFC2; NDUFA2; NDUFA9,mitochondria_energy
+top_true_positives,GO:MF,GO:0008137,NADH dehydrogenase (ubiquinone) activity,2.84e-09,8,41,0.0941,0.1951,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1; NDUFC2; NDUFA2; NDUFA9,mitochondria_energy
+top_true_positives,GO:BP,GO:0042776,proton motive force-driven mitochondrial ATP synthesis,1.35e-08,9,67,0.1059,0.1343,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1; NDUFA13; NDUFC2; NDUFA2; NDUFA9,mitochondria_energy
+top_true_positives,GO:BP,GO:0015986,proton motive force-driven ATP synthesis,5.55e-08,9,78,0.1059,0.1154,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1; NDUFA13; NDUFC2; NDUFA2; NDUFA9,mitochondria_energy
+top_true_positives,GO:BP,GO:0006120,"mitochondrial electron transport, NADH to ubiquinone",7.94e-08,8,53,0.0941,0.1509,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1; NDUFC2; NDUFA2; NDUFA9,mitochondria_energy
+top_true_positives,GO:CC,GO:0098803,respiratory chain complex,2.10e-07,9,116,0.1047,0.0776,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1; NDUFA13; NDUFC2; NDUFA2; NDUFA9,mitochondria_energy
+top_true_positives,GO:CC,GO:1990204,oxidoreductase complex,2.84e-07,9,120,0.1047,0.075,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1; NDUFA13; NDUFC2; NDUFA2; NDUFA9,mitochondria_energy
+top_true_positives,GO:BP,GO:0046034,ATP metabolic process,3.43e-07,12,233,0.1412,0.0515,NDUFB2; INSR; NDUFV1; NDUFB3; ATP1A2; NDUFA7; NDUFB1; NDUFA13; ENPP3; NDUFC2; NDUFA2; NDUFA9,mitochondria_energy
+top_true_positives,WP,WP:WP4324,Mitochondrial complex I assembly model OXPHOS system,4.56e-07,8,56,0.1356,0.1429,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1; NDUFA13; NDUFC2; NDUFA2,mitochondria_energy
+top_true_positives,HP,HP:0004924,Abnormal oral glucose tolerance,4.60e-07,6,15,0.1667,0.4,NEUROD1; SLC5A1; PDX1; SLC5A2; KCNJ11; ABCC8,diabetes_glucose_insulin
+top_true_positives,GO:BP,GO:0006754,ATP biosynthetic process,5.90e-07,9,101,0.1059,0.0891,NDUFB2; NDUFV1; NDUFB3; NDUFA7; NDUFB1; NDUFA13; NDUFC2; NDUFA2; NDUFA9,mitochondria_energy

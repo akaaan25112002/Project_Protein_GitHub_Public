@@ -1,0 +1,1921 @@
+scenario_name,scenario_type,split_id,model_name,display_name,pr_auc,metric,rank,mcc,roc_auc,f1
+Easy_Negatives_Farthest,easy_negatives,1,Genomic_only_K3K4Basic,Genomic-only,0.64967,pr_auc,4.0,,,
+Easy_Negatives_Farthest,easy_negatives,1,Protein_only_ProtBERT_SW,Protein-only,0.75727,pr_auc,2.0,,,
+Easy_Negatives_Farthest,easy_negatives,1,Handcrafted_multimodal,Handcrafted multimodal,0.76465,pr_auc,1.0,,,
+Easy_Negatives_Farthest,easy_negatives,1,DNABERT2_multimodal,DNABERT-2 multimodal,0.7529,pr_auc,3.0,,,
+Easy_Negatives_Farthest,easy_negatives,2,Genomic_only_K3K4Basic,Genomic-only,0.63169,pr_auc,4.0,,,
+Easy_Negatives_Farthest,easy_negatives,2,Protein_only_ProtBERT_SW,Protein-only,0.73418,pr_auc,1.0,,,
+Easy_Negatives_Farthest,easy_negatives,2,Handcrafted_multimodal,Handcrafted multimodal,0.73302,pr_auc,2.0,,,
+Easy_Negatives_Farthest,easy_negatives,2,DNABERT2_multimodal,DNABERT-2 multimodal,0.72018,pr_auc,3.0,,,
+Easy_Negatives_Farthest,easy_negatives,3,Genomic_only_K3K4Basic,Genomic-only,0.62824,pr_auc,4.0,,,
+Easy_Negatives_Farthest,easy_negatives,3,Protein_only_ProtBERT_SW,Protein-only,0.7981,pr_auc,1.0,,,
+Easy_Negatives_Farthest,easy_negatives,3,Handcrafted_multimodal,Handcrafted multimodal,0.78973,pr_auc,2.0,,,
+Easy_Negatives_Farthest,easy_negatives,3,DNABERT2_multimodal,DNABERT-2 multimodal,0.7521,pr_auc,3.0,,,
+Easy_Negatives_Farthest,easy_negatives,4,Genomic_only_K3K4Basic,Genomic-only,0.71764,pr_auc,4.0,,,
+Easy_Negatives_Farthest,easy_negatives,4,Protein_only_ProtBERT_SW,Protein-only,0.77427,pr_auc,1.0,,,
+Easy_Negatives_Farthest,easy_negatives,4,Handcrafted_multimodal,Handcrafted multimodal,0.76207,pr_auc,2.0,,,
+Easy_Negatives_Farthest,easy_negatives,4,DNABERT2_multimodal,DNABERT-2 multimodal,0.75685,pr_auc,3.0,,,
+Easy_Negatives_Farthest,easy_negatives,5,Genomic_only_K3K4Basic,Genomic-only,0.67549,pr_auc,4.0,,,
+Easy_Negatives_Farthest,easy_negatives,5,Protein_only_ProtBERT_SW,Protein-only,0.79342,pr_auc,3.0,,,
+Easy_Negatives_Farthest,easy_negatives,5,Handcrafted_multimodal,Handcrafted multimodal,0.82129,pr_auc,1.0,,,
+Easy_Negatives_Farthest,easy_negatives,5,DNABERT2_multimodal,DNABERT-2 multimodal,0.80581,pr_auc,2.0,,,
+Easy_Negatives_Farthest,easy_negatives,6,Genomic_only_K3K4Basic,Genomic-only,0.6186,pr_auc,4.0,,,
+Easy_Negatives_Farthest,easy_negatives,6,Protein_only_ProtBERT_SW,Protein-only,0.77074,pr_auc,2.0,,,
+Easy_Negatives_Farthest,easy_negatives,6,Handcrafted_multimodal,Handcrafted multimodal,0.77544,pr_auc,1.0,,,
+Easy_Negatives_Farthest,easy_negatives,6,DNABERT2_multimodal,DNABERT-2 multimodal,0.76361,pr_auc,3.0,,,
+Easy_Negatives_Farthest,easy_negatives,7,Genomic_only_K3K4Basic,Genomic-only,0.61584,pr_auc,4.0,,,
+Easy_Negatives_Farthest,easy_negatives,7,Protein_only_ProtBERT_SW,Protein-only,0.73544,pr_auc,2.0,,,
+Easy_Negatives_Farthest,easy_negatives,7,Handcrafted_multimodal,Handcrafted multimodal,0.74139,pr_auc,1.0,,,
+Easy_Negatives_Farthest,easy_negatives,7,DNABERT2_multimodal,DNABERT-2 multimodal,0.7274,pr_auc,3.0,,,
+Easy_Negatives_Farthest,easy_negatives,8,Genomic_only_K3K4Basic,Genomic-only,0.65557,pr_auc,4.0,,,
+Easy_Negatives_Farthest,easy_negatives,8,Protein_only_ProtBERT_SW,Protein-only,0.78877,pr_auc,2.0,,,
+Easy_Negatives_Farthest,easy_negatives,8,Handcrafted_multimodal,Handcrafted multimodal,0.79544,pr_auc,1.0,,,
+Easy_Negatives_Farthest,easy_negatives,8,DNABERT2_multimodal,DNABERT-2 multimodal,0.77895,pr_auc,3.0,,,
+Easy_Negatives_Farthest,easy_negatives,9,Genomic_only_K3K4Basic,Genomic-only,0.62441,pr_auc,4.0,,,
+Easy_Negatives_Farthest,easy_negatives,9,Protein_only_ProtBERT_SW,Protein-only,0.78332,pr_auc,2.0,,,
+Easy_Negatives_Farthest,easy_negatives,9,Handcrafted_multimodal,Handcrafted multimodal,0.78458,pr_auc,1.0,,,
+Easy_Negatives_Farthest,easy_negatives,9,DNABERT2_multimodal,DNABERT-2 multimodal,0.75894,pr_auc,3.0,,,
+Easy_Negatives_Farthest,easy_negatives,10,Genomic_only_K3K4Basic,Genomic-only,0.7333,pr_auc,4.0,,,
+Easy_Negatives_Farthest,easy_negatives,10,Protein_only_ProtBERT_SW,Protein-only,0.75581,pr_auc,3.0,,,
+Easy_Negatives_Farthest,easy_negatives,10,Handcrafted_multimodal,Handcrafted multimodal,0.78346,pr_auc,1.0,,,
+Easy_Negatives_Farthest,easy_negatives,10,DNABERT2_multimodal,DNABERT-2 multimodal,0.77166,pr_auc,2.0,,,
+Easy_Negatives_Farthest,easy_negatives,11,Genomic_only_K3K4Basic,Genomic-only,0.60242,pr_auc,4.0,,,
+Easy_Negatives_Farthest,easy_negatives,11,Protein_only_ProtBERT_SW,Protein-only,0.67655,pr_auc,3.0,,,
+Easy_Negatives_Farthest,easy_negatives,11,Handcrafted_multimodal,Handcrafted multimodal,0.69688,pr_auc,1.0,,,
+Easy_Negatives_Farthest,easy_negatives,11,DNABERT2_multimodal,DNABERT-2 multimodal,0.69053,pr_auc,2.0,,,
+Easy_Negatives_Farthest,easy_negatives,12,Genomic_only_K3K4Basic,Genomic-only,0.66255,pr_auc,4.0,,,
+Easy_Negatives_Farthest,easy_negatives,12,Protein_only_ProtBERT_SW,Protein-only,0.75967,pr_auc,2.0,,,
+Easy_Negatives_Farthest,easy_negatives,12,Handcrafted_multimodal,Handcrafted multimodal,0.76804,pr_auc,1.0,,,
+Easy_Negatives_Farthest,easy_negatives,12,DNABERT2_multimodal,DNABERT-2 multimodal,0.755,pr_auc,3.0,,,
+Easy_Negatives_Farthest,easy_negatives,13,Genomic_only_K3K4Basic,Genomic-only,0.66254,pr_auc,4.0,,,
+Easy_Negatives_Farthest,easy_negatives,13,Protein_only_ProtBERT_SW,Protein-only,0.8284,pr_auc,1.0,,,
+Easy_Negatives_Farthest,easy_negatives,13,Handcrafted_multimodal,Handcrafted multimodal,0.80648,pr_auc,2.0,,,
+Easy_Negatives_Farthest,easy_negatives,13,DNABERT2_multimodal,DNABERT-2 multimodal,0.78775,pr_auc,3.0,,,
+Easy_Negatives_Farthest,easy_negatives,14,Genomic_only_K3K4Basic,Genomic-only,0.63296,pr_auc,4.0,,,
+Easy_Negatives_Farthest,easy_negatives,14,Protein_only_ProtBERT_SW,Protein-only,0.77336,pr_auc,3.0,,,
+Easy_Negatives_Farthest,easy_negatives,14,Handcrafted_multimodal,Handcrafted multimodal,0.79217,pr_auc,2.0,,,
+Easy_Negatives_Farthest,easy_negatives,14,DNABERT2_multimodal,DNABERT-2 multimodal,0.80627,pr_auc,1.0,,,
+Easy_Negatives_Farthest,easy_negatives,15,Genomic_only_K3K4Basic,Genomic-only,0.68508,pr_auc,4.0,,,
+Easy_Negatives_Farthest,easy_negatives,15,Protein_only_ProtBERT_SW,Protein-only,0.74181,pr_auc,3.0,,,
+Easy_Negatives_Farthest,easy_negatives,15,Handcrafted_multimodal,Handcrafted multimodal,0.74387,pr_auc,2.0,,,
+Easy_Negatives_Farthest,easy_negatives,15,DNABERT2_multimodal,DNABERT-2 multimodal,0.75267,pr_auc,1.0,,,
+Hard_Negatives_Closest,hard_negatives,1,Genomic_only_K3K4Basic,Genomic-only,0.64222,pr_auc,4.0,,,
+Hard_Negatives_Closest,hard_negatives,1,Protein_only_ProtBERT_SW,Protein-only,0.66169,pr_auc,3.0,,,
+Hard_Negatives_Closest,hard_negatives,1,Handcrafted_multimodal,Handcrafted multimodal,0.68751,pr_auc,2.0,,,
+Hard_Negatives_Closest,hard_negatives,1,DNABERT2_multimodal,DNABERT-2 multimodal,0.697,pr_auc,1.0,,,
+Hard_Negatives_Closest,hard_negatives,2,Genomic_only_K3K4Basic,Genomic-only,0.59538,pr_auc,4.0,,,
+Hard_Negatives_Closest,hard_negatives,2,Protein_only_ProtBERT_SW,Protein-only,0.69147,pr_auc,2.0,,,
+Hard_Negatives_Closest,hard_negatives,2,Handcrafted_multimodal,Handcrafted multimodal,0.71494,pr_auc,1.0,,,
+Hard_Negatives_Closest,hard_negatives,2,DNABERT2_multimodal,DNABERT-2 multimodal,0.67243,pr_auc,3.0,,,
+Hard_Negatives_Closest,hard_negatives,3,Genomic_only_K3K4Basic,Genomic-only,0.57565,pr_auc,4.0,,,
+Hard_Negatives_Closest,hard_negatives,3,Protein_only_ProtBERT_SW,Protein-only,0.67537,pr_auc,3.0,,,
+Hard_Negatives_Closest,hard_negatives,3,Handcrafted_multimodal,Handcrafted multimodal,0.70032,pr_auc,1.0,,,
+Hard_Negatives_Closest,hard_negatives,3,DNABERT2_multimodal,DNABERT-2 multimodal,0.69161,pr_auc,2.0,,,
+Hard_Negatives_Closest,hard_negatives,4,Genomic_only_K3K4Basic,Genomic-only,0.62807,pr_auc,4.0,,,
+Hard_Negatives_Closest,hard_negatives,4,Protein_only_ProtBERT_SW,Protein-only,0.69646,pr_auc,3.0,,,
+Hard_Negatives_Closest,hard_negatives,4,Handcrafted_multimodal,Handcrafted multimodal,0.70689,pr_auc,2.0,,,
+Hard_Negatives_Closest,hard_negatives,4,DNABERT2_multimodal,DNABERT-2 multimodal,0.73191,pr_auc,1.0,,,
+Hard_Negatives_Closest,hard_negatives,5,Genomic_only_K3K4Basic,Genomic-only,0.62818,pr_auc,4.0,,,
+Hard_Negatives_Closest,hard_negatives,5,Protein_only_ProtBERT_SW,Protein-only,0.69375,pr_auc,3.0,,,
+Hard_Negatives_Closest,hard_negatives,5,Handcrafted_multimodal,Handcrafted multimodal,0.71427,pr_auc,2.0,,,
+Hard_Negatives_Closest,hard_negatives,5,DNABERT2_multimodal,DNABERT-2 multimodal,0.72763,pr_auc,1.0,,,
+Hard_Negatives_Closest,hard_negatives,6,Genomic_only_K3K4Basic,Genomic-only,0.67376,pr_auc,4.0,,,
+Hard_Negatives_Closest,hard_negatives,6,Protein_only_ProtBERT_SW,Protein-only,0.70519,pr_auc,3.0,,,
+Hard_Negatives_Closest,hard_negatives,6,Handcrafted_multimodal,Handcrafted multimodal,0.73756,pr_auc,1.0,,,
+Hard_Negatives_Closest,hard_negatives,6,DNABERT2_multimodal,DNABERT-2 multimodal,0.72261,pr_auc,2.0,,,
+Hard_Negatives_Closest,hard_negatives,7,Genomic_only_K3K4Basic,Genomic-only,0.61057,pr_auc,4.0,,,
+Hard_Negatives_Closest,hard_negatives,7,Protein_only_ProtBERT_SW,Protein-only,0.68505,pr_auc,3.0,,,
+Hard_Negatives_Closest,hard_negatives,7,Handcrafted_multimodal,Handcrafted multimodal,0.7201,pr_auc,2.0,,,
+Hard_Negatives_Closest,hard_negatives,7,DNABERT2_multimodal,DNABERT-2 multimodal,0.74108,pr_auc,1.0,,,
+Hard_Negatives_Closest,hard_negatives,8,Genomic_only_K3K4Basic,Genomic-only,0.6179,pr_auc,4.0,,,
+Hard_Negatives_Closest,hard_negatives,8,Protein_only_ProtBERT_SW,Protein-only,0.70064,pr_auc,2.0,,,
+Hard_Negatives_Closest,hard_negatives,8,Handcrafted_multimodal,Handcrafted multimodal,0.70401,pr_auc,1.0,,,
+Hard_Negatives_Closest,hard_negatives,8,DNABERT2_multimodal,DNABERT-2 multimodal,0.69546,pr_auc,3.0,,,
+Hard_Negatives_Closest,hard_negatives,9,Genomic_only_K3K4Basic,Genomic-only,0.65402,pr_auc,4.0,,,
+Hard_Negatives_Closest,hard_negatives,9,Protein_only_ProtBERT_SW,Protein-only,0.72667,pr_auc,3.0,,,
+Hard_Negatives_Closest,hard_negatives,9,Handcrafted_multimodal,Handcrafted multimodal,0.75638,pr_auc,2.0,,,
+Hard_Negatives_Closest,hard_negatives,9,DNABERT2_multimodal,DNABERT-2 multimodal,0.76375,pr_auc,1.0,,,
+Hard_Negatives_Closest,hard_negatives,10,Genomic_only_K3K4Basic,Genomic-only,0.55853,pr_auc,4.0,,,
+Hard_Negatives_Closest,hard_negatives,10,Protein_only_ProtBERT_SW,Protein-only,0.64557,pr_auc,1.0,,,
+Hard_Negatives_Closest,hard_negatives,10,Handcrafted_multimodal,Handcrafted multimodal,0.63325,pr_auc,3.0,,,
+Hard_Negatives_Closest,hard_negatives,10,DNABERT2_multimodal,DNABERT-2 multimodal,0.64123,pr_auc,2.0,,,
+Hard_Negatives_Closest,hard_negatives,11,Genomic_only_K3K4Basic,Genomic-only,0.62898,pr_auc,4.0,,,
+Hard_Negatives_Closest,hard_negatives,11,Protein_only_ProtBERT_SW,Protein-only,0.69956,pr_auc,3.0,,,
+Hard_Negatives_Closest,hard_negatives,11,Handcrafted_multimodal,Handcrafted multimodal,0.7224,pr_auc,1.0,,,
+Hard_Negatives_Closest,hard_negatives,11,DNABERT2_multimodal,DNABERT-2 multimodal,0.72225,pr_auc,2.0,,,
+Hard_Negatives_Closest,hard_negatives,12,Genomic_only_K3K4Basic,Genomic-only,0.64918,pr_auc,4.0,,,
+Hard_Negatives_Closest,hard_negatives,12,Protein_only_ProtBERT_SW,Protein-only,0.67999,pr_auc,3.0,,,
+Hard_Negatives_Closest,hard_negatives,12,Handcrafted_multimodal,Handcrafted multimodal,0.70838,pr_auc,2.0,,,
+Hard_Negatives_Closest,hard_negatives,12,DNABERT2_multimodal,DNABERT-2 multimodal,0.71957,pr_auc,1.0,,,
+Hard_Negatives_Closest,hard_negatives,13,Genomic_only_K3K4Basic,Genomic-only,0.63555,pr_auc,4.0,,,
+Hard_Negatives_Closest,hard_negatives,13,Protein_only_ProtBERT_SW,Protein-only,0.7123,pr_auc,3.0,,,
+Hard_Negatives_Closest,hard_negatives,13,Handcrafted_multimodal,Handcrafted multimodal,0.73595,pr_auc,2.0,,,
+Hard_Negatives_Closest,hard_negatives,13,DNABERT2_multimodal,DNABERT-2 multimodal,0.74265,pr_auc,1.0,,,
+Hard_Negatives_Closest,hard_negatives,14,Genomic_only_K3K4Basic,Genomic-only,0.63202,pr_auc,4.0,,,
+Hard_Negatives_Closest,hard_negatives,14,Protein_only_ProtBERT_SW,Protein-only,0.67878,pr_auc,3.0,,,
+Hard_Negatives_Closest,hard_negatives,14,Handcrafted_multimodal,Handcrafted multimodal,0.7246,pr_auc,1.0,,,
+Hard_Negatives_Closest,hard_negatives,14,DNABERT2_multimodal,DNABERT-2 multimodal,0.72349,pr_auc,2.0,,,
+Hard_Negatives_Closest,hard_negatives,15,Genomic_only_K3K4Basic,Genomic-only,0.57215,pr_auc,4.0,,,
+Hard_Negatives_Closest,hard_negatives,15,Protein_only_ProtBERT_SW,Protein-only,0.6546,pr_auc,3.0,,,
+Hard_Negatives_Closest,hard_negatives,15,Handcrafted_multimodal,Handcrafted multimodal,0.66532,pr_auc,2.0,,,
+Hard_Negatives_Closest,hard_negatives,15,DNABERT2_multimodal,DNABERT-2 multimodal,0.67279,pr_auc,1.0,,,
+Original_All,original,1,Genomic_only_K3K4Basic,Genomic-only,0.63847,pr_auc,4.0,,,
+Original_All,original,1,Protein_only_ProtBERT_SW,Protein-only,0.72644,pr_auc,3.0,,,
+Original_All,original,1,Handcrafted_multimodal,Handcrafted multimodal,0.74059,pr_auc,2.0,,,
+Original_All,original,1,DNABERT2_multimodal,DNABERT-2 multimodal,0.74895,pr_auc,1.0,,,
+Original_All,original,2,Genomic_only_K3K4Basic,Genomic-only,0.5958,pr_auc,4.0,,,
+Original_All,original,2,Protein_only_ProtBERT_SW,Protein-only,0.67867,pr_auc,3.0,,,
+Original_All,original,2,Handcrafted_multimodal,Handcrafted multimodal,0.68823,pr_auc,2.0,,,
+Original_All,original,2,DNABERT2_multimodal,DNABERT-2 multimodal,0.69391,pr_auc,1.0,,,
+Original_All,original,3,Genomic_only_K3K4Basic,Genomic-only,0.69182,pr_auc,4.0,,,
+Original_All,original,3,Protein_only_ProtBERT_SW,Protein-only,0.69597,pr_auc,3.0,,,
+Original_All,original,3,Handcrafted_multimodal,Handcrafted multimodal,0.70483,pr_auc,2.0,,,
+Original_All,original,3,DNABERT2_multimodal,DNABERT-2 multimodal,0.70712,pr_auc,1.0,,,
+Original_All,original,4,Genomic_only_K3K4Basic,Genomic-only,0.6826,pr_auc,4.0,,,
+Original_All,original,4,Protein_only_ProtBERT_SW,Protein-only,0.69831,pr_auc,3.0,,,
+Original_All,original,4,Handcrafted_multimodal,Handcrafted multimodal,0.74223,pr_auc,2.0,,,
+Original_All,original,4,DNABERT2_multimodal,DNABERT-2 multimodal,0.74289,pr_auc,1.0,,,
+Original_All,original,5,Genomic_only_K3K4Basic,Genomic-only,0.61123,pr_auc,4.0,,,
+Original_All,original,5,Protein_only_ProtBERT_SW,Protein-only,0.71699,pr_auc,2.0,,,
+Original_All,original,5,Handcrafted_multimodal,Handcrafted multimodal,0.71953,pr_auc,1.0,,,
+Original_All,original,5,DNABERT2_multimodal,DNABERT-2 multimodal,0.70346,pr_auc,3.0,,,
+Original_All,original,6,Genomic_only_K3K4Basic,Genomic-only,0.63394,pr_auc,4.0,,,
+Original_All,original,6,Protein_only_ProtBERT_SW,Protein-only,0.69218,pr_auc,3.0,,,
+Original_All,original,6,Handcrafted_multimodal,Handcrafted multimodal,0.75055,pr_auc,2.0,,,
+Original_All,original,6,DNABERT2_multimodal,DNABERT-2 multimodal,0.75163,pr_auc,1.0,,,
+Original_All,original,7,Genomic_only_K3K4Basic,Genomic-only,0.64513,pr_auc,4.0,,,
+Original_All,original,7,Protein_only_ProtBERT_SW,Protein-only,0.7155,pr_auc,3.0,,,
+Original_All,original,7,Handcrafted_multimodal,Handcrafted multimodal,0.7316,pr_auc,1.0,,,
+Original_All,original,7,DNABERT2_multimodal,DNABERT-2 multimodal,0.7297,pr_auc,2.0,,,
+Original_All,original,8,Genomic_only_K3K4Basic,Genomic-only,0.59564,pr_auc,4.0,,,
+Original_All,original,8,Protein_only_ProtBERT_SW,Protein-only,0.67213,pr_auc,2.0,,,
+Original_All,original,8,Handcrafted_multimodal,Handcrafted multimodal,0.66588,pr_auc,3.0,,,
+Original_All,original,8,DNABERT2_multimodal,DNABERT-2 multimodal,0.68953,pr_auc,1.0,,,
+Original_All,original,9,Genomic_only_K3K4Basic,Genomic-only,0.6394,pr_auc,4.0,,,
+Original_All,original,9,Protein_only_ProtBERT_SW,Protein-only,0.69092,pr_auc,3.0,,,
+Original_All,original,9,Handcrafted_multimodal,Handcrafted multimodal,0.72446,pr_auc,1.0,,,
+Original_All,original,9,DNABERT2_multimodal,DNABERT-2 multimodal,0.72178,pr_auc,2.0,,,
+Original_All,original,10,Genomic_only_K3K4Basic,Genomic-only,0.63942,pr_auc,4.0,,,
+Original_All,original,10,Protein_only_ProtBERT_SW,Protein-only,0.68339,pr_auc,3.0,,,
+Original_All,original,10,Handcrafted_multimodal,Handcrafted multimodal,0.69446,pr_auc,2.0,,,
+Original_All,original,10,DNABERT2_multimodal,DNABERT-2 multimodal,0.70696,pr_auc,1.0,,,
+Original_All,original,11,Genomic_only_K3K4Basic,Genomic-only,0.59521,pr_auc,4.0,,,
+Original_All,original,11,Protein_only_ProtBERT_SW,Protein-only,0.70884,pr_auc,2.0,,,
+Original_All,original,11,Handcrafted_multimodal,Handcrafted multimodal,0.71617,pr_auc,1.0,,,
+Original_All,original,11,DNABERT2_multimodal,DNABERT-2 multimodal,0.66864,pr_auc,3.0,,,
+Original_All,original,12,Genomic_only_K3K4Basic,Genomic-only,0.64721,pr_auc,4.0,,,
+Original_All,original,12,Protein_only_ProtBERT_SW,Protein-only,0.69309,pr_auc,3.0,,,
+Original_All,original,12,Handcrafted_multimodal,Handcrafted multimodal,0.71317,pr_auc,1.0,,,
+Original_All,original,12,DNABERT2_multimodal,DNABERT-2 multimodal,0.70472,pr_auc,2.0,,,
+Original_All,original,13,Genomic_only_K3K4Basic,Genomic-only,0.67778,pr_auc,3.0,,,
+Original_All,original,13,Protein_only_ProtBERT_SW,Protein-only,0.67666,pr_auc,4.0,,,
+Original_All,original,13,Handcrafted_multimodal,Handcrafted multimodal,0.72253,pr_auc,2.0,,,
+Original_All,original,13,DNABERT2_multimodal,DNABERT-2 multimodal,0.73166,pr_auc,1.0,,,
+Original_All,original,14,Genomic_only_K3K4Basic,Genomic-only,0.64196,pr_auc,4.0,,,
+Original_All,original,14,Protein_only_ProtBERT_SW,Protein-only,0.67669,pr_auc,3.0,,,
+Original_All,original,14,Handcrafted_multimodal,Handcrafted multimodal,0.68419,pr_auc,2.0,,,
+Original_All,original,14,DNABERT2_multimodal,DNABERT-2 multimodal,0.70704,pr_auc,1.0,,,
+Original_All,original,15,Genomic_only_K3K4Basic,Genomic-only,0.64955,pr_auc,4.0,,,
+Original_All,original,15,Protein_only_ProtBERT_SW,Protein-only,0.72164,pr_auc,3.0,,,
+Original_All,original,15,Handcrafted_multimodal,Handcrafted multimodal,0.74398,pr_auc,2.0,,,
+Original_All,original,15,DNABERT2_multimodal,DNABERT-2 multimodal,0.74919,pr_auc,1.0,,,
+Random_Negatives_1,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,0.62973,pr_auc,4.0,,,
+Random_Negatives_1,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,0.64283,pr_auc,3.0,,,
+Random_Negatives_1,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,0.66367,pr_auc,1.0,,,
+Random_Negatives_1,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,0.65134,pr_auc,2.0,,,
+Random_Negatives_1,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,0.55918,pr_auc,4.0,,,
+Random_Negatives_1,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,0.69639,pr_auc,3.0,,,
+Random_Negatives_1,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,0.70371,pr_auc,1.0,,,
+Random_Negatives_1,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,0.70269,pr_auc,2.0,,,
+Random_Negatives_1,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,0.68061,pr_auc,4.0,,,
+Random_Negatives_1,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,0.76111,pr_auc,3.0,,,
+Random_Negatives_1,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,0.78829,pr_auc,1.0,,,
+Random_Negatives_1,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,0.7863,pr_auc,2.0,,,
+Random_Negatives_1,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,0.61933,pr_auc,4.0,,,
+Random_Negatives_1,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,0.63198,pr_auc,3.0,,,
+Random_Negatives_1,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,0.65605,pr_auc,2.0,,,
+Random_Negatives_1,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,0.66206,pr_auc,1.0,,,
+Random_Negatives_1,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,0.67627,pr_auc,4.0,,,
+Random_Negatives_1,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,0.70083,pr_auc,3.0,,,
+Random_Negatives_1,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,0.73675,pr_auc,1.0,,,
+Random_Negatives_1,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,0.72488,pr_auc,2.0,,,
+Random_Negatives_1,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,0.60992,pr_auc,4.0,,,
+Random_Negatives_1,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,0.67802,pr_auc,3.0,,,
+Random_Negatives_1,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,0.71941,pr_auc,1.0,,,
+Random_Negatives_1,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,0.7007,pr_auc,2.0,,,
+Random_Negatives_1,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,0.62521,pr_auc,4.0,,,
+Random_Negatives_1,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,0.71741,pr_auc,1.0,,,
+Random_Negatives_1,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,0.70508,pr_auc,3.0,,,
+Random_Negatives_1,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,0.70708,pr_auc,2.0,,,
+Random_Negatives_1,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,0.65221,pr_auc,4.0,,,
+Random_Negatives_1,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,0.68708,pr_auc,3.0,,,
+Random_Negatives_1,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,0.7154,pr_auc,2.0,,,
+Random_Negatives_1,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,0.71742,pr_auc,1.0,,,
+Random_Negatives_1,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,0.61811,pr_auc,4.0,,,
+Random_Negatives_1,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,0.68422,pr_auc,2.0,,,
+Random_Negatives_1,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,0.68324,pr_auc,3.0,,,
+Random_Negatives_1,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,0.73819,pr_auc,1.0,,,
+Random_Negatives_1,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,0.62571,pr_auc,4.0,,,
+Random_Negatives_1,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,0.6471,pr_auc,3.0,,,
+Random_Negatives_1,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,0.6847,pr_auc,1.0,,,
+Random_Negatives_1,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,0.68435,pr_auc,2.0,,,
+Random_Negatives_1,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,0.59756,pr_auc,4.0,,,
+Random_Negatives_1,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,0.68079,pr_auc,3.0,,,
+Random_Negatives_1,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,0.71376,pr_auc,2.0,,,
+Random_Negatives_1,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,0.73919,pr_auc,1.0,,,
+Random_Negatives_1,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,0.62478,pr_auc,4.0,,,
+Random_Negatives_1,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,0.66534,pr_auc,3.0,,,
+Random_Negatives_1,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,0.6915,pr_auc,1.0,,,
+Random_Negatives_1,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,0.68786,pr_auc,2.0,,,
+Random_Negatives_1,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,0.62721,pr_auc,3.0,,,
+Random_Negatives_1,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,0.6148,pr_auc,4.0,,,
+Random_Negatives_1,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,0.65873,pr_auc,2.0,,,
+Random_Negatives_1,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,0.68295,pr_auc,1.0,,,
+Random_Negatives_1,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,0.63762,pr_auc,4.0,,,
+Random_Negatives_1,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,0.70961,pr_auc,2.0,,,
+Random_Negatives_1,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,0.71986,pr_auc,1.0,,,
+Random_Negatives_1,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,0.70175,pr_auc,3.0,,,
+Random_Negatives_1,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,0.63465,pr_auc,4.0,,,
+Random_Negatives_1,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,0.76548,pr_auc,3.0,,,
+Random_Negatives_1,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,0.7785,pr_auc,1.0,,,
+Random_Negatives_1,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,0.76728,pr_auc,2.0,,,
+Random_Negatives_2,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,0.60473,pr_auc,4.0,,,
+Random_Negatives_2,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,0.66925,pr_auc,3.0,,,
+Random_Negatives_2,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,0.67441,pr_auc,2.0,,,
+Random_Negatives_2,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,0.68057,pr_auc,1.0,,,
+Random_Negatives_2,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,0.59106,pr_auc,4.0,,,
+Random_Negatives_2,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,0.66962,pr_auc,3.0,,,
+Random_Negatives_2,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,0.69443,pr_auc,2.0,,,
+Random_Negatives_2,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,0.73787,pr_auc,1.0,,,
+Random_Negatives_2,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,0.69209,pr_auc,1.0,,,
+Random_Negatives_2,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,0.59926,pr_auc,4.0,,,
+Random_Negatives_2,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,0.65726,pr_auc,3.0,,,
+Random_Negatives_2,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,0.67681,pr_auc,2.0,,,
+Random_Negatives_2,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,0.59635,pr_auc,4.0,,,
+Random_Negatives_2,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,0.7019,pr_auc,3.0,,,
+Random_Negatives_2,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,0.71038,pr_auc,1.0,,,
+Random_Negatives_2,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,0.70374,pr_auc,2.0,,,
+Random_Negatives_2,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,0.6487,pr_auc,4.0,,,
+Random_Negatives_2,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,0.70732,pr_auc,3.0,,,
+Random_Negatives_2,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,0.75863,pr_auc,1.0,,,
+Random_Negatives_2,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,0.755,pr_auc,2.0,,,
+Random_Negatives_2,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,0.64929,pr_auc,4.0,,,
+Random_Negatives_2,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,0.70929,pr_auc,3.0,,,
+Random_Negatives_2,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,0.73736,pr_auc,1.0,,,
+Random_Negatives_2,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,0.72986,pr_auc,2.0,,,
+Random_Negatives_2,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,0.56786,pr_auc,4.0,,,
+Random_Negatives_2,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,0.64351,pr_auc,3.0,,,
+Random_Negatives_2,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,0.65108,pr_auc,1.0,,,
+Random_Negatives_2,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,0.64644,pr_auc,2.0,,,
+Random_Negatives_2,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,0.66469,pr_auc,2.0,,,
+Random_Negatives_2,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,0.63014,pr_auc,4.0,,,
+Random_Negatives_2,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,0.65929,pr_auc,3.0,,,
+Random_Negatives_2,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,0.71858,pr_auc,1.0,,,
+Random_Negatives_2,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,0.64719,pr_auc,4.0,,,
+Random_Negatives_2,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,0.7401,pr_auc,2.0,,,
+Random_Negatives_2,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,0.7234,pr_auc,3.0,,,
+Random_Negatives_2,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,0.74316,pr_auc,1.0,,,
+Random_Negatives_2,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,0.6285,pr_auc,4.0,,,
+Random_Negatives_2,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,0.64552,pr_auc,3.0,,,
+Random_Negatives_2,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,0.69637,pr_auc,1.0,,,
+Random_Negatives_2,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,0.68886,pr_auc,2.0,,,
+Random_Negatives_2,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,0.64896,pr_auc,4.0,,,
+Random_Negatives_2,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,0.67716,pr_auc,2.0,,,
+Random_Negatives_2,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,0.67375,pr_auc,3.0,,,
+Random_Negatives_2,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,0.69407,pr_auc,1.0,,,
+Random_Negatives_2,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,0.58975,pr_auc,4.0,,,
+Random_Negatives_2,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,0.71036,pr_auc,2.0,,,
+Random_Negatives_2,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,0.7246,pr_auc,1.0,,,
+Random_Negatives_2,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,0.68232,pr_auc,3.0,,,
+Random_Negatives_2,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,0.66147,pr_auc,3.0,,,
+Random_Negatives_2,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,0.65584,pr_auc,4.0,,,
+Random_Negatives_2,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,0.68541,pr_auc,2.0,,,
+Random_Negatives_2,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,0.72093,pr_auc,1.0,,,
+Random_Negatives_2,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,0.65623,pr_auc,4.0,,,
+Random_Negatives_2,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,0.7327,pr_auc,3.0,,,
+Random_Negatives_2,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,0.73978,pr_auc,2.0,,,
+Random_Negatives_2,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,0.76294,pr_auc,1.0,,,
+Random_Negatives_2,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,0.60865,pr_auc,4.0,,,
+Random_Negatives_2,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,0.64407,pr_auc,3.0,,,
+Random_Negatives_2,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,0.66895,pr_auc,1.0,,,
+Random_Negatives_2,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,0.64852,pr_auc,2.0,,,
+Random_Negatives_3,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,0.62995,pr_auc,4.0,,,
+Random_Negatives_3,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,0.68873,pr_auc,2.0,,,
+Random_Negatives_3,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,0.66919,pr_auc,3.0,,,
+Random_Negatives_3,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,0.71395,pr_auc,1.0,,,
+Random_Negatives_3,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,0.65421,pr_auc,4.0,,,
+Random_Negatives_3,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,0.70268,pr_auc,3.0,,,
+Random_Negatives_3,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,0.74596,pr_auc,1.0,,,
+Random_Negatives_3,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,0.74565,pr_auc,2.0,,,
+Random_Negatives_3,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,0.61656,pr_auc,4.0,,,
+Random_Negatives_3,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,0.67259,pr_auc,3.0,,,
+Random_Negatives_3,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,0.68978,pr_auc,2.0,,,
+Random_Negatives_3,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,0.72111,pr_auc,1.0,,,
+Random_Negatives_3,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,0.66121,pr_auc,4.0,,,
+Random_Negatives_3,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,0.69925,pr_auc,3.0,,,
+Random_Negatives_3,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,0.70309,pr_auc,2.0,,,
+Random_Negatives_3,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,0.70499,pr_auc,1.0,,,
+Random_Negatives_3,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,0.60174,pr_auc,4.0,,,
+Random_Negatives_3,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,0.65256,pr_auc,2.0,,,
+Random_Negatives_3,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,0.65824,pr_auc,1.0,,,
+Random_Negatives_3,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,0.62304,pr_auc,3.0,,,
+Random_Negatives_3,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,0.64884,pr_auc,4.0,,,
+Random_Negatives_3,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,0.7266,pr_auc,2.0,,,
+Random_Negatives_3,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,0.74133,pr_auc,1.0,,,
+Random_Negatives_3,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,0.71833,pr_auc,3.0,,,
+Random_Negatives_3,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,0.6909,pr_auc,3.0,,,
+Random_Negatives_3,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,0.6731,pr_auc,4.0,,,
+Random_Negatives_3,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,0.7202,pr_auc,2.0,,,
+Random_Negatives_3,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,0.74388,pr_auc,1.0,,,
+Random_Negatives_3,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,0.62394,pr_auc,4.0,,,
+Random_Negatives_3,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,0.67734,pr_auc,3.0,,,
+Random_Negatives_3,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,0.71638,pr_auc,1.0,,,
+Random_Negatives_3,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,0.70393,pr_auc,2.0,,,
+Random_Negatives_3,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,0.59383,pr_auc,4.0,,,
+Random_Negatives_3,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,0.71489,pr_auc,1.0,,,
+Random_Negatives_3,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,0.70573,pr_auc,2.0,,,
+Random_Negatives_3,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,0.67935,pr_auc,3.0,,,
+Random_Negatives_3,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,0.57815,pr_auc,4.0,,,
+Random_Negatives_3,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,0.66959,pr_auc,3.0,,,
+Random_Negatives_3,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,0.69095,pr_auc,2.0,,,
+Random_Negatives_3,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,0.71909,pr_auc,1.0,,,
+Random_Negatives_3,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,0.64961,pr_auc,4.0,,,
+Random_Negatives_3,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,0.69729,pr_auc,3.0,,,
+Random_Negatives_3,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,0.71911,pr_auc,1.0,,,
+Random_Negatives_3,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,0.71169,pr_auc,2.0,,,
+Random_Negatives_3,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,0.68319,pr_auc,4.0,,,
+Random_Negatives_3,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,0.71376,pr_auc,3.0,,,
+Random_Negatives_3,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,0.74965,pr_auc,1.0,,,
+Random_Negatives_3,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,0.7492,pr_auc,2.0,,,
+Random_Negatives_3,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,0.67644,pr_auc,3.0,,,
+Random_Negatives_3,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,0.6722,pr_auc,4.0,,,
+Random_Negatives_3,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,0.71396,pr_auc,2.0,,,
+Random_Negatives_3,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,0.73043,pr_auc,1.0,,,
+Random_Negatives_3,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,0.62919,pr_auc,4.0,,,
+Random_Negatives_3,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,0.72062,pr_auc,3.0,,,
+Random_Negatives_3,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,0.72213,pr_auc,2.0,,,
+Random_Negatives_3,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,0.73509,pr_auc,1.0,,,
+Random_Negatives_3,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,0.62484,pr_auc,4.0,,,
+Random_Negatives_3,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,0.66458,pr_auc,3.0,,,
+Random_Negatives_3,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,0.70039,pr_auc,1.0,,,
+Random_Negatives_3,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,0.68408,pr_auc,2.0,,,
+Random_Negatives_4,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,0.67875,pr_auc,3.0,,,
+Random_Negatives_4,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,0.67469,pr_auc,4.0,,,
+Random_Negatives_4,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,0.69051,pr_auc,2.0,,,
+Random_Negatives_4,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,0.69135,pr_auc,1.0,,,
+Random_Negatives_4,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,0.68438,pr_auc,4.0,,,
+Random_Negatives_4,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,0.6867,pr_auc,3.0,,,
+Random_Negatives_4,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,0.72738,pr_auc,2.0,,,
+Random_Negatives_4,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,0.73042,pr_auc,1.0,,,
+Random_Negatives_4,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,0.60563,pr_auc,4.0,,,
+Random_Negatives_4,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,0.70821,pr_auc,3.0,,,
+Random_Negatives_4,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,0.72257,pr_auc,2.0,,,
+Random_Negatives_4,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,0.73723,pr_auc,1.0,,,
+Random_Negatives_4,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,0.58645,pr_auc,4.0,,,
+Random_Negatives_4,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,0.70795,pr_auc,2.0,,,
+Random_Negatives_4,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,0.69485,pr_auc,3.0,,,
+Random_Negatives_4,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,0.70803,pr_auc,1.0,,,
+Random_Negatives_4,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,0.63876,pr_auc,4.0,,,
+Random_Negatives_4,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,0.71693,pr_auc,3.0,,,
+Random_Negatives_4,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,0.73804,pr_auc,2.0,,,
+Random_Negatives_4,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,0.75978,pr_auc,1.0,,,
+Random_Negatives_4,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,0.64179,pr_auc,4.0,,,
+Random_Negatives_4,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,0.74573,pr_auc,3.0,,,
+Random_Negatives_4,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,0.77377,pr_auc,1.0,,,
+Random_Negatives_4,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,0.75619,pr_auc,2.0,,,
+Random_Negatives_4,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,0.66928,pr_auc,2.0,,,
+Random_Negatives_4,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,0.65987,pr_auc,4.0,,,
+Random_Negatives_4,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,0.66871,pr_auc,3.0,,,
+Random_Negatives_4,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,0.709,pr_auc,1.0,,,
+Random_Negatives_4,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,0.64499,pr_auc,4.0,,,
+Random_Negatives_4,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,0.72748,pr_auc,3.0,,,
+Random_Negatives_4,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,0.74088,pr_auc,2.0,,,
+Random_Negatives_4,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,0.74862,pr_auc,1.0,,,
+Random_Negatives_4,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,0.68024,pr_auc,4.0,,,
+Random_Negatives_4,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,0.72244,pr_auc,3.0,,,
+Random_Negatives_4,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,0.76742,pr_auc,2.0,,,
+Random_Negatives_4,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,0.78253,pr_auc,1.0,,,
+Random_Negatives_4,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,0.56357,pr_auc,4.0,,,
+Random_Negatives_4,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,0.68104,pr_auc,1.0,,,
+Random_Negatives_4,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,0.66428,pr_auc,3.0,,,
+Random_Negatives_4,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,0.6647,pr_auc,2.0,,,
+Random_Negatives_4,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,0.65013,pr_auc,4.0,,,
+Random_Negatives_4,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,0.70614,pr_auc,3.0,,,
+Random_Negatives_4,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,0.71796,pr_auc,2.0,,,
+Random_Negatives_4,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,0.74578,pr_auc,1.0,,,
+Random_Negatives_4,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,0.65975,pr_auc,4.0,,,
+Random_Negatives_4,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,0.68794,pr_auc,3.0,,,
+Random_Negatives_4,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,0.71857,pr_auc,2.0,,,
+Random_Negatives_4,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,0.73849,pr_auc,1.0,,,
+Random_Negatives_4,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,0.62549,pr_auc,4.0,,,
+Random_Negatives_4,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,0.65697,pr_auc,3.0,,,
+Random_Negatives_4,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,0.68963,pr_auc,2.0,,,
+Random_Negatives_4,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,0.70193,pr_auc,1.0,,,
+Random_Negatives_4,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,0.59821,pr_auc,4.0,,,
+Random_Negatives_4,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,0.68651,pr_auc,3.0,,,
+Random_Negatives_4,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,0.70904,pr_auc,2.0,,,
+Random_Negatives_4,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,0.7103,pr_auc,1.0,,,
+Random_Negatives_4,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,0.66326,pr_auc,4.0,,,
+Random_Negatives_4,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,0.72603,pr_auc,3.0,,,
+Random_Negatives_4,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,0.75037,pr_auc,1.0,,,
+Random_Negatives_4,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,0.74828,pr_auc,2.0,,,
+Random_Negatives_5,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,0.60572,pr_auc,3.0,,,
+Random_Negatives_5,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,0.57133,pr_auc,4.0,,,
+Random_Negatives_5,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,0.63685,pr_auc,2.0,,,
+Random_Negatives_5,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,0.65159,pr_auc,1.0,,,
+Random_Negatives_5,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,0.64325,pr_auc,4.0,,,
+Random_Negatives_5,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,0.67752,pr_auc,3.0,,,
+Random_Negatives_5,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,0.6998,pr_auc,1.0,,,
+Random_Negatives_5,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,0.69589,pr_auc,2.0,,,
+Random_Negatives_5,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,0.61895,pr_auc,4.0,,,
+Random_Negatives_5,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,0.72184,pr_auc,2.0,,,
+Random_Negatives_5,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,0.72538,pr_auc,1.0,,,
+Random_Negatives_5,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,0.70912,pr_auc,3.0,,,
+Random_Negatives_5,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,0.6572,pr_auc,4.0,,,
+Random_Negatives_5,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,0.70022,pr_auc,3.0,,,
+Random_Negatives_5,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,0.72639,pr_auc,2.0,,,
+Random_Negatives_5,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,0.73478,pr_auc,1.0,,,
+Random_Negatives_5,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,0.64083,pr_auc,4.0,,,
+Random_Negatives_5,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,0.68388,pr_auc,3.0,,,
+Random_Negatives_5,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,0.71059,pr_auc,2.0,,,
+Random_Negatives_5,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,0.74192,pr_auc,1.0,,,
+Random_Negatives_5,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,0.61105,pr_auc,4.0,,,
+Random_Negatives_5,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,0.64309,pr_auc,3.0,,,
+Random_Negatives_5,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,0.69078,pr_auc,2.0,,,
+Random_Negatives_5,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,0.71241,pr_auc,1.0,,,
+Random_Negatives_5,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,0.6954,pr_auc,4.0,,,
+Random_Negatives_5,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,0.7369,pr_auc,3.0,,,
+Random_Negatives_5,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,0.75368,pr_auc,1.0,,,
+Random_Negatives_5,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,0.75065,pr_auc,2.0,,,
+Random_Negatives_5,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,0.64852,pr_auc,3.0,,,
+Random_Negatives_5,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,0.64836,pr_auc,4.0,,,
+Random_Negatives_5,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,0.68669,pr_auc,2.0,,,
+Random_Negatives_5,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,0.69582,pr_auc,1.0,,,
+Random_Negatives_5,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,0.62803,pr_auc,4.0,,,
+Random_Negatives_5,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,0.67156,pr_auc,2.0,,,
+Random_Negatives_5,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,0.66824,pr_auc,3.0,,,
+Random_Negatives_5,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,0.67496,pr_auc,1.0,,,
+Random_Negatives_5,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,0.59047,pr_auc,4.0,,,
+Random_Negatives_5,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,0.71062,pr_auc,2.0,,,
+Random_Negatives_5,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,0.72346,pr_auc,1.0,,,
+Random_Negatives_5,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,0.71001,pr_auc,3.0,,,
+Random_Negatives_5,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,0.60236,pr_auc,4.0,,,
+Random_Negatives_5,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,0.68633,pr_auc,3.0,,,
+Random_Negatives_5,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,0.72966,pr_auc,1.0,,,
+Random_Negatives_5,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,0.70829,pr_auc,2.0,,,
+Random_Negatives_5,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,0.60147,pr_auc,4.0,,,
+Random_Negatives_5,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,0.71735,pr_auc,1.0,,,
+Random_Negatives_5,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,0.71039,pr_auc,2.0,,,
+Random_Negatives_5,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,0.70894,pr_auc,3.0,,,
+Random_Negatives_5,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,0.64835,pr_auc,3.0,,,
+Random_Negatives_5,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,0.64518,pr_auc,4.0,,,
+Random_Negatives_5,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,0.67208,pr_auc,2.0,,,
+Random_Negatives_5,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,0.69878,pr_auc,1.0,,,
+Random_Negatives_5,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,0.65075,pr_auc,4.0,,,
+Random_Negatives_5,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,0.74139,pr_auc,1.0,,,
+Random_Negatives_5,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,0.73288,pr_auc,3.0,,,
+Random_Negatives_5,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,0.74058,pr_auc,2.0,,,
+Random_Negatives_5,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,0.66883,pr_auc,3.0,,,
+Random_Negatives_5,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,0.65116,pr_auc,4.0,,,
+Random_Negatives_5,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,0.71808,pr_auc,2.0,,,
+Random_Negatives_5,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,0.72411,pr_auc,1.0,,,
+Easy_Negatives_Farthest,easy_negatives,1,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.19063,,
+Easy_Negatives_Farthest,easy_negatives,1,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.3215,,
+Easy_Negatives_Farthest,easy_negatives,1,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.32399,,
+Easy_Negatives_Farthest,easy_negatives,1,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.36542,,
+Easy_Negatives_Farthest,easy_negatives,2,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.23544,,
+Easy_Negatives_Farthest,easy_negatives,2,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.3761,,
+Easy_Negatives_Farthest,easy_negatives,2,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.29005,,
+Easy_Negatives_Farthest,easy_negatives,2,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.35777,,
+Easy_Negatives_Farthest,easy_negatives,3,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.15793,,
+Easy_Negatives_Farthest,easy_negatives,3,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.45145,,
+Easy_Negatives_Farthest,easy_negatives,3,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.48616,,
+Easy_Negatives_Farthest,easy_negatives,3,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.44742,,
+Easy_Negatives_Farthest,easy_negatives,4,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.26445,,
+Easy_Negatives_Farthest,easy_negatives,4,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.33956,,
+Easy_Negatives_Farthest,easy_negatives,4,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.39914,,
+Easy_Negatives_Farthest,easy_negatives,4,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.39765,,
+Easy_Negatives_Farthest,easy_negatives,5,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.32283,,
+Easy_Negatives_Farthest,easy_negatives,5,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.43321,,
+Easy_Negatives_Farthest,easy_negatives,5,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.40249,,
+Easy_Negatives_Farthest,easy_negatives,5,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.42072,,
+Easy_Negatives_Farthest,easy_negatives,6,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.2444,,
+Easy_Negatives_Farthest,easy_negatives,6,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.36148,,
+Easy_Negatives_Farthest,easy_negatives,6,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.29665,,
+Easy_Negatives_Farthest,easy_negatives,6,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.33775,,
+Easy_Negatives_Farthest,easy_negatives,7,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.19286,,
+Easy_Negatives_Farthest,easy_negatives,7,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.33676,,
+Easy_Negatives_Farthest,easy_negatives,7,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.33593,,
+Easy_Negatives_Farthest,easy_negatives,7,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.3595,,
+Easy_Negatives_Farthest,easy_negatives,8,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.2336,,
+Easy_Negatives_Farthest,easy_negatives,8,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.39408,,
+Easy_Negatives_Farthest,easy_negatives,8,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.42949,,
+Easy_Negatives_Farthest,easy_negatives,8,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.46957,,
+Easy_Negatives_Farthest,easy_negatives,9,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.23384,,
+Easy_Negatives_Farthest,easy_negatives,9,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.45861,,
+Easy_Negatives_Farthest,easy_negatives,9,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.40264,,
+Easy_Negatives_Farthest,easy_negatives,9,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.37161,,
+Easy_Negatives_Farthest,easy_negatives,10,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.32686,,
+Easy_Negatives_Farthest,easy_negatives,10,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.41087,,
+Easy_Negatives_Farthest,easy_negatives,10,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.41931,,
+Easy_Negatives_Farthest,easy_negatives,10,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.37904,,
+Easy_Negatives_Farthest,easy_negatives,11,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.08031,,
+Easy_Negatives_Farthest,easy_negatives,11,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.2603,,
+Easy_Negatives_Farthest,easy_negatives,11,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.23777,,
+Easy_Negatives_Farthest,easy_negatives,11,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.27568,,
+Easy_Negatives_Farthest,easy_negatives,12,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.23226,,
+Easy_Negatives_Farthest,easy_negatives,12,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.36816,,
+Easy_Negatives_Farthest,easy_negatives,12,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.36564,,
+Easy_Negatives_Farthest,easy_negatives,12,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.3595,,
+Easy_Negatives_Farthest,easy_negatives,13,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.24769,,
+Easy_Negatives_Farthest,easy_negatives,13,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.26301,,
+Easy_Negatives_Farthest,easy_negatives,13,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.49182,,
+Easy_Negatives_Farthest,easy_negatives,13,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.43876,,
+Easy_Negatives_Farthest,easy_negatives,14,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.29245,,
+Easy_Negatives_Farthest,easy_negatives,14,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.34981,,
+Easy_Negatives_Farthest,easy_negatives,14,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.41295,,
+Easy_Negatives_Farthest,easy_negatives,14,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.38607,,
+Easy_Negatives_Farthest,easy_negatives,15,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.27875,,
+Easy_Negatives_Farthest,easy_negatives,15,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.40413,,
+Easy_Negatives_Farthest,easy_negatives,15,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.32176,,
+Easy_Negatives_Farthest,easy_negatives,15,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.32961,,
+Hard_Negatives_Closest,hard_negatives,1,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.13575,,
+Hard_Negatives_Closest,hard_negatives,1,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.17187,,
+Hard_Negatives_Closest,hard_negatives,1,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.20366,,
+Hard_Negatives_Closest,hard_negatives,1,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.29935,,
+Hard_Negatives_Closest,hard_negatives,2,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.1371,,
+Hard_Negatives_Closest,hard_negatives,2,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.34316,,
+Hard_Negatives_Closest,hard_negatives,2,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.30077,,
+Hard_Negatives_Closest,hard_negatives,2,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.23094,,
+Hard_Negatives_Closest,hard_negatives,3,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.11156,,
+Hard_Negatives_Closest,hard_negatives,3,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.26543,,
+Hard_Negatives_Closest,hard_negatives,3,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.29814,,
+Hard_Negatives_Closest,hard_negatives,3,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.29814,,
+Hard_Negatives_Closest,hard_negatives,4,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.23401,,
+Hard_Negatives_Closest,hard_negatives,4,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.24863,,
+Hard_Negatives_Closest,hard_negatives,4,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.29059,,
+Hard_Negatives_Closest,hard_negatives,4,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.30589,,
+Hard_Negatives_Closest,hard_negatives,5,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.16398,,
+Hard_Negatives_Closest,hard_negatives,5,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.30099,,
+Hard_Negatives_Closest,hard_negatives,5,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.27525,,
+Hard_Negatives_Closest,hard_negatives,5,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.29607,,
+Hard_Negatives_Closest,hard_negatives,6,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.23201,,
+Hard_Negatives_Closest,hard_negatives,6,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.24288,,
+Hard_Negatives_Closest,hard_negatives,6,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.24446,,
+Hard_Negatives_Closest,hard_negatives,6,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.36507,,
+Hard_Negatives_Closest,hard_negatives,7,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.10997,,
+Hard_Negatives_Closest,hard_negatives,7,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.30246,,
+Hard_Negatives_Closest,hard_negatives,7,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.32243,,
+Hard_Negatives_Closest,hard_negatives,7,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.31432,,
+Hard_Negatives_Closest,hard_negatives,8,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.11905,,
+Hard_Negatives_Closest,hard_negatives,8,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.19145,,
+Hard_Negatives_Closest,hard_negatives,8,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.30096,,
+Hard_Negatives_Closest,hard_negatives,8,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.31052,,
+Hard_Negatives_Closest,hard_negatives,9,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.09757,,
+Hard_Negatives_Closest,hard_negatives,9,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.36778,,
+Hard_Negatives_Closest,hard_negatives,9,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.32758,,
+Hard_Negatives_Closest,hard_negatives,9,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.43599,,
+Hard_Negatives_Closest,hard_negatives,10,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.11118,,
+Hard_Negatives_Closest,hard_negatives,10,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.16311,,
+Hard_Negatives_Closest,hard_negatives,10,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.20972,,
+Hard_Negatives_Closest,hard_negatives,10,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.22396,,
+Hard_Negatives_Closest,hard_negatives,11,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.13409,,
+Hard_Negatives_Closest,hard_negatives,11,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.30292,,
+Hard_Negatives_Closest,hard_negatives,11,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.26005,,
+Hard_Negatives_Closest,hard_negatives,11,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.33617,,
+Hard_Negatives_Closest,hard_negatives,12,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.18727,,
+Hard_Negatives_Closest,hard_negatives,12,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.25515,,
+Hard_Negatives_Closest,hard_negatives,12,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.29764,,
+Hard_Negatives_Closest,hard_negatives,12,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.29573,,
+Hard_Negatives_Closest,hard_negatives,13,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.19298,,
+Hard_Negatives_Closest,hard_negatives,13,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.30377,,
+Hard_Negatives_Closest,hard_negatives,13,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.32403,,
+Hard_Negatives_Closest,hard_negatives,13,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.36347,,
+Hard_Negatives_Closest,hard_negatives,14,Genomic_only_K3K4Basic,Genomic-only,,mcc,3.0,0.1931,,
+Hard_Negatives_Closest,hard_negatives,14,Protein_only_ProtBERT_SW,Protein-only,,mcc,4.0,0.15841,,
+Hard_Negatives_Closest,hard_negatives,14,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.25114,,
+Hard_Negatives_Closest,hard_negatives,14,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.30031,,
+Hard_Negatives_Closest,hard_negatives,15,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.10575,,
+Hard_Negatives_Closest,hard_negatives,15,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.16071,,
+Hard_Negatives_Closest,hard_negatives,15,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.25218,,
+Hard_Negatives_Closest,hard_negatives,15,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.25717,,
+Original_All,original,1,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.17367,,
+Original_All,original,1,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.35337,,
+Original_All,original,1,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.39777,,
+Original_All,original,1,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.38774,,
+Original_All,original,2,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.08029,,
+Original_All,original,2,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.34078,,
+Original_All,original,2,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.31085,,
+Original_All,original,2,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.27436,,
+Original_All,original,3,Genomic_only_K3K4Basic,Genomic-only,,mcc,3.0,0.30322,,
+Original_All,original,3,Protein_only_ProtBERT_SW,Protein-only,,mcc,4.0,0.29007,,
+Original_All,original,3,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.31064,,
+Original_All,original,3,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.35717,,
+Original_All,original,4,Genomic_only_K3K4Basic,Genomic-only,,mcc,3.0,0.30068,,
+Original_All,original,4,Protein_only_ProtBERT_SW,Protein-only,,mcc,4.0,0.28284,,
+Original_All,original,4,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.33716,,
+Original_All,original,4,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.40964,,
+Original_All,original,5,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.22436,,
+Original_All,original,5,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.34084,,
+Original_All,original,5,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.34078,,
+Original_All,original,5,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.32559,,
+Original_All,original,6,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.2214,,
+Original_All,original,6,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.38703,,
+Original_All,original,6,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.35373,,
+Original_All,original,6,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.38656,,
+Original_All,original,7,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.23057,,
+Original_All,original,7,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.30773,,
+Original_All,original,7,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.36322,,
+Original_All,original,7,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.31442,,
+Original_All,original,8,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.13117,,
+Original_All,original,8,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.34964,,
+Original_All,original,8,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.26779,,
+Original_All,original,8,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.28557,,
+Original_All,original,9,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.2153,,
+Original_All,original,9,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.34326,,
+Original_All,original,9,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.30926,,
+Original_All,original,9,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.32413,,
+Original_All,original,10,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.19943,,
+Original_All,original,10,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.29472,,
+Original_All,original,10,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.33747,,
+Original_All,original,10,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.33518,,
+Original_All,original,11,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.11502,,
+Original_All,original,11,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.29631,,
+Original_All,original,11,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.30571,,
+Original_All,original,11,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.2672,,
+Original_All,original,12,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.21348,,
+Original_All,original,12,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.33262,,
+Original_All,original,12,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.29908,,
+Original_All,original,12,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.34721,,
+Original_All,original,13,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.25128,,
+Original_All,original,13,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.33724,,
+Original_All,original,13,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.26761,,
+Original_All,original,13,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.33367,,
+Original_All,original,14,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.19487,,
+Original_All,original,14,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.29519,,
+Original_All,original,14,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.35181,,
+Original_All,original,14,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.36941,,
+Original_All,original,15,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.16425,,
+Original_All,original,15,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.32149,,
+Original_All,original,15,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.42495,,
+Original_All,original,15,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.35935,,
+Random_Negatives_1,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,,mcc,2.0,0.20474,,
+Random_Negatives_1,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,,mcc,4.0,0.17446,,
+Random_Negatives_1,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.18145,,
+Random_Negatives_1,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.20617,,
+Random_Negatives_1,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.04105,,
+Random_Negatives_1,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.2603,,
+Random_Negatives_1,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.29963,,
+Random_Negatives_1,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.23851,,
+Random_Negatives_1,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.28241,,
+Random_Negatives_1,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.33743,,
+Random_Negatives_1,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.33355,,
+Random_Negatives_1,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.29983,,
+Random_Negatives_1,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,,mcc,3.0,0.17739,,
+Random_Negatives_1,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,,mcc,4.0,0.12642,,
+Random_Negatives_1,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.22366,,
+Random_Negatives_1,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.24984,,
+Random_Negatives_1,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.20757,,
+Random_Negatives_1,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.29573,,
+Random_Negatives_1,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.30927,,
+Random_Negatives_1,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.33066,,
+Random_Negatives_1,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.11631,,
+Random_Negatives_1,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.26483,,
+Random_Negatives_1,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.32293,,
+Random_Negatives_1,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.26429,,
+Random_Negatives_1,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.10177,,
+Random_Negatives_1,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.40799,,
+Random_Negatives_1,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.38595,,
+Random_Negatives_1,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.35261,,
+Random_Negatives_1,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.21725,,
+Random_Negatives_1,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.25467,,
+Random_Negatives_1,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.32522,,
+Random_Negatives_1,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.33775,,
+Random_Negatives_1,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.16697,,
+Random_Negatives_1,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.23851,,
+Random_Negatives_1,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.26508,,
+Random_Negatives_1,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.30927,,
+Random_Negatives_1,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.16072,,
+Random_Negatives_1,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.30273,,
+Random_Negatives_1,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.31453,,
+Random_Negatives_1,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.33657,,
+Random_Negatives_1,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.15308,,
+Random_Negatives_1,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.3412,,
+Random_Negatives_1,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.23807,,
+Random_Negatives_1,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.40249,,
+Random_Negatives_1,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.15716,,
+Random_Negatives_1,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.20675,,
+Random_Negatives_1,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.20038,,
+Random_Negatives_1,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.21725,,
+Random_Negatives_1,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.15019,,
+Random_Negatives_1,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.15696,,
+Random_Negatives_1,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.27212,,
+Random_Negatives_1,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.26445,,
+Random_Negatives_1,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.16473,,
+Random_Negatives_1,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.31587,,
+Random_Negatives_1,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.32654,,
+Random_Negatives_1,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.24618,,
+Random_Negatives_1,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.25001,,
+Random_Negatives_1,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.36778,,
+Random_Negatives_1,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.42875,,
+Random_Negatives_1,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.38435,,
+Random_Negatives_2,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.11156,,
+Random_Negatives_2,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.21894,,
+Random_Negatives_2,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.25001,,
+Random_Negatives_2,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.26146,,
+Random_Negatives_2,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.0959,,
+Random_Negatives_2,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.17961,,
+Random_Negatives_2,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.15846,,
+Random_Negatives_2,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.31545,,
+Random_Negatives_2,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,,mcc,1.0,0.27212,,
+Random_Negatives_2,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,,mcc,4.0,0.23262,,
+Random_Negatives_2,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.26326,,
+Random_Negatives_2,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.25108,,
+Random_Negatives_2,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.20476,,
+Random_Negatives_2,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.33106,,
+Random_Negatives_2,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.34785,,
+Random_Negatives_2,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.25632,,
+Random_Negatives_2,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,,mcc,3.0,0.25052,,
+Random_Negatives_2,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,,mcc,4.0,0.25,,
+Random_Negatives_2,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.42625,,
+Random_Negatives_2,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.40156,,
+Random_Negatives_2,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.24489,,
+Random_Negatives_2,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.33106,,
+Random_Negatives_2,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.30718,,
+Random_Negatives_2,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.38076,,
+Random_Negatives_2,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.058,,
+Random_Negatives_2,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.21115,,
+Random_Negatives_2,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.25243,,
+Random_Negatives_2,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.23601,,
+Random_Negatives_2,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.2603,,
+Random_Negatives_2,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.28571,,
+Random_Negatives_2,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.31137,,
+Random_Negatives_2,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.35773,,
+Random_Negatives_2,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.19175,,
+Random_Negatives_2,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.25692,,
+Random_Negatives_2,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.33074,,
+Random_Negatives_2,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.38581,,
+Random_Negatives_2,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.19671,,
+Random_Negatives_2,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.23268,,
+Random_Negatives_2,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.2654,,
+Random_Negatives_2,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.33328,,
+Random_Negatives_2,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,,mcc,3.0,0.20207,,
+Random_Negatives_2,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.21058,,
+Random_Negatives_2,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,,mcc,4.0,0.19206,,
+Random_Negatives_2,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.25809,,
+Random_Negatives_2,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.11904,,
+Random_Negatives_2,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.28935,,
+Random_Negatives_2,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.29286,,
+Random_Negatives_2,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.20881,,
+Random_Negatives_2,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,,mcc,2.0,0.20081,,
+Random_Negatives_2,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,,mcc,4.0,0.19326,,
+Random_Negatives_2,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.19899,,
+Random_Negatives_2,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.32329,,
+Random_Negatives_2,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.23201,,
+Random_Negatives_2,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.38379,,
+Random_Negatives_2,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.40148,,
+Random_Negatives_2,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.39287,,
+Random_Negatives_2,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.15924,,
+Random_Negatives_2,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.27484,,
+Random_Negatives_2,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.28574,,
+Random_Negatives_2,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.32144,,
+Random_Negatives_3,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.0866,,
+Random_Negatives_3,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.32399,,
+Random_Negatives_3,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.31705,,
+Random_Negatives_3,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.40503,,
+Random_Negatives_3,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.24077,,
+Random_Negatives_3,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.32991,,
+Random_Negatives_3,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.2927,,
+Random_Negatives_3,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.34809,,
+Random_Negatives_3,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.21205,,
+Random_Negatives_3,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.29453,,
+Random_Negatives_3,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.29686,,
+Random_Negatives_3,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.30972,,
+Random_Negatives_3,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.23792,,
+Random_Negatives_3,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.28645,,
+Random_Negatives_3,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.27852,,
+Random_Negatives_3,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.27712,,
+Random_Negatives_3,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.17034,,
+Random_Negatives_3,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.21664,,
+Random_Negatives_3,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.24417,,
+Random_Negatives_3,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.18957,,
+Random_Negatives_3,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.26438,,
+Random_Negatives_3,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.29419,,
+Random_Negatives_3,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.40004,,
+Random_Negatives_3,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.34717,,
+Random_Negatives_3,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.21111,,
+Random_Negatives_3,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.33075,,
+Random_Negatives_3,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.30003,,
+Random_Negatives_3,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.32143,,
+Random_Negatives_3,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.20675,,
+Random_Negatives_3,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.28931,,
+Random_Negatives_3,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.28241,,
+Random_Negatives_3,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.23328,,
+Random_Negatives_3,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.10534,,
+Random_Negatives_3,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.27168,,
+Random_Negatives_3,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.26508,,
+Random_Negatives_3,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.27014,,
+Random_Negatives_3,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.18515,,
+Random_Negatives_3,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.23563,,
+Random_Negatives_3,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.21053,,
+Random_Negatives_3,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.25929,,
+Random_Negatives_3,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.20927,,
+Random_Negatives_3,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.31847,,
+Random_Negatives_3,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.30099,,
+Random_Negatives_3,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.27087,,
+Random_Negatives_3,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.08487,,
+Random_Negatives_3,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.33822,,
+Random_Negatives_3,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.46016,,
+Random_Negatives_3,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.33657,,
+Random_Negatives_3,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,,mcc,2.0,0.26835,,
+Random_Negatives_3,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.24946,,
+Random_Negatives_3,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,,mcc,4.0,0.239,,
+Random_Negatives_3,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.33351,,
+Random_Negatives_3,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.19691,,
+Random_Negatives_3,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.26395,,
+Random_Negatives_3,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.31535,,
+Random_Negatives_3,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.26536,,
+Random_Negatives_3,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.08437,,
+Random_Negatives_3,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.23268,,
+Random_Negatives_3,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.32443,,
+Random_Negatives_3,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.33106,,
+Random_Negatives_4,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,,mcc,3.0,0.22473,,
+Random_Negatives_4,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.27518,,
+Random_Negatives_4,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,,mcc,4.0,0.22004,,
+Random_Negatives_4,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.33023,,
+Random_Negatives_4,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,,mcc,3.0,0.2288,,
+Random_Negatives_4,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,,mcc,4.0,0.20366,,
+Random_Negatives_4,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.23814,,
+Random_Negatives_4,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.30365,,
+Random_Negatives_4,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.16852,,
+Random_Negatives_4,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.26717,,
+Random_Negatives_4,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.29566,,
+Random_Negatives_4,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.34034,,
+Random_Negatives_4,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.15309,,
+Random_Negatives_4,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.29686,,
+Random_Negatives_4,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.25006,,
+Random_Negatives_4,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.29504,,
+Random_Negatives_4,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.24417,,
+Random_Negatives_4,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.36451,,
+Random_Negatives_4,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.38289,,
+Random_Negatives_4,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.34672,,
+Random_Negatives_4,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.16829,,
+Random_Negatives_4,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.38766,,
+Random_Negatives_4,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.41433,,
+Random_Negatives_4,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.25,,
+Random_Negatives_4,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,,mcc,2.0,0.25448,,
+Random_Negatives_4,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,,mcc,4.0,0.21766,,
+Random_Negatives_4,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.23956,,
+Random_Negatives_4,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.28738,,
+Random_Negatives_4,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.18602,,
+Random_Negatives_4,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.2654,,
+Random_Negatives_4,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.34412,,
+Random_Negatives_4,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.36366,,
+Random_Negatives_4,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.29001,,
+Random_Negatives_4,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.29963,,
+Random_Negatives_4,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.40076,,
+Random_Negatives_4,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.42184,,
+Random_Negatives_4,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.13416,,
+Random_Negatives_4,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,,mcc,1.0,0.26445,,
+Random_Negatives_4,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.25145,,
+Random_Negatives_4,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.22866,,
+Random_Negatives_4,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.21176,,
+Random_Negatives_4,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.33197,,
+Random_Negatives_4,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.29594,,
+Random_Negatives_4,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.35777,,
+Random_Negatives_4,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,,mcc,2.0,0.28677,,
+Random_Negatives_4,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,,mcc,4.0,0.23268,,
+Random_Negatives_4,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.31463,,
+Random_Negatives_4,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.27915,,
+Random_Negatives_4,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.13575,,
+Random_Negatives_4,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.1977,,
+Random_Negatives_4,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.21775,,
+Random_Negatives_4,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.2737,,
+Random_Negatives_4,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.15729,,
+Random_Negatives_4,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.17495,,
+Random_Negatives_4,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.25255,,
+Random_Negatives_4,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.31601,,
+Random_Negatives_4,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.22942,,
+Random_Negatives_4,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.41496,,
+Random_Negatives_4,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.38099,,
+Random_Negatives_4,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.41535,,
+Random_Negatives_5,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.07873,,
+Random_Negatives_5,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.1276,,
+Random_Negatives_5,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.17987,,
+Random_Negatives_5,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.19713,,
+Random_Negatives_5,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.14992,,
+Random_Negatives_5,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.18787,,
+Random_Negatives_5,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.37126,,
+Random_Negatives_5,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.3564,,
+Random_Negatives_5,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.16398,,
+Random_Negatives_5,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.31305,,
+Random_Negatives_5,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.29389,,
+Random_Negatives_5,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.31449,,
+Random_Negatives_5,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.25031,,
+Random_Negatives_5,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.33751,,
+Random_Negatives_5,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.29983,,
+Random_Negatives_5,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.33775,,
+Random_Negatives_5,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.14599,,
+Random_Negatives_5,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.33106,,
+Random_Negatives_5,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.33328,,
+Random_Negatives_5,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.34444,,
+Random_Negatives_5,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,,mcc,2.0,0.20207,,
+Random_Negatives_5,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.19997,,
+Random_Negatives_5,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.23563,,
+Random_Negatives_5,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,4.0,0.19839,,
+Random_Negatives_5,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.27771,,
+Random_Negatives_5,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.36452,,
+Random_Negatives_5,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.40905,,
+Random_Negatives_5,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.39861,,
+Random_Negatives_5,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,,mcc,3.0,0.23777,,
+Random_Negatives_5,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,,mcc,4.0,0.20523,,
+Random_Negatives_5,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.31754,,
+Random_Negatives_5,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.32012,,
+Random_Negatives_5,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.15721,,
+Random_Negatives_5,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.31846,,
+Random_Negatives_5,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.34313,,
+Random_Negatives_5,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,3.0,0.30049,,
+Random_Negatives_5,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.13121,,
+Random_Negatives_5,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.29418,,
+Random_Negatives_5,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.30099,,
+Random_Negatives_5,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.39367,,
+Random_Negatives_5,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.18676,,
+Random_Negatives_5,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.30293,,
+Random_Negatives_5,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.29143,,
+Random_Negatives_5,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.31985,,
+Random_Negatives_5,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.10776,,
+Random_Negatives_5,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.31722,,
+Random_Negatives_5,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.31847,,
+Random_Negatives_5,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.34977,,
+Random_Negatives_5,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.18727,,
+Random_Negatives_5,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,,mcc,2.0,0.27981,,
+Random_Negatives_5,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,,mcc,3.0,0.2654,,
+Random_Negatives_5,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.30927,,
+Random_Negatives_5,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.27568,,
+Random_Negatives_5,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.33613,,
+Random_Negatives_5,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,,mcc,1.0,0.41433,,
+Random_Negatives_5,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,2.0,0.36347,,
+Random_Negatives_5,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,,mcc,4.0,0.25001,,
+Random_Negatives_5,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,,mcc,3.0,0.25311,,
+Random_Negatives_5,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,,mcc,2.0,0.29913,,
+Random_Negatives_5,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,,mcc,1.0,0.31692,,
+Easy_Negatives_Farthest,easy_negatives,1,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.65546,
+Easy_Negatives_Farthest,easy_negatives,1,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.75464,
+Easy_Negatives_Farthest,easy_negatives,1,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.76314,
+Easy_Negatives_Farthest,easy_negatives,1,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.7623,
+Easy_Negatives_Farthest,easy_negatives,2,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.64158,
+Easy_Negatives_Farthest,easy_negatives,2,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.74745,
+Easy_Negatives_Farthest,easy_negatives,2,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.72638,
+Easy_Negatives_Farthest,easy_negatives,2,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.72173,
+Easy_Negatives_Farthest,easy_negatives,3,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.6299,
+Easy_Negatives_Farthest,easy_negatives,3,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.80204,
+Easy_Negatives_Farthest,easy_negatives,3,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.81018,
+Easy_Negatives_Farthest,easy_negatives,3,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.78571,
+Easy_Negatives_Farthest,easy_negatives,4,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.68357,
+Easy_Negatives_Farthest,easy_negatives,4,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.7601,
+Easy_Negatives_Farthest,easy_negatives,4,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,3.0,,0.75531,
+Easy_Negatives_Farthest,easy_negatives,4,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.75569,
+Easy_Negatives_Farthest,easy_negatives,5,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.68163,
+Easy_Negatives_Farthest,easy_negatives,5,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.80015,
+Easy_Negatives_Farthest,easy_negatives,5,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.80847,
+Easy_Negatives_Farthest,easy_negatives,5,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.80105,
+Easy_Negatives_Farthest,easy_negatives,6,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.63485,
+Easy_Negatives_Farthest,easy_negatives,6,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.74949,
+Easy_Negatives_Farthest,easy_negatives,6,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.74597,
+Easy_Negatives_Farthest,easy_negatives,6,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.73653,
+Easy_Negatives_Farthest,easy_negatives,7,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62541,
+Easy_Negatives_Farthest,easy_negatives,7,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.7401,
+Easy_Negatives_Farthest,easy_negatives,7,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.74811,
+Easy_Negatives_Farthest,easy_negatives,7,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.73923,
+Easy_Negatives_Farthest,easy_negatives,8,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.64668,
+Easy_Negatives_Farthest,easy_negatives,8,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.79393,
+Easy_Negatives_Farthest,easy_negatives,8,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.79122,
+Easy_Negatives_Farthest,easy_negatives,8,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.78533,
+Easy_Negatives_Farthest,easy_negatives,9,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62592,
+Easy_Negatives_Farthest,easy_negatives,9,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.7899,
+Easy_Negatives_Farthest,easy_negatives,9,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.78992,
+Easy_Negatives_Farthest,easy_negatives,9,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.78293,
+Easy_Negatives_Farthest,easy_negatives,10,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.69806,
+Easy_Negatives_Farthest,easy_negatives,10,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.77161,
+Easy_Negatives_Farthest,easy_negatives,10,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.79888,
+Easy_Negatives_Farthest,easy_negatives,10,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.78551,
+Easy_Negatives_Farthest,easy_negatives,11,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.59444,
+Easy_Negatives_Farthest,easy_negatives,11,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.70903,
+Easy_Negatives_Farthest,easy_negatives,11,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.7174,
+Easy_Negatives_Farthest,easy_negatives,11,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.72628,
+Easy_Negatives_Farthest,easy_negatives,12,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.66092,
+Easy_Negatives_Farthest,easy_negatives,12,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.76416,
+Easy_Negatives_Farthest,easy_negatives,12,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.77324,
+Easy_Negatives_Farthest,easy_negatives,12,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.76357,
+Easy_Negatives_Farthest,easy_negatives,13,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.65041,
+Easy_Negatives_Farthest,easy_negatives,13,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.82612,
+Easy_Negatives_Farthest,easy_negatives,13,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.81184,
+Easy_Negatives_Farthest,easy_negatives,13,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.7975,
+Easy_Negatives_Farthest,easy_negatives,14,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.63291,
+Easy_Negatives_Farthest,easy_negatives,14,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.77592,
+Easy_Negatives_Farthest,easy_negatives,14,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.78709,
+Easy_Negatives_Farthest,easy_negatives,14,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.79281,
+Easy_Negatives_Farthest,easy_negatives,15,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.66505,
+Easy_Negatives_Farthest,easy_negatives,15,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.75444,
+Easy_Negatives_Farthest,easy_negatives,15,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.75084,
+Easy_Negatives_Farthest,easy_negatives,15,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.74592,
+Hard_Negatives_Closest,hard_negatives,1,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62735,
+Hard_Negatives_Closest,hard_negatives,1,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.63551,
+Hard_Negatives_Closest,hard_negatives,1,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.67615,
+Hard_Negatives_Closest,hard_negatives,1,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.68878,
+Hard_Negatives_Closest,hard_negatives,2,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.5926,
+Hard_Negatives_Closest,hard_negatives,2,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.69454,
+Hard_Negatives_Closest,hard_negatives,2,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.70556,
+Hard_Negatives_Closest,hard_negatives,2,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.68918,
+Hard_Negatives_Closest,hard_negatives,3,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.60628,
+Hard_Negatives_Closest,hard_negatives,3,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.69209,
+Hard_Negatives_Closest,hard_negatives,3,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.71702,
+Hard_Negatives_Closest,hard_negatives,3,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.69245,
+Hard_Negatives_Closest,hard_negatives,4,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62781,
+Hard_Negatives_Closest,hard_negatives,4,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.6849,
+Hard_Negatives_Closest,hard_negatives,4,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.70245,
+Hard_Negatives_Closest,hard_negatives,4,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.72219,
+Hard_Negatives_Closest,hard_negatives,5,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.61954,
+Hard_Negatives_Closest,hard_negatives,5,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.71311,
+Hard_Negatives_Closest,hard_negatives,5,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.71179,
+Hard_Negatives_Closest,hard_negatives,5,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.70847,
+Hard_Negatives_Closest,hard_negatives,6,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.64434,
+Hard_Negatives_Closest,hard_negatives,6,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.68936,
+Hard_Negatives_Closest,hard_negatives,6,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.71893,
+Hard_Negatives_Closest,hard_negatives,6,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.70321,
+Hard_Negatives_Closest,hard_negatives,7,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.61337,
+Hard_Negatives_Closest,hard_negatives,7,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.68995,
+Hard_Negatives_Closest,hard_negatives,7,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.70041,
+Hard_Negatives_Closest,hard_negatives,7,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.7136,
+Hard_Negatives_Closest,hard_negatives,8,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.60714,
+Hard_Negatives_Closest,hard_negatives,8,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.66829,
+Hard_Negatives_Closest,hard_negatives,8,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.69337,
+Hard_Negatives_Closest,hard_negatives,8,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.70046,
+Hard_Negatives_Closest,hard_negatives,9,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62398,
+Hard_Negatives_Closest,hard_negatives,9,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.73735,
+Hard_Negatives_Closest,hard_negatives,9,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.73855,
+Hard_Negatives_Closest,hard_negatives,9,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.75204,
+Hard_Negatives_Closest,hard_negatives,10,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.56015,
+Hard_Negatives_Closest,hard_negatives,10,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.64148,
+Hard_Negatives_Closest,hard_negatives,10,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.65806,
+Hard_Negatives_Closest,hard_negatives,10,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.66714,
+Hard_Negatives_Closest,hard_negatives,11,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.61949,
+Hard_Negatives_Closest,hard_negatives,11,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.68582,
+Hard_Negatives_Closest,hard_negatives,11,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,3.0,,0.68362,
+Hard_Negatives_Closest,hard_negatives,11,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.69526,
+Hard_Negatives_Closest,hard_negatives,12,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.63668,
+Hard_Negatives_Closest,hard_negatives,12,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.69401,
+Hard_Negatives_Closest,hard_negatives,12,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.71997,
+Hard_Negatives_Closest,hard_negatives,12,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.72278,
+Hard_Negatives_Closest,hard_negatives,13,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.64526,
+Hard_Negatives_Closest,hard_negatives,13,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.72398,
+Hard_Negatives_Closest,hard_negatives,13,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.75505,
+Hard_Negatives_Closest,hard_negatives,13,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.7577,
+Hard_Negatives_Closest,hard_negatives,14,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62597,
+Hard_Negatives_Closest,hard_negatives,14,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.66505,
+Hard_Negatives_Closest,hard_negatives,14,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.67949,
+Hard_Negatives_Closest,hard_negatives,14,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.69184,
+Hard_Negatives_Closest,hard_negatives,15,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.58429,
+Hard_Negatives_Closest,hard_negatives,15,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.65628,
+Hard_Negatives_Closest,hard_negatives,15,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.67457,
+Hard_Negatives_Closest,hard_negatives,15,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.68398,
+Original_All,original,1,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.61973,
+Original_All,original,1,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.73371,
+Original_All,original,1,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.7338,
+Original_All,original,1,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.75294,
+Original_All,original,2,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.57103,
+Original_All,original,2,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.71544,
+Original_All,original,2,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,3.0,,0.71145,
+Original_All,original,2,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.71937,
+Original_All,original,3,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.6949,
+Original_All,original,3,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.69494,
+Original_All,original,3,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.72178,
+Original_All,original,3,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.71427,
+Original_All,original,4,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.68815,
+Original_All,original,4,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.72591,
+Original_All,original,4,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.75282,
+Original_All,original,4,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.75239,
+Original_All,original,5,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62566,
+Original_All,original,5,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.73155,
+Original_All,original,5,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.73266,
+Original_All,original,5,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.72669,
+Original_All,original,6,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.64449,
+Original_All,original,6,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.72342,
+Original_All,original,6,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.7481,
+Original_All,original,6,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.75242,
+Original_All,original,7,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.63471,
+Original_All,original,7,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.70436,
+Original_All,original,7,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.73425,
+Original_All,original,7,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.73171,
+Original_All,original,8,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.58956,
+Original_All,original,8,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.70984,
+Original_All,original,8,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,3.0,,0.69001,
+Original_All,original,8,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.70157,
+Original_All,original,9,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.63521,
+Original_All,original,9,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.7167,
+Original_All,original,9,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.72778,
+Original_All,original,9,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.72896,
+Original_All,original,10,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.6558,
+Original_All,original,10,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.7153,
+Original_All,original,10,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.72815,
+Original_All,original,10,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.72676,
+Original_All,original,11,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.59962,
+Original_All,original,11,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.70804,
+Original_All,original,11,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.71344,
+Original_All,original,11,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.70675,
+Original_All,original,12,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.64893,
+Original_All,original,12,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.71249,
+Original_All,original,12,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.72908,
+Original_All,original,12,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.72225,
+Original_All,original,13,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.65835,
+Original_All,original,13,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.71199,
+Original_All,original,13,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.73611,
+Original_All,original,13,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.73852,
+Original_All,original,14,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.63447,
+Original_All,original,14,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.7186,
+Original_All,original,14,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.73264,
+Original_All,original,14,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.74995,
+Original_All,original,15,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.67922,
+Original_All,original,15,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.76466,
+Original_All,original,15,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.77061,
+Original_All,original,15,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.76328,
+Random_Negatives_1,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62184,
+Random_Negatives_1,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.6514,
+Random_Negatives_1,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.66066,
+Random_Negatives_1,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.65209,
+Random_Negatives_1,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.55796,
+Random_Negatives_1,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.71082,
+Random_Negatives_1,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.69699,
+Random_Negatives_1,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.68911,
+Random_Negatives_1,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.6877,
+Random_Negatives_1,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.77161,
+Random_Negatives_1,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.78587,
+Random_Negatives_1,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.77668,
+Random_Negatives_1,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62781,
+Random_Negatives_1,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.68204,
+Random_Negatives_1,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.69862,
+Random_Negatives_1,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.70311,
+Random_Negatives_1,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.66526,
+Random_Negatives_1,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.70281,
+Random_Negatives_1,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.72875,
+Random_Negatives_1,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.73699,
+Random_Negatives_1,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.57449,
+Random_Negatives_1,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.69375,
+Random_Negatives_1,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.70186,
+Random_Negatives_1,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.69857,
+Random_Negatives_1,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.61531,
+Random_Negatives_1,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.7462,
+Random_Negatives_1,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.73449,
+Random_Negatives_1,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.72872,
+Random_Negatives_1,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.63719,
+Random_Negatives_1,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.71056,
+Random_Negatives_1,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.71964,
+Random_Negatives_1,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.71536,
+Random_Negatives_1,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.6148,
+Random_Negatives_1,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.69587,
+Random_Negatives_1,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,3.0,,0.69423,
+Random_Negatives_1,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.72663,
+Random_Negatives_1,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.63291,
+Random_Negatives_1,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.66939,
+Random_Negatives_1,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.68696,
+Random_Negatives_1,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.69543,
+Random_Negatives_1,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.61474,
+Random_Negatives_1,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.70661,
+Random_Negatives_1,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.72791,
+Random_Negatives_1,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.74286,
+Random_Negatives_1,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62224,
+Random_Negatives_1,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.68352,
+Random_Negatives_1,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,3.0,,0.68066,
+Random_Negatives_1,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.70352,
+Random_Negatives_1,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.61888,
+Random_Negatives_1,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.66107,
+Random_Negatives_1,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.6876,
+Random_Negatives_1,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.6912,
+Random_Negatives_1,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.63724,
+Random_Negatives_1,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.71485,
+Random_Negatives_1,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.71839,
+Random_Negatives_1,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.69122,
+Random_Negatives_1,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62561,
+Random_Negatives_1,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.74523,
+Random_Negatives_1,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.75579,
+Random_Negatives_1,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.76117,
+Random_Negatives_2,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.60587,
+Random_Negatives_2,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.68974,
+Random_Negatives_2,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.7002,
+Random_Negatives_2,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.68128,
+Random_Negatives_2,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.59612,
+Random_Negatives_2,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.65903,
+Random_Negatives_2,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.67964,
+Random_Negatives_2,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.70648,
+Random_Negatives_2,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,3.0,,0.68536,
+Random_Negatives_2,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,4.0,,0.66495,
+Random_Negatives_2,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.70288,
+Random_Negatives_2,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.69628,
+Random_Negatives_2,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.60985,
+Random_Negatives_2,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.70977,
+Random_Negatives_2,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.71429,
+Random_Negatives_2,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.6973,
+Random_Negatives_2,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.64413,
+Random_Negatives_2,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.72232,
+Random_Negatives_2,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.7548,
+Random_Negatives_2,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.76689,
+Random_Negatives_2,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.67617,
+Random_Negatives_2,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.72237,
+Random_Negatives_2,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.75515,
+Random_Negatives_2,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.75286,
+Random_Negatives_2,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.56827,
+Random_Negatives_2,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.67393,
+Random_Negatives_2,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.67347,
+Random_Negatives_2,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.65622,
+Random_Negatives_2,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.64806,
+Random_Negatives_2,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.67031,
+Random_Negatives_2,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.69179,
+Random_Negatives_2,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.73194,
+Random_Negatives_2,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.66367,
+Random_Negatives_2,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.73515,
+Random_Negatives_2,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.74602,
+Random_Negatives_2,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.75367,
+Random_Negatives_2,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.59301,
+Random_Negatives_2,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.69893,
+Random_Negatives_2,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.70653,
+Random_Negatives_2,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.70587,
+Random_Negatives_2,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62786,
+Random_Negatives_2,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.6863,
+Random_Negatives_2,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.69758,
+Random_Negatives_2,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.69332,
+Random_Negatives_2,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.61077,
+Random_Negatives_2,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.71908,
+Random_Negatives_2,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.71474,
+Random_Negatives_2,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.69676,
+Random_Negatives_2,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.65327,
+Random_Negatives_2,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.66158,
+Random_Negatives_2,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.68153,
+Random_Negatives_2,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.71765,
+Random_Negatives_2,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.6349,
+Random_Negatives_2,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.74648,
+Random_Negatives_2,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.75612,
+Random_Negatives_2,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.76934,
+Random_Negatives_2,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.60026,
+Random_Negatives_2,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.67018,
+Random_Negatives_2,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.67607,
+Random_Negatives_2,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.68633,
+Random_Negatives_3,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.57286,
+Random_Negatives_3,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.71087,
+Random_Negatives_3,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,3.0,,0.69806,
+Random_Negatives_3,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.7389,
+Random_Negatives_3,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62878,
+Random_Negatives_3,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.72995,
+Random_Negatives_3,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.74446,
+Random_Negatives_3,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.73898,
+Random_Negatives_3,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62699,
+Random_Negatives_3,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.68541,
+Random_Negatives_3,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.69158,
+Random_Negatives_3,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.70566,
+Random_Negatives_3,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.65102,
+Random_Negatives_3,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.6886,
+Random_Negatives_3,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.70026,
+Random_Negatives_3,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.7026,
+Random_Negatives_3,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.59842,
+Random_Negatives_3,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.67189,
+Random_Negatives_3,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.67969,
+Random_Negatives_3,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.64964,
+Random_Negatives_3,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.64066,
+Random_Negatives_3,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.72571,
+Random_Negatives_3,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.73872,
+Random_Negatives_3,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.71689,
+Random_Negatives_3,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.67383,
+Random_Negatives_3,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.69571,
+Random_Negatives_3,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.73161,
+Random_Negatives_3,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.7525,
+Random_Negatives_3,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.60923,
+Random_Negatives_3,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.70495,
+Random_Negatives_3,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.72872,
+Random_Negatives_3,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.71168,
+Random_Negatives_3,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.59082,
+Random_Negatives_3,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.70209,
+Random_Negatives_3,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.69145,
+Random_Negatives_3,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.67235,
+Random_Negatives_3,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.59321,
+Random_Negatives_3,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.67867,
+Random_Negatives_3,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,3.0,,0.66806,
+Random_Negatives_3,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.68969,
+Random_Negatives_3,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.63694,
+Random_Negatives_3,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.70204,
+Random_Negatives_3,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.7249,
+Random_Negatives_3,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.71,
+Random_Negatives_3,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.66551,
+Random_Negatives_3,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.74893,
+Random_Negatives_3,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.76352,
+Random_Negatives_3,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.76214,
+Random_Negatives_3,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,3.0,,0.67107,
+Random_Negatives_3,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,4.0,,0.67061,
+Random_Negatives_3,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.6976,
+Random_Negatives_3,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.71827,
+Random_Negatives_3,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62561,
+Random_Negatives_3,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.73059,
+Random_Negatives_3,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.73339,
+Random_Negatives_3,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.73416,
+Random_Negatives_3,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.59281,
+Random_Negatives_3,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.70232,
+Random_Negatives_3,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.69969,
+Random_Negatives_3,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.67661,
+Random_Negatives_4,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.65653,
+Random_Negatives_4,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.69742,
+Random_Negatives_4,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.71434,
+Random_Negatives_4,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.71408,
+Random_Negatives_4,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.65923,
+Random_Negatives_4,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.67497,
+Random_Negatives_4,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.7073,
+Random_Negatives_4,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.7126,
+Random_Negatives_4,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62071,
+Random_Negatives_4,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.7263,
+Random_Negatives_4,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,3.0,,0.72577,
+Random_Negatives_4,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.74852,
+Random_Negatives_4,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.57837,
+Random_Negatives_4,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.71735,
+Random_Negatives_4,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,3.0,,0.69485,
+Random_Negatives_4,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.70255,
+Random_Negatives_4,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.63878,
+Random_Negatives_4,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.72464,
+Random_Negatives_4,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.74186,
+Random_Negatives_4,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.75161,
+Random_Negatives_4,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62291,
+Random_Negatives_4,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.74383,
+Random_Negatives_4,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.75536,
+Random_Negatives_4,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.74867,
+Random_Negatives_4,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.63806,
+Random_Negatives_4,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.66163,
+Random_Negatives_4,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.67403,
+Random_Negatives_4,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.6977,
+Random_Negatives_4,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62888,
+Random_Negatives_4,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.73321,
+Random_Negatives_4,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.74429,
+Random_Negatives_4,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.75995,
+Random_Negatives_4,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.68474,
+Random_Negatives_4,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.73908,
+Random_Negatives_4,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.75742,
+Random_Negatives_4,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.76426,
+Random_Negatives_4,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.60276,
+Random_Negatives_4,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.6786,
+Random_Negatives_4,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.67867,
+Random_Negatives_4,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.67421,
+Random_Negatives_4,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.64219,
+Random_Negatives_4,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.73102,
+Random_Negatives_4,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,3.0,,0.72551,
+Random_Negatives_4,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.72556,
+Random_Negatives_4,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,3.0,,0.68061,
+Random_Negatives_4,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,4.0,,0.67209,
+Random_Negatives_4,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.70714,
+Random_Negatives_4,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.72388,
+Random_Negatives_4,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.60898,
+Random_Negatives_4,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.6627,
+Random_Negatives_4,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.68281,
+Random_Negatives_4,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.69153,
+Random_Negatives_4,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.59439,
+Random_Negatives_4,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.72087,
+Random_Negatives_4,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.73388,
+Random_Negatives_4,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.7313,
+Random_Negatives_4,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62403,
+Random_Negatives_4,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.74612,
+Random_Negatives_4,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.75515,
+Random_Negatives_4,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.75133,
+Random_Negatives_5,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.58765,
+Random_Negatives_5,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.6086,
+Random_Negatives_5,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.645,
+Random_Negatives_5,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.64903,
+Random_Negatives_5,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.64429,
+Random_Negatives_5,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.71625,
+Random_Negatives_5,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.72809,
+Random_Negatives_5,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.7274,
+Random_Negatives_5,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.60357,
+Random_Negatives_5,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,1.0,,0.72342,
+Random_Negatives_5,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.72329,
+Random_Negatives_5,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.71911,
+Random_Negatives_5,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.65959,
+Random_Negatives_5,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.72888,
+Random_Negatives_5,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.74347,
+Random_Negatives_5,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.74709,
+Random_Negatives_5,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62974,
+Random_Negatives_5,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.72681,
+Random_Negatives_5,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.73061,
+Random_Negatives_5,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.74714,
+Random_Negatives_5,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62158,
+Random_Negatives_5,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.64985,
+Random_Negatives_5,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.68031,
+Random_Negatives_5,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.69153,
+Random_Negatives_5,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.6802,
+Random_Negatives_5,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.76153,
+Random_Negatives_5,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.76209,
+Random_Negatives_5,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,3.0,,0.75926,
+Random_Negatives_5,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.65388,
+Random_Negatives_5,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.6752,
+Random_Negatives_5,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.6927,
+Random_Negatives_5,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.70395,
+Random_Negatives_5,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.60776,
+Random_Negatives_5,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,2.0,,0.68691,
+Random_Negatives_5,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,3.0,,0.68548,
+Random_Negatives_5,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.69296,
+Random_Negatives_5,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.59571,
+Random_Negatives_5,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.72087,
+Random_Negatives_5,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.72276,
+Random_Negatives_5,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.73342,
+Random_Negatives_5,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.62582,
+Random_Negatives_5,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.70962,
+Random_Negatives_5,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,1.0,,0.71992,
+Random_Negatives_5,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,2.0,,0.71449,
+Random_Negatives_5,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.61429,
+Random_Negatives_5,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.70842,
+Random_Negatives_5,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.71515,
+Random_Negatives_5,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.72526,
+Random_Negatives_5,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.61821,
+Random_Negatives_5,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.68531,
+Random_Negatives_5,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.70454,
+Random_Negatives_5,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.71536,
+Random_Negatives_5,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.65857,
+Random_Negatives_5,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.74112,
+Random_Negatives_5,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.7502,
+Random_Negatives_5,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.75087,
+Random_Negatives_5,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,,roc_auc,4.0,,0.63306,
+Random_Negatives_5,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,,roc_auc,3.0,,0.68814,
+Random_Negatives_5,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,,roc_auc,2.0,,0.71117,
+Random_Negatives_5,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,,roc_auc,1.0,,0.72337,
+Easy_Negatives_Farthest,easy_negatives,1,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.65046
+Easy_Negatives_Farthest,easy_negatives,1,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.66431
+Easy_Negatives_Farthest,easy_negatives,1,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.69427
+Easy_Negatives_Farthest,easy_negatives,1,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.66914
+Easy_Negatives_Farthest,easy_negatives,2,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.5045
+Easy_Negatives_Farthest,easy_negatives,2,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.65891
+Easy_Negatives_Farthest,easy_negatives,2,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.58091
+Easy_Negatives_Farthest,easy_negatives,2,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.7125
+Easy_Negatives_Farthest,easy_negatives,3,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.55639
+Easy_Negatives_Farthest,easy_negatives,3,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.75309
+Easy_Negatives_Farthest,easy_negatives,3,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.74825
+Easy_Negatives_Farthest,easy_negatives,3,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.75504
+Easy_Negatives_Farthest,easy_negatives,4,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.62545
+Easy_Negatives_Farthest,easy_negatives,4,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.64093
+Easy_Negatives_Farthest,easy_negatives,4,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.72785
+Easy_Negatives_Farthest,easy_negatives,4,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.73333
+Easy_Negatives_Farthest,easy_negatives,5,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.6129
+Easy_Negatives_Farthest,easy_negatives,5,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.74926
+Easy_Negatives_Farthest,easy_negatives,5,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.64167
+Easy_Negatives_Farthest,easy_negatives,5,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.74576
+Easy_Negatives_Farthest,easy_negatives,6,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.55967
+Easy_Negatives_Farthest,easy_negatives,6,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.71111
+Easy_Negatives_Farthest,easy_negatives,6,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.70685
+Easy_Negatives_Farthest,easy_negatives,6,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.70588
+Easy_Negatives_Farthest,easy_negatives,7,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.59786
+Easy_Negatives_Farthest,easy_negatives,7,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.68041
+Easy_Negatives_Farthest,easy_negatives,7,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.67368
+Easy_Negatives_Farthest,easy_negatives,7,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.69595
+Easy_Negatives_Farthest,easy_negatives,8,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.43781
+Easy_Negatives_Farthest,easy_negatives,8,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.7079
+Easy_Negatives_Farthest,easy_negatives,8,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.73616
+Easy_Negatives_Farthest,easy_negatives,8,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.75641
+Easy_Negatives_Farthest,easy_negatives,9,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.53617
+Easy_Negatives_Farthest,easy_negatives,9,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.69565
+Easy_Negatives_Farthest,easy_negatives,9,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.71622
+Easy_Negatives_Farthest,easy_negatives,9,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.72455
+Easy_Negatives_Farthest,easy_negatives,10,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.49505
+Easy_Negatives_Farthest,easy_negatives,10,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.7352
+Easy_Negatives_Farthest,easy_negatives,10,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.73913
+Easy_Negatives_Farthest,easy_negatives,10,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.73043
+Easy_Negatives_Farthest,easy_negatives,11,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.48606
+Easy_Negatives_Farthest,easy_negatives,11,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.56432
+Easy_Negatives_Farthest,easy_negatives,11,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.52402
+Easy_Negatives_Farthest,easy_negatives,11,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.52489
+Easy_Negatives_Farthest,easy_negatives,12,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.51327
+Easy_Negatives_Farthest,easy_negatives,12,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.71338
+Easy_Negatives_Farthest,easy_negatives,12,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.70968
+Easy_Negatives_Farthest,easy_negatives,12,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.69595
+Easy_Negatives_Farthest,easy_negatives,13,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.54852
+Easy_Negatives_Farthest,easy_negatives,13,Protein_only_ProtBERT_SW,Protein-only,,f1,4.0,,,0.27879
+Easy_Negatives_Farthest,easy_negatives,13,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.76159
+Easy_Negatives_Farthest,easy_negatives,13,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.74194
+Easy_Negatives_Farthest,easy_negatives,14,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.47525
+Easy_Negatives_Farthest,easy_negatives,14,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.72159
+Easy_Negatives_Farthest,easy_negatives,14,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.73939
+Easy_Negatives_Farthest,easy_negatives,14,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.68613
+Easy_Negatives_Farthest,easy_negatives,15,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.63273
+Easy_Negatives_Farthest,easy_negatives,15,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.73556
+Easy_Negatives_Farthest,easy_negatives,15,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.69032
+Easy_Negatives_Farthest,easy_negatives,15,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.69453
+Hard_Negatives_Closest,hard_negatives,1,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.57244
+Hard_Negatives_Closest,hard_negatives,1,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.6
+Hard_Negatives_Closest,hard_negatives,1,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.65231
+Hard_Negatives_Closest,hard_negatives,1,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.60558
+Hard_Negatives_Closest,hard_negatives,2,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.42791
+Hard_Negatives_Closest,hard_negatives,2,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.62948
+Hard_Negatives_Closest,hard_negatives,2,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.66207
+Hard_Negatives_Closest,hard_negatives,2,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.46667
+Hard_Negatives_Closest,hard_negatives,3,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.48133
+Hard_Negatives_Closest,hard_negatives,3,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.64846
+Hard_Negatives_Closest,hard_negatives,3,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.58333
+Hard_Negatives_Closest,hard_negatives,3,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.58333
+Hard_Negatives_Closest,hard_negatives,4,Genomic_only_K3K4Basic,Genomic-only,,f1,2.0,,,0.568
+Hard_Negatives_Closest,hard_negatives,4,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.576
+Hard_Negatives_Closest,hard_negatives,4,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.55652
+Hard_Negatives_Closest,hard_negatives,4,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.56522
+Hard_Negatives_Closest,hard_negatives,5,Genomic_only_K3K4Basic,Genomic-only,,f1,2.0,,,0.50833
+Hard_Negatives_Closest,hard_negatives,5,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.51643
+Hard_Negatives_Closest,hard_negatives,5,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.46535
+Hard_Negatives_Closest,hard_negatives,5,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.4878
+Hard_Negatives_Closest,hard_negatives,6,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.57812
+Hard_Negatives_Closest,hard_negatives,6,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.62411
+Hard_Negatives_Closest,hard_negatives,6,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.64189
+Hard_Negatives_Closest,hard_negatives,6,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.58667
+Hard_Negatives_Closest,hard_negatives,7,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.38049
+Hard_Negatives_Closest,hard_negatives,7,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.59592
+Hard_Negatives_Closest,hard_negatives,7,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.64684
+Hard_Negatives_Closest,hard_negatives,7,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.65957
+Hard_Negatives_Closest,hard_negatives,8,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.22619
+Hard_Negatives_Closest,hard_negatives,8,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.63694
+Hard_Negatives_Closest,hard_negatives,8,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.57627
+Hard_Negatives_Closest,hard_negatives,8,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.51887
+Hard_Negatives_Closest,hard_negatives,9,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.60681
+Hard_Negatives_Closest,hard_negatives,9,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.71827
+Hard_Negatives_Closest,hard_negatives,9,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.69055
+Hard_Negatives_Closest,hard_negatives,9,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.71273
+Hard_Negatives_Closest,hard_negatives,10,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.37438
+Hard_Negatives_Closest,hard_negatives,10,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.64478
+Hard_Negatives_Closest,hard_negatives,10,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.49778
+Hard_Negatives_Closest,hard_negatives,10,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.57915
+Hard_Negatives_Closest,hard_negatives,11,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.2905
+Hard_Negatives_Closest,hard_negatives,11,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.49515
+Hard_Negatives_Closest,hard_negatives,11,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.37363
+Hard_Negatives_Closest,hard_negatives,11,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.60251
+Hard_Negatives_Closest,hard_negatives,12,Genomic_only_K3K4Basic,Genomic-only,,f1,2.0,,,0.61745
+Hard_Negatives_Closest,hard_negatives,12,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.69681
+Hard_Negatives_Closest,hard_negatives,12,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.61176
+Hard_Negatives_Closest,hard_negatives,12,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,4.0,,,0.56652
+Hard_Negatives_Closest,hard_negatives,13,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.60351
+Hard_Negatives_Closest,hard_negatives,13,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.6755
+Hard_Negatives_Closest,hard_negatives,13,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.48241
+Hard_Negatives_Closest,hard_negatives,13,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.70588
+Hard_Negatives_Closest,hard_negatives,14,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.58608
+Hard_Negatives_Closest,hard_negatives,14,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.63385
+Hard_Negatives_Closest,hard_negatives,14,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.51351
+Hard_Negatives_Closest,hard_negatives,14,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.60241
+Hard_Negatives_Closest,hard_negatives,15,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.35354
+Hard_Negatives_Closest,hard_negatives,15,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.37755
+Hard_Negatives_Closest,hard_negatives,15,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.48826
+Hard_Negatives_Closest,hard_negatives,15,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.63121
+Original_All,original,1,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.54819
+Original_All,original,1,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.72331
+Original_All,original,1,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.66867
+Original_All,original,1,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.704
+Original_All,original,2,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.54645
+Original_All,original,2,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.71194
+Original_All,original,2,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.68966
+Original_All,original,2,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.64499
+Original_All,original,3,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.60923
+Original_All,original,3,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.69955
+Original_All,original,3,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.589
+Original_All,original,3,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.71463
+Original_All,original,4,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.52518
+Original_All,original,4,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.67494
+Original_All,original,4,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.71739
+Original_All,original,4,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.71768
+Original_All,original,5,Genomic_only_K3K4Basic,Genomic-only,,f1,2.0,,,0.60894
+Original_All,original,5,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.70123
+Original_All,original,5,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.58305
+Original_All,original,5,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,4.0,,,0.53957
+Original_All,original,6,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.59829
+Original_All,original,6,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.68732
+Original_All,original,6,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.6812
+Original_All,original,6,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.71429
+Original_All,original,7,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.56522
+Original_All,original,7,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.69668
+Original_All,original,7,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.67606
+Original_All,original,7,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.64162
+Original_All,original,8,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.54227
+Original_All,original,8,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.69588
+Original_All,original,8,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.57325
+Original_All,original,8,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.54608
+Original_All,original,9,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.44944
+Original_All,original,9,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.68766
+Original_All,original,9,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.68342
+Original_All,original,9,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.6573
+Original_All,original,10,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.40784
+Original_All,original,10,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.6701
+Original_All,original,10,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.64497
+Original_All,original,10,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.6648
+Original_All,original,11,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.4375
+Original_All,original,11,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.57516
+Original_All,original,11,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.5871
+Original_All,original,11,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.47368
+Original_All,original,12,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.60112
+Original_All,original,12,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.6045
+Original_All,original,12,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.54983
+Original_All,original,12,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.70732
+Original_All,original,13,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.50355
+Original_All,original,13,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.71396
+Original_All,original,13,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.69915
+Original_All,original,13,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.69054
+Original_All,original,14,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.51485
+Original_All,original,14,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.60976
+Original_All,original,14,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.6759
+Original_All,original,14,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.72261
+Original_All,original,15,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.29825
+Original_All,original,15,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.70642
+Original_All,original,15,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.73966
+Original_All,original,15,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.65882
+Random_Negatives_1,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.51502
+Random_Negatives_1,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.54331
+Random_Negatives_1,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.4381
+Random_Negatives_1,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.54472
+Random_Negatives_1,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.61318
+Random_Negatives_1,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.67085
+Random_Negatives_1,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.46465
+Random_Negatives_1,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.6625
+Random_Negatives_1,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.66667
+Random_Negatives_1,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.71866
+Random_Negatives_1,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.71709
+Random_Negatives_1,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.70455
+Random_Negatives_1,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,,f1,1.0,,,0.52459
+Random_Negatives_1,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,,f1,4.0,,,0.31351
+Random_Negatives_1,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.36757
+Random_Negatives_1,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.40838
+Random_Negatives_1,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.61592
+Random_Negatives_1,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.69113
+Random_Negatives_1,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.69538
+Random_Negatives_1,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.71304
+Random_Negatives_1,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.59477
+Random_Negatives_1,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.61993
+Random_Negatives_1,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.55204
+Random_Negatives_1,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.63345
+Random_Negatives_1,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.58824
+Random_Negatives_1,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.7128
+Random_Negatives_1,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.73156
+Random_Negatives_1,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.6936
+Random_Negatives_1,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.40206
+Random_Negatives_1,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.52863
+Random_Negatives_1,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.60656
+Random_Negatives_1,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.59916
+Random_Negatives_1,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.54118
+Random_Negatives_1,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.6625
+Random_Negatives_1,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.66879
+Random_Negatives_1,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.69538
+Random_Negatives_1,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.40976
+Random_Negatives_1,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.70175
+Random_Negatives_1,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.70725
+Random_Negatives_1,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.71633
+Random_Negatives_1,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.27586
+Random_Negatives_1,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.69508
+Random_Negatives_1,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.47393
+Random_Negatives_1,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.73125
+Random_Negatives_1,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.58156
+Random_Negatives_1,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.67945
+Random_Negatives_1,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.68407
+Random_Negatives_1,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.68306
+Random_Negatives_1,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.58537
+Random_Negatives_1,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,,f1,4.0,,,0.45946
+Random_Negatives_1,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.62222
+Random_Negatives_1,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.6386
+Random_Negatives_1,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.5042
+Random_Negatives_1,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.6391
+Random_Negatives_1,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.60331
+Random_Negatives_1,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.6747
+Random_Negatives_1,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.62633
+Random_Negatives_1,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.71827
+Random_Negatives_1,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.71014
+Random_Negatives_1,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.63934
+Random_Negatives_2,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.48133
+Random_Negatives_2,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.68144
+Random_Negatives_2,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.68406
+Random_Negatives_2,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.56067
+Random_Negatives_2,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.59683
+Random_Negatives_2,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.61017
+Random_Negatives_2,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.60403
+Random_Negatives_2,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.64179
+Random_Negatives_2,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,,f1,1.0,,,0.64828
+Random_Negatives_2,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,,f1,4.0,,,0.5748
+Random_Negatives_2,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.584
+Random_Negatives_2,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.60674
+Random_Negatives_2,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.552
+Random_Negatives_2,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.7037
+Random_Negatives_2,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.56364
+Random_Negatives_2,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,4.0,,,0.52444
+Random_Negatives_2,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.61255
+Random_Negatives_2,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.69231
+Random_Negatives_2,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.68726
+Random_Negatives_2,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,4.0,,,0.58333
+Random_Negatives_2,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,,f1,2.0,,,0.59542
+Random_Negatives_2,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.59322
+Random_Negatives_2,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.54299
+Random_Negatives_2,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.70508
+Random_Negatives_2,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,,f1,2.0,,,0.56579
+Random_Negatives_2,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.49327
+Random_Negatives_2,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.46602
+Random_Negatives_2,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.60806
+Random_Negatives_2,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.56432
+Random_Negatives_2,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.64286
+Random_Negatives_2,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.67987
+Random_Negatives_2,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.66912
+Random_Negatives_2,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.49782
+Random_Negatives_2,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.68946
+Random_Negatives_2,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.68243
+Random_Negatives_2,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.65613
+Random_Negatives_2,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.42365
+Random_Negatives_2,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.54008
+Random_Negatives_2,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.54936
+Random_Negatives_2,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.60905
+Random_Negatives_2,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,,f1,2.0,,,0.56923
+Random_Negatives_2,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.46729
+Random_Negatives_2,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.30682
+Random_Negatives_2,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.61194
+Random_Negatives_2,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.42922
+Random_Negatives_2,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.69436
+Random_Negatives_2,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.64769
+Random_Negatives_2,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.47222
+Random_Negatives_2,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.64577
+Random_Negatives_2,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,,f1,4.0,,,0.609
+Random_Negatives_2,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.67409
+Random_Negatives_2,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.67797
+Random_Negatives_2,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.57812
+Random_Negatives_2,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.71287
+Random_Negatives_2,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.71233
+Random_Negatives_2,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.69751
+Random_Negatives_2,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.48927
+Random_Negatives_2,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.60465
+Random_Negatives_2,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.64029
+Random_Negatives_2,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.66192
+Random_Negatives_3,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.57333
+Random_Negatives_3,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.60976
+Random_Negatives_3,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.71351
+Random_Negatives_3,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.72185
+Random_Negatives_3,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.54237
+Random_Negatives_3,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.71429
+Random_Negatives_3,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.70523
+Random_Negatives_3,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.61728
+Random_Negatives_3,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.36559
+Random_Negatives_3,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.68153
+Random_Negatives_3,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.58678
+Random_Negatives_3,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.50242
+Random_Negatives_3,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,,f1,2.0,,,0.64214
+Random_Negatives_3,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.65517
+Random_Negatives_3,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.46
+Random_Negatives_3,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,4.0,,,0.40642
+Random_Negatives_3,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,,f1,2.0,,,0.51852
+Random_Negatives_3,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.53556
+Random_Negatives_3,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.50679
+Random_Negatives_3,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,4.0,,,0.50644
+Random_Negatives_3,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.44444
+Random_Negatives_3,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.69461
+Random_Negatives_3,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.70213
+Random_Negatives_3,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.64341
+Random_Negatives_3,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.63844
+Random_Negatives_3,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.71667
+Random_Negatives_3,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.65248
+Random_Negatives_3,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,4.0,,,0.46939
+Random_Negatives_3,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.4
+Random_Negatives_3,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.66887
+Random_Negatives_3,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.66667
+Random_Negatives_3,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.57143
+Random_Negatives_3,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.4661
+Random_Negatives_3,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.64336
+Random_Negatives_3,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.66879
+Random_Negatives_3,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.66667
+Random_Negatives_3,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.52675
+Random_Negatives_3,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.56098
+Random_Negatives_3,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.56471
+Random_Negatives_3,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.65101
+Random_Negatives_3,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.44444
+Random_Negatives_3,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.60082
+Random_Negatives_3,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.51643
+Random_Negatives_3,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.51376
+Random_Negatives_3,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.11765
+Random_Negatives_3,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.68687
+Random_Negatives_3,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.71212
+Random_Negatives_3,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.51456
+Random_Negatives_3,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.41885
+Random_Negatives_3,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.66026
+Random_Negatives_3,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.67836
+Random_Negatives_3,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.63281
+Random_Negatives_3,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,,f1,2.0,,,0.47964
+Random_Negatives_3,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.50691
+Random_Negatives_3,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.42781
+Random_Negatives_3,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,4.0,,,0.36667
+Random_Negatives_3,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.43668
+Random_Negatives_3,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.54008
+Random_Negatives_3,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.63602
+Random_Negatives_3,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.59322
+Random_Negatives_4,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.41026
+Random_Negatives_4,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.67712
+Random_Negatives_4,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.35165
+Random_Negatives_4,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.68027
+Random_Negatives_4,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.4717
+Random_Negatives_4,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.65231
+Random_Negatives_4,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.68539
+Random_Negatives_4,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.6877
+Random_Negatives_4,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.38579
+Random_Negatives_4,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.57025
+Random_Negatives_4,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.59016
+Random_Negatives_4,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.69307
+Random_Negatives_4,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.40196
+Random_Negatives_4,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.58678
+Random_Negatives_4,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.62094
+Random_Negatives_4,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.66667
+Random_Negatives_4,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.50679
+Random_Negatives_4,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.64286
+Random_Negatives_4,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.64228
+Random_Negatives_4,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.70476
+Random_Negatives_4,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.41748
+Random_Negatives_4,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.67669
+Random_Negatives_4,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.70922
+Random_Negatives_4,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.69231
+Random_Negatives_4,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.48341
+Random_Negatives_4,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.53165
+Random_Negatives_4,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.58039
+Random_Negatives_4,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.5641
+Random_Negatives_4,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,,f1,2.0,,,0.60417
+Random_Negatives_4,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,,f1,4.0,,,0.54936
+Random_Negatives_4,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.68493
+Random_Negatives_4,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.57273
+Random_Negatives_4,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,,f1,1.0,,,0.67105
+Random_Negatives_4,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,,f1,4.0,,,0.46465
+Random_Negatives_4,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.64463
+Random_Negatives_4,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.62882
+Random_Negatives_4,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.49167
+Random_Negatives_4,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.6386
+Random_Negatives_4,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.64407
+Random_Negatives_4,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.61972
+Random_Negatives_4,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.52137
+Random_Negatives_4,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.61224
+Random_Negatives_4,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.52535
+Random_Negatives_4,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.61667
+Random_Negatives_4,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.62687
+Random_Negatives_4,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.66254
+Random_Negatives_4,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.71233
+Random_Negatives_4,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.62731
+Random_Negatives_4,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,,f1,2.0,,,0.57244
+Random_Negatives_4,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.50862
+Random_Negatives_4,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.47442
+Random_Negatives_4,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.65772
+Random_Negatives_4,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.56934
+Random_Negatives_4,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,,f1,4.0,,,0.28736
+Random_Negatives_4,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.69657
+Random_Negatives_4,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.69753
+Random_Negatives_4,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.52174
+Random_Negatives_4,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.71528
+Random_Negatives_4,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.72274
+Random_Negatives_4,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.71724
+Random_Negatives_5,random_negative_subset,1,Genomic_only_K3K4Basic,Genomic-only,,f1,2.0,,,0.55363
+Random_Negatives_5,random_negative_subset,1,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.48101
+Random_Negatives_5,random_negative_subset,1,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.47534
+Random_Negatives_5,random_negative_subset,1,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.6343
+Random_Negatives_5,random_negative_subset,2,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.65341
+Random_Negatives_5,random_negative_subset,2,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.68354
+Random_Negatives_5,random_negative_subset,2,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.7101
+Random_Negatives_5,random_negative_subset,2,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,4.0,,,0.60086
+Random_Negatives_5,random_negative_subset,3,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.50833
+Random_Negatives_5,random_negative_subset,3,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.59167
+Random_Negatives_5,random_negative_subset,3,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.4375
+Random_Negatives_5,random_negative_subset,3,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.58824
+Random_Negatives_5,random_negative_subset,4,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.61538
+Random_Negatives_5,random_negative_subset,4,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.69872
+Random_Negatives_5,random_negative_subset,4,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.70455
+Random_Negatives_5,random_negative_subset,4,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,4.0,,,0.59916
+Random_Negatives_5,random_negative_subset,5,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.29213
+Random_Negatives_5,random_negative_subset,5,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.7037
+Random_Negatives_5,random_negative_subset,5,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.70032
+Random_Negatives_5,random_negative_subset,5,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.60504
+Random_Negatives_5,random_negative_subset,6,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.56923
+Random_Negatives_5,random_negative_subset,6,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.64353
+Random_Negatives_5,random_negative_subset,6,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.65605
+Random_Negatives_5,random_negative_subset,6,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.66276
+Random_Negatives_5,random_negative_subset,7,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.5654
+Random_Negatives_5,random_negative_subset,7,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.67636
+Random_Negatives_5,random_negative_subset,7,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.6473
+Random_Negatives_5,random_negative_subset,7,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.57277
+Random_Negatives_5,random_negative_subset,8,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.52402
+Random_Negatives_5,random_negative_subset,8,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.67049
+Random_Negatives_5,random_negative_subset,8,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.63077
+Random_Negatives_5,random_negative_subset,8,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,4.0,,,0.48756
+Random_Negatives_5,random_negative_subset,9,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.57246
+Random_Negatives_5,random_negative_subset,9,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.70448
+Random_Negatives_5,random_negative_subset,9,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.71125
+Random_Negatives_5,random_negative_subset,9,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.65972
+Random_Negatives_5,random_negative_subset,10,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.26437
+Random_Negatives_5,random_negative_subset,10,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.57021
+Random_Negatives_5,random_negative_subset,10,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.51643
+Random_Negatives_5,random_negative_subset,10,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.70588
+Random_Negatives_5,random_negative_subset,11,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.51883
+Random_Negatives_5,random_negative_subset,11,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.69851
+Random_Negatives_5,random_negative_subset,11,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.69617
+Random_Negatives_5,random_negative_subset,11,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,3.0,,,0.68627
+Random_Negatives_5,random_negative_subset,12,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.57627
+Random_Negatives_5,random_negative_subset,12,Protein_only_ProtBERT_SW,Protein-only,,f1,2.0,,,0.69206
+Random_Negatives_5,random_negative_subset,12,Handcrafted_multimodal,Handcrafted multimodal,,f1,3.0,,,0.60082
+Random_Negatives_5,random_negative_subset,12,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.71341
+Random_Negatives_5,random_negative_subset,13,Genomic_only_K3K4Basic,Genomic-only,,f1,3.0,,,0.56489
+Random_Negatives_5,random_negative_subset,13,Protein_only_ProtBERT_SW,Protein-only,,f1,1.0,,,0.58537
+Random_Negatives_5,random_negative_subset,13,Handcrafted_multimodal,Handcrafted multimodal,,f1,4.0,,,0.54936
+Random_Negatives_5,random_negative_subset,13,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.57872
+Random_Negatives_5,random_negative_subset,14,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.52489
+Random_Negatives_5,random_negative_subset,14,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.65934
+Random_Negatives_5,random_negative_subset,14,Handcrafted_multimodal,Handcrafted multimodal,,f1,1.0,,,0.70922
+Random_Negatives_5,random_negative_subset,14,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,2.0,,,0.70588
+Random_Negatives_5,random_negative_subset,15,Genomic_only_K3K4Basic,Genomic-only,,f1,4.0,,,0.49302
+Random_Negatives_5,random_negative_subset,15,Protein_only_ProtBERT_SW,Protein-only,,f1,3.0,,,0.53275
+Random_Negatives_5,random_negative_subset,15,Handcrafted_multimodal,Handcrafted multimodal,,f1,2.0,,,0.55895
+Random_Negatives_5,random_negative_subset,15,DNABERT2_multimodal,DNABERT-2 multimodal,,f1,1.0,,,0.63359

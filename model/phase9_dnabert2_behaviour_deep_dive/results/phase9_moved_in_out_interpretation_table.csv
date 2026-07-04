@@ -1,0 +1,5 @@
+top_n,group,n_genes,n_curated_theme_supported_genes,curated_theme_supported_genes,n_significant_terms,n_t2d_relevant_terms,top_t2d_relevant_term,interpretation
+50,moved_in_by_DNABERT2,11,0,,9,0,,DNABERT-2 moved-in genes do not form a strong curated/enriched T2D biological cluster
+50,moved_out_from_handcrafted,11,5,NDUFB3;SLC5A1;NDUFA7;NDUFB1;DPP4,37,19,respiratory chain complex I,"Genes moved out by DNABERT-2 contain stronger curated/enriched mitochondrial, OXPHOS, glucose, or T2D biology"
+100,moved_in_by_DNABERT2,13,1,NDUFA9,0,0,,DNABERT-2 moved-in genes do not form a strong curated/enriched T2D biological cluster
+100,moved_out_from_handcrafted,13,2,NDUFB3;NDUFA13,2,2,NADH dehydrogenase complex,"Genes moved out by DNABERT-2 contain stronger curated/enriched mitochondrial, OXPHOS, glucose, or T2D biology"

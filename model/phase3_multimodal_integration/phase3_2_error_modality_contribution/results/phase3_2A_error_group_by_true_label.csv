@@ -1,0 +1,6 @@
+integration_error_group,0,1,All
+both_correct,81,83,164
+both_wrong,34,40,74
+combined_correct_protein_wrong,15,3,18
+protein_correct_combined_wrong,6,9,15
+All,136,135,271

@@ -1,0 +1,4 @@
+modality,feature_set,model,roc_auc
+multimodal,Combined Protein+Genomic,SVM RBF,0.7289760348583878
+protein,Protein-only ProtBERT-SW,SVM RBF,0.72739651416122
+genomic,Genomic-only K3K4Basic,Soft Voting,0.6553921568627452

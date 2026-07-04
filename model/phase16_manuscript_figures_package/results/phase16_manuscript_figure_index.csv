@@ -1,0 +1,10 @@
+figure_id,file_name,title,recommended_section,main_or_supplementary,purpose
+Figure 1,fig1_overall_workflow_diagram.png,Overall workflow,Materials and Methods,Main,"Summarizes dataset construction, feature extraction, model evaluation, explainability and biological validation."
+Figure 2,fig2_heldout_model_performance_comparison.png,Held-out performance comparison,Results,Main,"Replaces large held-out performance table with visual comparison across ROC-AUC, PR-AUC, F1 and MCC."
+Figure 3,fig3_repeated_split_performance_errorbars.png,Repeated-split robustness,Results,Main or Supplementary,Shows robustness across 10 repeated splits using mean and standard deviation.
+Figure 4,fig4_paired_delta_dnabert2_vs_handcrafted.png,Paired DNABERT-2 versus handcrafted delta,Results,Main,Visualizes calibrated paired statistical comparison and avoids overclaiming DNABERT-2 superiority.
+Figure 5,fig5_block_level_permutation_importance.png,Modality contribution by block permutation,Results / Explainability,Main,Supports explainability claim and shows protein-dominant but complementary genomic contribution.
+Figure 6,fig6_candidate_gene_pathway_heatmap.png,Candidate gene x biological theme matrix,Results / Biological validation,Main,Strengthens biological interpretation of candidate genes across T2D-relevant mechanisms.
+Figure 7,fig7_biological_pathway_summary_barplot.png,Biological pathway summary,Results / Biological validation,Supplementary or Main,Summarizes number of candidate genes per pathway/theme.
+Figure 8,fig8_biological_validation_random_baseline_summary.png,Biological theme overlap versus random baseline,Results / Biological validation,Main,Shows observed theme overlap compared with random baseline and FDR-calibrated interpretation.
+Supplementary Figure S1,fig9_exploratory_genomic_feature_group_importance.png,Exploratory genomic feature-group importance,Supplementary / Explainability,Supplementary,Shows exploratory SHAP/permutation feature-group contribution with caveat about reconstructed feature mapping.

@@ -1,0 +1,3 @@
+block,n_features,sum_abs_coefficient,mean_abs_coefficient,max_abs_coefficient,relative_abs_coefficient
+Protein_ProtBERT_SW_block,1024,256.10046138,0.25009811,1.019109,0.79484052
+Genomic_K3K4Basic_block,356,66.10311815,0.18568292,0.91715533,0.20515948

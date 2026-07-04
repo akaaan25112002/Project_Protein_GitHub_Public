@@ -1,0 +1,7 @@
+model,roc_auc
+ProtBERT sliding-window,0.6487226277372263
+ProtBERT sliding-window LR,0.6487226277372263
+ProtBERT truncated,0.6370759982825247
+ProtBERT truncated LR,0.6370759982825247
+ESM2_t6 sliding-window,0.6276835551738944
+ESM2_t12 truncated,0.5874838986689567

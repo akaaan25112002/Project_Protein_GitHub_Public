@@ -1,0 +1,58 @@
+{
+    "primary_representation": {
+        "name": "ProtBERT sliding-window",
+        "embedding_policy": "sliding_window_1022_stride_1022",
+        "model": "Rostlab/prot_bert",
+        "pooling": "mean token pooling per window + mean window pooling",
+        "downstream_model": "Logistic Regression",
+        "reason": "Best final-selected ROC-AUC and PR-AUC",
+        "test_roc_auc": 0.6487,
+        "test_pr_auc": 0.6551,
+        "test_f1": 0.5896,
+        "test_mcc": 0.1941,
+        "embedding_files": {
+            "train": "/content/drive/MyDrive/Project_Protein/model/phase1_2_protbert_sliding_window_embedding/embeddings/protbert_sw_train_embeddings.npy",
+            "validation": "/content/drive/MyDrive/Project_Protein/model/phase1_2_protbert_sliding_window_embedding/embeddings/protbert_sw_val_embeddings.npy",
+            "test": "/content/drive/MyDrive/Project_Protein/model/phase1_2_protbert_sliding_window_embedding/embeddings/protbert_sw_test_embeddings.npy"
+        },
+        "metadata_files": {
+            "train": "/content/drive/MyDrive/Project_Protein/model/phase1_2_protbert_sliding_window_embedding/embeddings/protbert_sw_train_metadata.csv",
+            "validation": "/content/drive/MyDrive/Project_Protein/model/phase1_2_protbert_sliding_window_embedding/embeddings/protbert_sw_val_metadata.csv",
+            "test": "/content/drive/MyDrive/Project_Protein/model/phase1_2_protbert_sliding_window_embedding/embeddings/protbert_sw_test_metadata.csv"
+        }
+    },
+    "secondary_representation": {
+        "name": "ProtBERT truncated",
+        "embedding_policy": "truncated_1022",
+        "model": "Rostlab/prot_bert",
+        "pooling": "mean token pooling",
+        "downstream_model": "Logistic Regression",
+        "reason": "Best final-selected F1 and MCC, cheaper than sliding-window",
+        "test_roc_auc": 0.6371,
+        "test_pr_auc": 0.6423,
+        "test_f1": 0.6014,
+        "test_mcc": 0.1943,
+        "embedding_files": {
+            "train": "/content/drive/MyDrive/Project_Protein/model/phase1_2_protbert_truncated_embedding/embeddings/protbert_trunc_train_embeddings.npy",
+            "validation": "/content/drive/MyDrive/Project_Protein/model/phase1_2_protbert_truncated_embedding/embeddings/protbert_trunc_val_embeddings.npy",
+            "test": "/content/drive/MyDrive/Project_Protein/model/phase1_2_protbert_truncated_embedding/embeddings/protbert_trunc_test_embeddings.npy"
+        },
+        "metadata_files": {
+            "train": "/content/drive/MyDrive/Project_Protein/model/phase1_2_protbert_truncated_embedding/embeddings/protbert_trunc_train_metadata.csv",
+            "validation": "/content/drive/MyDrive/Project_Protein/model/phase1_2_protbert_truncated_embedding/embeddings/protbert_trunc_val_metadata.csv",
+            "test": "/content/drive/MyDrive/Project_Protein/model/phase1_2_protbert_truncated_embedding/embeddings/protbert_trunc_test_metadata.csv"
+        }
+    },
+    "next_recommended_branch": {
+        "branch": "genomic/regulatory representation",
+        "reason": "Protein sequence alone provides moderate predictive signal. T2D association likely requires gene regulation, pathway context, tissue expression, and genetic evidence.",
+        "recommended_next_features": [
+            "gene-level genomic features",
+            "promoter/enhancer sequence embeddings",
+            "SNP/GWAS context",
+            "Open Targets evidence features",
+            "GO/pathway features",
+            "PPI/network features"
+        ]
+    }
+}

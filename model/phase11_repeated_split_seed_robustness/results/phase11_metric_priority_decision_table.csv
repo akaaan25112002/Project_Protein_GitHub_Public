@@ -1,0 +1,5 @@
+metric,role,justification
+PR-AUC,Primary ranking metric,The project aims to prioritise biologically meaningful T2D-associated genes/proteins. PR-AUC is more sensitive to the quality of positive candidate ranking than accuracy.
+MCC,Primary threshold-dependent metric,"MCC accounts for TP, TN, FP and FN simultaneously and is more informative than accuracy when evaluating balanced binary classification quality."
+ROC-AUC,Secondary ranking metric,"ROC-AUC measures global positive-vs-negative ranking, but it should not be the only basis for model selection because PR-AUC and top-ranked biological quality are central to this project."
+F1,Secondary threshold-dependent metric,"F1 summarizes precision and recall for the positive class, but it ignores true negatives. Therefore it is secondary to MCC."

@@ -1,0 +1,5 @@
+integration_error_group,n,percentage
+both_correct,164,60.51660516605166
+both_wrong,74,27.30627306273063
+combined_correct_protein_wrong,18,6.642066420664207
+protein_correct_combined_wrong,15,5.535055350553505

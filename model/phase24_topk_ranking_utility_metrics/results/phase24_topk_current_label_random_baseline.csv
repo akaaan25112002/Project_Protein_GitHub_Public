@@ -1,0 +1,33 @@
+model_name,display_name,top_k,observed_positive_in_topk,observed_precision_at_k,random_mean_positive_in_topk,random_sd_positive_in_topk,fold_enrichment_vs_random,empirical_p,empirical_bh_fdr_global,empirical_bh_fdr_within_topk
+DNABERT2_multimodal,DNABERT-2 multimodal,10,7,0.7,4.9858,1.58117,1.40399,0.17097,0.17217,0.17217
+DNABERT2_multimodal,DNABERT-2 multimodal,25,20,0.8,12.5204,2.44556,1.59739,0.0024,0.00284,0.0026
+DNABERT2_multimodal,DNABERT-2 multimodal,50,44,0.88,25.0434,3.48866,1.75695,0.0002,0.00027,0.00027
+DNABERT2_multimodal,DNABERT-2 multimodal,100,83,0.83,50.075,4.76759,1.65751,0.0002,0.00027,0.0002
+DNABERT2_multimodal,DNABERT-2 multimodal,150,120,0.8,75.1218,5.83704,1.59741,0.0002,0.00027,0.0002
+DNABERT2_multimodal,DNABERT-2 multimodal,200,157,0.785,100.0532,6.61812,1.56917,0.0002,0.00027,0.0002
+DNABERT2_multimodal,DNABERT-2 multimodal,300,240,0.8,149.93,8.05007,1.60075,0.0002,0.00027,0.0002
+DNABERT2_multimodal,DNABERT-2 multimodal,500,380,0.76,250.1872,9.53757,1.51886,0.0002,0.00027,0.0002
+Genomic_only_K3K4Basic,Genomic-only,10,9,0.9,4.9832,1.59744,1.80607,0.0098,0.01045,0.0196
+Genomic_only_K3K4Basic,Genomic-only,25,21,0.84,12.508,2.49832,1.67893,0.0006,0.00074,0.0012
+Genomic_only_K3K4Basic,Genomic-only,50,38,0.76,24.9866,3.44041,1.52082,0.0002,0.00027,0.00027
+Genomic_only_K3K4Basic,Genomic-only,100,77,0.77,49.898,4.86028,1.54315,0.0002,0.00027,0.0002
+Genomic_only_K3K4Basic,Genomic-only,150,110,0.73333,75.096,5.77712,1.46479,0.0002,0.00027,0.0002
+Genomic_only_K3K4Basic,Genomic-only,200,150,0.75,100.1818,6.73022,1.49728,0.0002,0.00027,0.0002
+Genomic_only_K3K4Basic,Genomic-only,300,216,0.72,150.0218,7.97283,1.43979,0.0002,0.00027,0.0002
+Genomic_only_K3K4Basic,Genomic-only,500,332,0.664,250.0252,9.53557,1.32787,0.0002,0.00027,0.0002
+Handcrafted_multimodal,Handcrafted multimodal,10,9,0.9,5.0216,1.5862,1.79226,0.0094,0.01037,0.0196
+Handcrafted_multimodal,Handcrafted multimodal,25,23,0.92,12.5278,2.46326,1.83592,0.0002,0.00027,0.0008
+Handcrafted_multimodal,Handcrafted multimodal,50,39,0.78,25.057,3.46932,1.55645,0.0004,0.00051,0.0004
+Handcrafted_multimodal,Handcrafted multimodal,100,84,0.84,50.0904,4.90586,1.67697,0.0002,0.00027,0.0002
+Handcrafted_multimodal,Handcrafted multimodal,150,125,0.83333,75.0334,5.9058,1.66592,0.0002,0.00027,0.0002
+Handcrafted_multimodal,Handcrafted multimodal,200,166,0.83,99.7848,6.7826,1.66358,0.0002,0.00027,0.0002
+Handcrafted_multimodal,Handcrafted multimodal,300,235,0.78333,150.0102,7.89801,1.56656,0.0002,0.00027,0.0002
+Handcrafted_multimodal,Handcrafted multimodal,500,367,0.734,250.13,9.48959,1.46724,0.0002,0.00027,0.0002
+Protein_only_ProtBERT_SW,Protein-only,10,7,0.7,5.02,1.57496,1.39442,0.17217,0.17217,0.17217
+Protein_only_ProtBERT_SW,Protein-only,25,20,0.8,12.4708,2.52595,1.60375,0.0026,0.00297,0.0026
+Protein_only_ProtBERT_SW,Protein-only,50,41,0.82,25.02,3.53051,1.63869,0.0002,0.00027,0.00027
+Protein_only_ProtBERT_SW,Protein-only,100,77,0.77,50.1172,4.89235,1.5364,0.0002,0.00027,0.0002
+Protein_only_ProtBERT_SW,Protein-only,150,121,0.80667,75.0152,5.81785,1.61301,0.0002,0.00027,0.0002
+Protein_only_ProtBERT_SW,Protein-only,200,163,0.815,100.025,6.67572,1.62959,0.0002,0.00027,0.0002
+Protein_only_ProtBERT_SW,Protein-only,300,232,0.77333,150.159,7.90343,1.54503,0.0002,0.00027,0.0002
+Protein_only_ProtBERT_SW,Protein-only,500,367,0.734,250.162,9.59668,1.46705,0.0002,0.00027,0.0002

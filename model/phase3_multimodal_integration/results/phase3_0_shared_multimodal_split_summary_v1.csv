@@ -1,0 +1,4 @@
+split,n,n_negative,n_positive,positive_ratio,n_protein_features,n_genomic_features,n_combined_features,unique_gene_id
+train,1264,632,632,0.5,1024,356,1380,1264
+validation,271,135,136,0.5018450184501845,1024,356,1380,271
+test,271,136,135,0.4981549815498155,1024,356,1380,271

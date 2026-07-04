@@ -1,0 +1,184 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="ekYubUSeTAIazQBFgsqb">
+    <mxGraphModel dx="2102" dy="1471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CTIeWFl2jPvewicjmtan-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-1" target="CTIeWFl2jPvewicjmtan-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-1" value="Open Targets&lt;div&gt;Platform&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="215" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-2" value="Type 2 diabetes mellitus&lt;br&gt;MONDO_0005148" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="330" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-4" value="&lt;b&gt;Thresholds:&lt;/b&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;0.30 ≤ score &amp;lt; 0.50: 722&lt;br&gt;score ≥ 0.50: 189&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-5" target="CTIeWFl2jPvewicjmtan-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-5" value="T2D Positive Gene Label Set v1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;911 rows&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="240" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-7" target="CTIeWFl2jPvewicjmtan-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-18" value="&#xa;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Provide more&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none;&quot;&gt;evidence&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Overlap rate: 68,94%&lt;/div&gt;&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-7" target="CTIeWFl2jPvewicjmtan-5">
+          <mxGeometry y="60" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-7" value="GWAS Catalog" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="430" y="30" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-9" value="&lt;table style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;forced-color-adjust: none;&quot;&gt;&lt;td style=&quot;forced-color-adjust: none;&quot;&gt;Raw rows&lt;/td&gt;&lt;td align=&quot;right&quot; style=&quot;forced-color-adjust: none;&quot;&gt;9,957&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;forced-color-adjust: none;&quot;&gt;&lt;td style=&quot;forced-color-adjust: none;&quot;&gt;Unique target IDs&lt;/td&gt;&lt;td align=&quot;right&quot; style=&quot;forced-color-adjust: none;&quot;&gt;9,687&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;forced-color-adjust: none;&quot;&gt;&lt;td style=&quot;forced-color-adjust: none;&quot;&gt;Asso. score range&lt;/td&gt;&lt;td align=&quot;right&quot; style=&quot;forced-color-adjust: none;&quot;&gt;0 → 0.865&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-10" value="&lt;table style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;forced-color-adjust: none;&quot;&gt;&lt;td style=&quot;forced-color-adjust: none;&quot;&gt;Strict T2D association rows&lt;/td&gt;&lt;td align=&quot;right&quot; style=&quot;forced-color-adjust: none;&quot;&gt;8,067&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;forced-color-adjust: none;&quot;&gt;&lt;td style=&quot;forced-color-adjust: none;&quot;&gt;Unique studies&lt;/td&gt;&lt;td align=&quot;right&quot; style=&quot;forced-color-adjust: none;&quot;&gt;152&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;forced-color-adjust: none;&quot;&gt;&lt;td style=&quot;forced-color-adjust: none;&quot;&gt;Unique PubMed IDs&lt;/td&gt;&lt;td align=&quot;right&quot; style=&quot;forced-color-adjust: none;&quot;&gt;104&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;forced-color-adjust: none;&quot;&gt;&lt;td style=&quot;forced-color-adjust: none;&quot;&gt;Unique SNPs&lt;/td&gt;&lt;td align=&quot;right&quot; style=&quot;forced-color-adjust: none;&quot;&gt;5,254&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;forced-color-adjust: none;&quot;&gt;&lt;td style=&quot;forced-color-adjust: none;&quot;&gt;Unique genomic regions&lt;/td&gt;&lt;td align=&quot;right&quot; style=&quot;forced-color-adjust: none;&quot;&gt;652&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;forced-color-adjust: none;&quot;&gt;&lt;td style=&quot;forced-color-adjust: none;&quot;&gt;Clean mapped genes&lt;/td&gt;&lt;td align=&quot;right&quot; style=&quot;forced-color-adjust: none;&quot;&gt;2,875&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="20" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-13" value="UniProt reviewed human proteome" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-14" value="&lt;span&gt;UP000005640&lt;/span&gt;&lt;br&gt;&lt;span&gt;reviewed:true&lt;/span&gt;&lt;br&gt;&lt;span&gt;canonical FASTA&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="145" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-15" value="&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Dataset&lt;/th&gt;&lt;th align=&quot;right&quot;&gt;Rows&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;UniProt metadata&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;20,416&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Canonical FASTA records&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;20,416&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="650" width="190" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-20" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Mapping&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Ensembl Gene ID (ENSG)&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-16" target="CTIeWFl2jPvewicjmtan-5">
+          <mxGeometry y="75" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-16" target="CTIeWFl2jPvewicjmtan-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-16" value="Emsembl&lt;div&gt;Biomart&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="430" y="480" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-19" value="Mapping&amp;nbsp;&lt;div&gt;Ensembl transcript IDs (ENST)&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-13" target="CTIeWFl2jPvewicjmtan-16">
+          <mxGeometry y="15" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-22" value="T2D Positive dataset" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=light-dark(#ff0000, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="715" y="240" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-23" value="&lt;table data-start=&quot;5254&quot; data-end=&quot;5516&quot; class=&quot;w-fit min-w-(--thread-content-width)&quot;&gt;&lt;tbody data-start=&quot;5284&quot; data-end=&quot;5516&quot;&gt;&lt;tr data-start=&quot;5284&quot; data-end=&quot;5316&quot;&gt;&lt;td data-start=&quot;5284&quot; data-end=&quot;5309&quot; data-col-size=&quot;md&quot;&gt;Initial Positive genes&lt;/td&gt;&lt;td data-start=&quot;5309&quot; data-end=&quot;5316&quot; data-col-size=&quot;sm&quot;&gt;911&lt;/td&gt;&lt;/tr&gt;&lt;tr data-start=&quot;5317&quot; data-end=&quot;5377&quot;&gt;&lt;td data-start=&quot;5317&quot; data-end=&quot;5370&quot; data-col-size=&quot;md&quot;&gt;Mapping diirectly Positive genes from UniProt sequence&lt;/td&gt;&lt;td data-start=&quot;5370&quot; data-end=&quot;5377&quot; data-col-size=&quot;sm&quot;&gt;905&lt;/td&gt;&lt;/tr&gt;&lt;tr data-start=&quot;5378&quot; data-end=&quot;5411&quot;&gt;&lt;td data-start=&quot;5378&quot; data-end=&quot;5406&quot; data-col-size=&quot;md&quot;&gt;Genes mapped indirectily&lt;/td&gt;&lt;td data-start=&quot;5406&quot; data-end=&quot;5411&quot; data-col-size=&quot;sm&quot;&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr data-start=&quot;5412&quot; data-end=&quot;5465&quot;&gt;&lt;td data-start=&quot;5412&quot; data-end=&quot;5460&quot; data-col-size=&quot;md&quot;&gt;Genes rescued by controlled symbol fallback&lt;/td&gt;&lt;td data-start=&quot;5460&quot; data-end=&quot;5465&quot; data-col-size=&quot;sm&quot;&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr data-start=&quot;5466&quot; data-end=&quot;5516&quot;&gt;&lt;td data-start=&quot;5466&quot; data-end=&quot;5505&quot; data-col-size=&quot;md&quot;&gt;&lt;strong data-start=&quot;5468&quot; data-end=&quot;5504&quot;&gt;Final protein-ready positive set&lt;/strong&gt;&lt;/td&gt;&lt;td data-start=&quot;5505&quot; data-end=&quot;5516&quot; data-col-size=&quot;sm&quot;&gt;&lt;strong data-start=&quot;5507&quot; data-end=&quot;5514&quot;&gt;910&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-36" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;10 protein-length&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;bins&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-25" target="CTIeWFl2jPvewicjmtan-31">
+          <mxGeometry x="-0.027" y="10" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-25" value="Negative Candidate Pool Clean v1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=light-dark(#ff0000, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="420" y="740" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-30" value="&lt;b&gt;9,459 strict candidate negatives&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="810" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-31" value="Balanced&amp;nbsp;&lt;div&gt;negatives sampled&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=light-dark(#ff0000, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="715" y="740" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-33" value="&lt;b&gt;910 rows&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="740" y="810" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-35" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Exclude:&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;- Positive ENSG;&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;- Gray Open Targets ENSG;&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;- Positive UniProt accessions;&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;- Non-protein-coding genes;&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;- UniProt entries mapping to multiple ENSGs;&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;- ENSG also maps to many UniProt entries.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-40" value="merge" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeWidth=2;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-38" target="CTIeWFl2jPvewicjmtan-39">
+          <mxGeometry x="-0.0526" y="15" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="980" y="260" width="35" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-39" target="CTIeWFl2jPvewicjmtan-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-39" target="CTIeWFl2jPvewicjmtan-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-39" value="Protein Classification Dataset Balanced v1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=light-dark(#ff0000, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="1110" y="485" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-42" value="coordinate mapping" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-41" target="CTIeWFl2jPvewicjmtan-39">
+          <mxGeometry x="-0.0476" y="-60" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-41" value="Emsembl&lt;div&gt;Biomart&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1135" y="650" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-43" target="CTIeWFl2jPvewicjmtan-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-43" value="Gene Coordinate Master Primary-Only v1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=light-dark(#ff0000, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="1450" y="485" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-45" value="Integrate:&#xa;- Ensembl gene ID;&#xa;- chromosome;&#xa;- start;&#xa;- end;&#xa;- strand;&#xa;- cordinate on primary assembly." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="400" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-48" target="CTIeWFl2jPvewicjmtan-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-48" value="TSS-proximal sequence" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1465" y="640" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-49" value="2,000 bp upstream of TSS&#xa;+ 500 bp downstream of TSS&#xa;= 2,500 bp per gene" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="560" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-57" value="Exclude 7 positive&lt;div&gt;mitochondrial genes&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-51" target="CTIeWFl2jPvewicjmtan-56">
+          <mxGeometry x="-0.037" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-51" value="Representative TSS construction" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1465" y="780" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-53" value="&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Rule&lt;/th&gt;&lt;th align=&quot;right&quot;&gt;Số gene&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;MANE Select&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;1,811&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ensembl Canonical fallback&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tổng&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;strong&gt;1,820&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1415" y="840" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-54" value="&lt;b&gt;Protein&lt;/b&gt;&lt;div&gt;&lt;b&gt;sequence model&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#ff0000, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="1120" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-65" value="Convert the sequence&lt;div&gt;to gene-oriented 5&#39;→3&#39;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-56" target="CTIeWFl2jPvewicjmtan-63">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-56" value="Representative TSS construction" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1710" y="780" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-58" value="&lt;table class=&quot;w-fit min-w-(--thread-content-width)&quot; data-end=&quot;11700&quot; data-start=&quot;11615&quot;&gt;&lt;tbody data-end=&quot;11700&quot; data-start=&quot;11645&quot;&gt;&lt;tr data-end=&quot;11672&quot; data-start=&quot;11645&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;11665&quot; data-start=&quot;11645&quot;&gt;Nuclear positives&lt;/td&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;11672&quot; data-start=&quot;11665&quot;&gt;903&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;11700&quot; data-start=&quot;11673&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;11693&quot; data-start=&quot;11673&quot;&gt;Nuclear negatives&lt;/td&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;11700&quot; data-start=&quot;11693&quot;&gt;910&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1695" y="840" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-61" value="&lt;b&gt;Genomic regulatory sequence model&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#ff0000, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="2010" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-63" target="CTIeWFl2jPvewicjmtan-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-63" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;TSS-Proximal Regulatory Sequences&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;2kb upstream + 500bp downstream&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Nuclear Balanced v1&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=light-dark(#ff0000, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="1960" y="780" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-71" value="identify TSS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="CTIeWFl2jPvewicjmtan-70" target="CTIeWFl2jPvewicjmtan-51">
+          <mxGeometry x="-0.1" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-70" value="GRCh38 Primary Assembly DNA FASTA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1275" y="755" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CTIeWFl2jPvewicjmtan-72" value="1,806 rows" style="text;whiteSpace=wrap;html=1;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2025" y="750" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

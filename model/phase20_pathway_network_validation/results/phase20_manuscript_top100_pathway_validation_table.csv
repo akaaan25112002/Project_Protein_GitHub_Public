@@ -1,0 +1,29 @@
+display_name,pathway,observed_overlap,random_mean,fold_enrichment_vs_random,empirical_p,empirical_bh_fdr_within_topn,overlap_genes
+DNABERT-2 multimodal,Beta_cell_function_development,1,0.8884,1.1256,0.5973,1.0,NKX6-1
+Genomic-only,Beta_cell_function_development,1,0.876,1.1416,0.5961,1.0,HNF1B
+Handcrafted multimodal,Beta_cell_function_development,1,0.8886,1.1254,0.5953,1.0,NKX6-1
+Protein-only,Beta_cell_function_development,2,0.8656,2.3105,0.2114,1.0,GCK; NKX6-1
+DNABERT-2 multimodal,Glucose_metabolism_transport,1,0.583,1.7153,0.4523,1.0,GCKR
+Genomic-only,Glucose_metabolism_transport,0,0.5928,0.0,1.0,1.0,
+Handcrafted multimodal,Glucose_metabolism_transport,1,0.6092,1.6415,0.4675,1.0,GCKR
+Protein-only,Glucose_metabolism_transport,2,0.6158,3.2478,0.1284,1.0,GCK; GCKR
+DNABERT-2 multimodal,Incretin_diabetes_pharmacology,0,0.5556,0.0,1.0,1.0,
+Genomic-only,Incretin_diabetes_pharmacology,0,0.547,0.0,1.0,1.0,
+Handcrafted multimodal,Incretin_diabetes_pharmacology,0,0.5618,0.0,1.0,1.0,
+Protein-only,Incretin_diabetes_pharmacology,1,0.5466,1.8295,0.4319,1.0,GCK
+DNABERT-2 multimodal,Insulin_secretion_KATP_Ca,0,0.4992,0.0,1.0,1.0,
+Genomic-only,Insulin_secretion_KATP_Ca,0,0.497,0.0,1.0,1.0,
+Handcrafted multimodal,Insulin_secretion_KATP_Ca,0,0.4986,0.0,1.0,1.0,
+Protein-only,Insulin_secretion_KATP_Ca,1,0.506,1.9763,0.4023,1.0,GCK
+DNABERT-2 multimodal,Insulin_signalling,0,0.4476,0.0,1.0,1.0,
+Genomic-only,Insulin_signalling,0,0.438,0.0,1.0,1.0,
+Handcrafted multimodal,Insulin_signalling,0,0.4538,0.0,1.0,1.0,
+Protein-only,Insulin_signalling,0,0.4322,0.0,1.0,1.0,
+DNABERT-2 multimodal,Known_T2D_GWAS_loci,2,1.75,1.1429,0.5305,1.0,CDC123; GCKR
+Genomic-only,Known_T2D_GWAS_loci,2,1.7672,1.1317,0.5279,1.0,CDC123; THADA
+Handcrafted multimodal,Known_T2D_GWAS_loci,1,1.7778,0.5625,0.8436,1.0,GCKR
+Protein-only,Known_T2D_GWAS_loci,2,1.768,1.1312,0.5371,1.0,GCK; GCKR
+DNABERT-2 multimodal,Mitochondrial_complex_I_OXPHOS,4,1.8772,2.1308,0.1186,1.0,NDUFA12; NDUFA7; NDUFB11; NDUFV1
+Genomic-only,Mitochondrial_complex_I_OXPHOS,1,1.89,0.5291,0.86,1.0,NDUFA12
+Handcrafted multimodal,Mitochondrial_complex_I_OXPHOS,2,1.888,1.0593,0.5707,1.0,NDUFB11; NDUFV1
+Protein-only,Mitochondrial_complex_I_OXPHOS,1,1.873,0.5339,0.855,1.0,NDUFV1

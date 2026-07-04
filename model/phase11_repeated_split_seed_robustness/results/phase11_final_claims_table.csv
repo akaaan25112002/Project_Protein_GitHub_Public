@@ -1,0 +1,6 @@
+claim,evidence,interpretation
+Repeated-split evaluation addresses the single-test-split vulnerability.,Models were evaluated across 10 stratified train/validation/test splits.,Mean ± SD across seeds provides a more robust estimate than a single held-out split.
+PR-AUC was treated as the primary ranking metric.,"The highest mean PR-AUC model was Multimodal_DNABERT2 with PR-AUC mean=0.7256, SD=0.0347.",This avoids cherry-picking ROC-AUC as the sole basis for model selection.
+MCC was treated as the primary threshold-dependent metric.,"The highest mean MCC model was Multimodal_DNABERT2 with MCC mean=0.3522, SD=0.0728.",MCC provides a balanced summary of threshold-dependent classification behaviour.
+ROC-AUC was treated as a secondary global ranking metric.,"The highest mean ROC-AUC model was Multimodal_DNABERT2 with ROC-AUC mean=0.7454, SD=0.0304.","If DNABERT-2 remains high in ROC-AUC, it supports the global-ranking extension narrative; otherwise the claim should be softened further."
+DNABERT-2 should not be described as a clear winner unless repeated splits confirm consistent superiority.,The interpretation should depend on mean ± SD and seed-level paired deltas.,"Use cautious language: small/global ranking gain, not clear dominance."

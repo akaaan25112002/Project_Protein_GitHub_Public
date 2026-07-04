@@ -1,0 +1,2 @@
+model,dataset,accuracy,precision,recall_sensitivity,specificity,f1,roc_auc,pr_auc,mcc,tn,fp,fn,tp,representation
+Soft Voting,test,0.5824175824175825,0.5785714285714286,0.5955882352941176,0.5693430656934306,0.5869565217391305,0.6276835551738944,0.6277878912896124,0.16498443892620485,78,59,55,81,ESM2_t6_8M_sliding_window_mean_pool_1022_stride_1022

@@ -1,0 +1,5 @@
+model_name,display_name,n_external_supported_negatives,n_ordinary_negatives,mean_score_external_supported_negatives,mean_score_ordinary_negatives,delta_mean_score,median_rank_external_supported_negatives,median_rank_ordinary_negatives,mannwhitney_two_sided_p,mannwhitney_greater_p,top_external_supported_negative_genes,bh_fdr_two_sided,bh_fdr_greater
+DNABERT2_multimodal,DNABERT-2 multimodal,44,859,0.41692,0.42036,-0.00344,1212.0,1197.0,0.88947,0.5555,NDUFV1; NDUFA12; NDUFB10; NDUFB5; GIPR; NDUFA9; NDUFA10; NDUFS7; NDUFB4; NDUFB8,0.94401,0.88239
+Genomic_only_K3K4Basic,Genomic-only,44,859,0.46055,0.47709,-0.01655,1144.5,1073.0,0.23545,0.88239,NDUFA12; NDUFV1; MTNR1B; NDUFB4; NDUFS7; NDUFB3; PAX4; JAZF1; NDUFA9; GIPR,0.94179,0.88239
+Handcrafted_multimodal,Handcrafted multimodal,44,859,0.40926,0.4241,-0.01484,1327.0,1181.0,0.47901,0.76068,NDUFV1; NDUFS7; NDUFA12; NDUFB10; NDUFA9; NDUFB8; GIPR; NDUFB5; NDUFB4; NDUFA10,0.94401,0.88239
+Protein_only_ProtBERT_SW,Protein-only,44,859,0.43061,0.43299,-0.00239,1198.5,1182.0,0.94401,0.52823,NDUFV1; NDUFB8; GIPR; NDUFB10; GLIS3; NDUFS7; NDUFA9; NDUFB5; NDUFA10; NDUFA12,0.94401,0.88239

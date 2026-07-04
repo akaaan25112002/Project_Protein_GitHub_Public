@@ -1,0 +1,17 @@
+metric,model_key,n_times_best,n_seeds,fraction_best
+pr_auc,Protein_only_ProtBERT_SW,2,10,0.2
+pr_auc,Genomic_only_K3K4Basic,0,10,0.0
+pr_auc,Multimodal_handcrafted,4,10,0.4
+pr_auc,Multimodal_DNABERT2,4,10,0.4
+mcc,Protein_only_ProtBERT_SW,0,10,0.0
+mcc,Genomic_only_K3K4Basic,0,10,0.0
+mcc,Multimodal_handcrafted,3,10,0.3
+mcc,Multimodal_DNABERT2,7,10,0.7
+roc_auc,Protein_only_ProtBERT_SW,0,10,0.0
+roc_auc,Genomic_only_K3K4Basic,0,10,0.0
+roc_auc,Multimodal_handcrafted,2,10,0.2
+roc_auc,Multimodal_DNABERT2,8,10,0.8
+f1,Protein_only_ProtBERT_SW,2,10,0.2
+f1,Genomic_only_K3K4Basic,1,10,0.1
+f1,Multimodal_handcrafted,0,10,0.0
+f1,Multimodal_DNABERT2,7,10,0.7

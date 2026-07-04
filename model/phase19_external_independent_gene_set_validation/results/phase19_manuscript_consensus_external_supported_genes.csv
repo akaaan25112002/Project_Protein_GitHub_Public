@@ -1,0 +1,31 @@
+gene_symbol,true_label,consensus_rank,mean_percentile_rank,best_rank,n_external_sets,external_sets
+NDUFV1,0,22,0.9537,28,1,Mitochondrial_OXPHOS_complex_I
+NDUFS6,1,90,0.9051,120,1,Mitochondrial_OXPHOS_complex_I
+NDUFB11,1,95,0.9012,55,1,Mitochondrial_OXPHOS_complex_I
+NDUFA7,1,107,0.8958,28,1,Mitochondrial_OXPHOS_complex_I
+NKX6-1,1,115,0.89,23,1,Beta_cell_function_or_development
+GCKR,1,131,0.8769,6,2,Glucose_metabolism_transport_or_insulin_secretion; Known_T2D_GWAS_or_genetic_risk
+MGAM,1,156,0.8615,130,1,Diabetes_drug_targets_or_pharmacology
+NDUFA12,0,158,0.86,30,1,Mitochondrial_OXPHOS_complex_I
+IRS1,1,159,0.8598,117,2,Glucose_metabolism_transport_or_insulin_secretion; Known_T2D_GWAS_or_genetic_risk
+CDC123,1,168,0.8558,48,1,Known_T2D_GWAS_or_genetic_risk
+NDUFS3,1,190,0.842,167,1,Mitochondrial_OXPHOS_complex_I
+NDUFB6,1,216,0.826,231,1,Mitochondrial_OXPHOS_complex_I
+ADAMTS9,1,229,0.8191,180,1,Known_T2D_GWAS_or_genetic_risk
+HMGA2,1,230,0.8191,238,1,Known_T2D_GWAS_or_genetic_risk
+GCK,1,236,0.8157,98,4,Beta_cell_function_or_development; Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion; Known_T2D_GWAS_or_genetic_risk
+PPARG,1,247,0.8079,276,2,Diabetes_drug_targets_or_pharmacology; Known_T2D_GWAS_or_genetic_risk
+INS,1,288,0.786,131,1,Beta_cell_function_or_development
+INSR,1,290,0.7848,162,3,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion; Known_T2D_GWAS_or_genetic_risk
+AKT2,1,304,0.7777,228,1,Glucose_metabolism_transport_or_insulin_secretion
+NDUFV2,1,306,0.7749,149,1,Mitochondrial_OXPHOS_complex_I
+CDKAL1,1,332,0.7634,247,1,Known_T2D_GWAS_or_genetic_risk
+NDUFS7,0,339,0.7614,278,1,Mitochondrial_OXPHOS_complex_I
+TP53INP1,1,357,0.7526,206,1,Known_T2D_GWAS_or_genetic_risk
+NDUFB10,0,360,0.7521,198,1,Mitochondrial_OXPHOS_complex_I
+THADA,1,400,0.7335,83,1,Known_T2D_GWAS_or_genetic_risk
+GIPR,0,413,0.7255,348,3,Diabetes_drug_targets_or_pharmacology; Glucose_metabolism_transport_or_insulin_secretion; Known_T2D_GWAS_or_genetic_risk
+DGKB,1,430,0.7175,220,1,Known_T2D_GWAS_or_genetic_risk
+NDUFA9,0,431,0.7173,423,1,Mitochondrial_OXPHOS_complex_I
+NDUFB4,0,470,0.6982,359,1,Mitochondrial_OXPHOS_complex_I
+HNF1B,1,474,0.697,45,1,Beta_cell_function_or_development

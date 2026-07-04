@@ -1,0 +1,5 @@
+true_label,is_external_supported,n_genes,median_consensus_rank,median_percentile
+0,False,859,1184.0,0.36939
+0,True,44,1333.0,0.29612
+1,False,856,621.5,0.62999
+1,True,47,500.0,0.68712

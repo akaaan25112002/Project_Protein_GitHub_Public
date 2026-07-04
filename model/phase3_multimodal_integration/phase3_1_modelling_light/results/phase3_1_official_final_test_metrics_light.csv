@@ -1,0 +1,2 @@
+feature_set,modality,model,dataset,accuracy,precision,recall_sensitivity,specificity,f1,roc_auc,pr_auc,mcc,tn,fp,fn,tp
+Combined Protein+Genomic,multimodal,SVM RBF,test,0.6642066420664207,0.6774193548387096,0.6222222222222222,0.7058823529411765,0.6486486486486487,0.7289760348583878,0.7572529106696753,0.3292904342375181,96,40,51,84

@@ -1,0 +1,6 @@
+term,definition
+Comparator,"The DNABERT-2 ranking is compared against the handcrafted multimodal ranking at the same cutoff, either top-50 or top-100."
+Moved-in genes,Genes ranked inside the DNABERT-2 top-N list but outside the handcrafted multimodal top-N list.
+Moved-out genes,Genes ranked inside the handcrafted multimodal top-N list but outside the DNABERT-2 top-N list.
+Shared genes,Genes ranked inside both DNABERT-2 and handcrafted multimodal top-N lists.
+Random baseline for moved-in/out,"For each moved-in or moved-out set, same-size random gene sets were sampled from the 271-gene candidate universe 1,000 times, and observed curated theme counts were compared against the random distribution."

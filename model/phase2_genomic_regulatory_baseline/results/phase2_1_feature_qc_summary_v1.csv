@@ -1,0 +1,6 @@
+feature_set,n_train,n_val,n_test,n_features,train_missing_values,val_missing_values,test_missing_values,train_inf_values,val_inf_values,test_inf_values
+Basic GC/CpG/skew/bins,1264,271,271,36,0,0,0,0,0,0
+K3 + Basic,1264,271,271,100,0,0,0,0,0,0
+K4 + Basic,1264,271,271,292,0,0,0,0,0,0
+K3 + K4 + Basic,1264,271,271,356,0,0,0,0,0,0
+K3 + K4 + K5 + Basic,1264,271,271,1380,0,0,0,0,0,0

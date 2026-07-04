@@ -1,0 +1,6 @@
+| error_group                    |   n_genes |   percentage_of_test_set |
+|:-------------------------------|----------:|-------------------------:|
+| both_correct                   |       164 |                    60.52 |
+| both_wrong                     |        74 |                    27.31 |
+| combined_correct_protein_wrong |        18 |                     6.64 |
+| protein_correct_combined_wrong |        15 |                     5.54 |

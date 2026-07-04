@@ -1,0 +1,9 @@
+item,value,note
+Candidate universe,271 genes from final ranked prediction tables,Random sets were sampled from the same candidate universe as model top-ranked genes.
+Random permutations,1000,Used for curated biological theme random baseline.
+Random seed,42,Used for reproducible random gene-set sampling.
+Top-N sizes,"50, 100",Observed top-ranked gene lists tested against same-size random gene sets.
+Empirical p-value,P(random count >= observed count),Plus-one correction used to avoid zero empirical p-values.
+Multiple comparison correction,Benjamini-Hochberg FDR,Applied across observed model/top/theme tests.
+Primary biological themes,mitochondrial_function; oxidative_phosphorylation; known_t2d_gwas_or_monogenic; beta_cell_biology; glucose_metabolism; insulin_signalling; pancreatic_development,Themes align with Phase 8/9 biological validation.
+Optional g:Profiler baseline,False,Curated-theme baseline is primary because it is reproducible and not API-dependent.

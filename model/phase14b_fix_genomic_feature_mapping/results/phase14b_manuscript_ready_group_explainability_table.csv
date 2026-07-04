@@ -1,0 +1,3 @@
+analysis,feature_group,n_features,importance_value,relative_importance,interpretation
+Permutation importance,Other_basic,356,0.155725,1.0,Higher value indicates larger PR-AUC drop when features in this group are permuted.
+SHAP mean absolute value,Other_basic,356,0.354955,1.0,Higher value indicates larger average SHAP contribution in the genomic RF explainability model.

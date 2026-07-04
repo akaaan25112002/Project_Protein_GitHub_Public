@@ -1,0 +1,4 @@
+representation,model,best_cv_roc_auc,best_train_roc_auc,overfit_gap_train_minus_cv,best_params
+Genomic DNABERT-2 sliding-window,Logistic Regression,0.6517064335212068,0.716130842676981,0.06442440915577419,"{'model__C': 0.0003, 'model__penalty': 'l2', 'model__solver': 'lbfgs'}"
+Genomic DNABERT-2 sliding-window,Random Forest,0.6470863761077486,0.9851770117723235,0.338090635664575,"{'model__bootstrap': True, 'model__max_depth': 10, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 10, 'model__n_estimators': 300}"
+Genomic DNABERT-2 sliding-window,SVM RBF,0.6416302128900555,0.7029546958820301,0.06132448299197457,"{'model__C': 0.1, 'model__gamma': 0.001}"

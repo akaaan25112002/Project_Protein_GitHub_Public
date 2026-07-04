@@ -1,0 +1,5 @@
+feature_set,model,best_cv_roc_auc,best_train_roc_auc,overfit_gap_train_minus_cv,best_params
+K3 + K4 + Basic,LightGBM,0.6389664585577597,0.980186578032266,0.34122011947450637,"{'model__colsample_bytree': 0.8, 'model__learning_rate': 0.05, 'model__max_depth': 3, 'model__min_child_samples': 50, 'model__n_estimators': 200, 'model__num_leaves': 15, 'model__reg_alpha': 0.1, 'model__reg_lambda': 5, 'model__subsample': 0.8}"
+K3 + K4 + Basic,Logistic Regression,0.6379244261134025,0.7285449400757227,0.09062051396232018,"{'model__C': 0.001, 'model__penalty': 'l2', 'model__solver': 'lbfgs'}"
+K3 + K4 + Basic,SVM RBF,0.6285777769842261,0.8095509990937227,0.18097322210949662,"{'model__C': 1, 'model__gamma': 0.001}"
+K3 + K4 + Basic,Random Forest,0.6277841261905753,0.9987378971614295,0.37095377097085414,"{'model__bootstrap': True, 'model__max_depth': 10, 'model__max_features': 0.2, 'model__min_samples_leaf': 10, 'model__n_estimators': 300}"

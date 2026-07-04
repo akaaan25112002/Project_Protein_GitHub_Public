@@ -1,0 +1,9 @@
+gene_set_name,set_size,theme,observed_count,observed_fraction,observed_genes,random_mean,random_sd,random_p025,random_p975,enrichment_ratio_vs_random_mean,empirical_p_greater_equal,empirical_p_bh_fdr,significant_empirical_p_0p05,significant_fdr_0p05,calibrated_interpretation
+DNABERT2_moved_out_top50,11,insulin_signalling,0,0.0,,0.042,0.2007,0.0,1.0,0.0,1.0,1.0,False,False,Observed theme count is not above random baseline.
+DNABERT2_moved_out_top50,11,glucose_metabolism,1,0.0909,SLC5A1,0.113,0.3322,0.0,1.0,8.8496,0.1089,0.5808,False,False,Observed count is above random mean but not statistically supported; interpret only descriptively.
+DNABERT2_moved_out_top50,11,beta_cell_biology,1,0.0909,DPP4,0.368,0.5735,0.0,2.0,2.7174,0.3217,1.0,False,False,Observed count is above random mean but not statistically supported; interpret only descriptively.
+DNABERT2_moved_out_top50,11,mitochondrial_function,3,0.2727,NDUFA7;NDUFB1;NDUFB3,0.43,0.6477,0.0,2.0,6.9767,0.01,0.1598,True,False,"Observed theme count is nominally enriched but does not survive FDR correction; interpret as hypothesis-generating, especially given small gene counts."
+DNABERT2_moved_out_top50,11,oxidative_phosphorylation,3,0.2727,NDUFA7;NDUFB1;NDUFB3,0.41,0.6183,0.0,2.0,7.3171,0.007,0.1598,True,False,"Observed theme count is nominally enriched but does not survive FDR correction; interpret as hypothesis-generating, especially given small gene counts."
+DNABERT2_moved_out_top50,11,pancreatic_development,0,0.0,,0.18,0.4216,0.0,1.0,0.0,1.0,1.0,False,False,Observed theme count is not above random baseline.
+DNABERT2_moved_out_top50,11,lipid_metabolism,0,0.0,,0.042,0.2007,0.0,1.0,0.0,1.0,1.0,False,False,Observed theme count is not above random baseline.
+DNABERT2_moved_out_top50,11,known_t2d_gwas_or_monogenic,2,0.1818,DPP4;SLC5A1,0.564,0.7311,0.0,2.0,3.5461,0.1069,0.5808,False,False,Observed count is above random mean but not statistically supported; interpret only descriptively.

@@ -1,0 +1,11 @@
+gene_symbol_length_bin,label,n
+len_5,0,290
+len_5,1,290
+len_6,0,236
+len_6,1,236
+len_7,0,114
+len_7,1,114
+len_ge_8,0,39
+len_ge_8,1,39
+len_le_4,0,201
+len_le_4,1,201

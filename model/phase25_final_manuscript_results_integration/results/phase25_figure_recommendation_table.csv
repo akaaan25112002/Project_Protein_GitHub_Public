@@ -1,0 +1,10 @@
+figure_id,recommended_content,source_phase,main_or_supplement,reason
+Figure 1,Overall workflow diagram,Phase 16,Main,"Shows dataset construction, feature extraction, evaluation, XAI and validation pipeline."
+Figure 2,Repeated CV model performance,Phase 17,Main,Core benchmark result.
+Figure 3,Top-K Precision/Enrichment and observed vs random Top-100 recovery,Phase 24,Main,Best evidence for gene-prioritization utility.
+Figure 4,Fusion strategy comparison,Phase 22,Main or Supplementary,Supports multimodal integration analysis.
+Figure 5,Block-level modality importance,Phase 14 / 16,Main,Supports explainable modality contribution.
+Figure 6,Case-level candidate/pathway-supported genes,Phase 21,Main or Supplementary,Strengthens explainability under incomplete labels.
+Supplementary Figure S1,Negative-set sensitivity plots,Phase 18,Supplementary,Robustness evidence.
+Supplementary Figure S2,Pathway/network validation plots,Phase 20,Supplementary,Supportive but not confirmatory biological evidence.
+Supplementary Figure S3,Leakage/bias audit plots,Phase 23 / 23B,Supplementary,Addresses reviewer concerns without overcrowding main text.

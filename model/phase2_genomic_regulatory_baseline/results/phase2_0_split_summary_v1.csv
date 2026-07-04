@@ -1,0 +1,4 @@
+split,n,n_negative,n_positive,positive_ratio,min_sequence_length,median_sequence_length,mean_sequence_length,max_sequence_length,total_N_bases
+train,1264,632,632,0.5,2500,2500.0,2500.0,2500,0
+validation,271,135,136,0.5018450184501845,2500,2500.0,2500.0,2500,0
+test,271,136,135,0.4981549815498155,2500,2500.0,2500.0,2500,0

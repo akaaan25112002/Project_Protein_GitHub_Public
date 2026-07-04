@@ -1,0 +1,5 @@
+model_name,display_name,pr_auc_mean,pr_auc_sd,mcc_mean,mcc_sd,roc_auc_mean,roc_auc_sd,f1_mean,f1_sd
+DNABERT2_multimodal,DNABERT-2 multimodal,0.7161,0.0238,0.3308,0.0525,0.7306,0.0229,0.646,0.0664
+Handcrafted_multimodal,Handcrafted multimodal,0.7137,0.0193,0.3168,0.0493,0.7247,0.0199,0.633,0.0627
+Protein_only_ProtBERT_SW,Protein-only,0.6951,0.0235,0.3078,0.0332,0.713,0.0199,0.6698,0.0502
+Genomic_only_K3K4Basic,Genomic-only,0.6447,0.0286,0.2034,0.0432,0.6408,0.0287,0.5011,0.1024

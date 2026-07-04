@@ -1,0 +1,7 @@
+analysis,n_input_genes,n_significant_terms,n_t2d_relevant_terms,top_t2d_relevant_term,interpretation
+Multimodal_handcrafted_top100,100,103,27,NADH dehydrogenase complex,Handcrafted multimodal top100 retains strong mitochondrial/OXPHOS biological signal.
+Multimodal_DNABERT2_top100,100,74,25,NADH dehydrogenase complex,DNABERT-2 top100 retains T2D biology but with weaker enrichment concentration.
+Multimodal_handcrafted_TP,86,175,41,respiratory chain complex I,
+Multimodal_DNABERT2_TP,88,148,38,NADH dehydrogenase (ubiquinone) activity,
+DNABERT2_moved_in_top100,13,0,0,,Moved-in genes do not form a significant enriched biological cluster.
+DNABERT2_moved_out_top100,13,2,2,NADH dehydrogenase complex,"Moved-out genes contain stronger mitochondrial/OXPHOS enrichment, explaining weaker DNABERT-2 biological validation."

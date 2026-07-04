@@ -1,0 +1,17 @@
+top_n,theme,n_theme_genes_in_test,shared_n,moved_in_by_DNABERT2_n,moved_out_from_handcrafted_n,net_moved_in_minus_out,mean_rank_improvement_by_dnabert2,median_rank_improvement_by_dnabert2,moved_in_genes,moved_out_genes,shared_genes
+50,mitochondrial_function,10,2,0,3,-3,-21.6,-8.5,,NDUFB3;NDUFA7;NDUFB1,NDUFB2;NDUFV1
+50,oxidative_phosphorylation,10,2,0,3,-3,-21.6,-8.5,,NDUFB3;NDUFA7;NDUFB1,NDUFB2;NDUFV1
+50,known_t2d_gwas_or_monogenic,14,7,0,2,-2,-11.2143,-4.0,,SLC5A1;DPP4,NEUROD1;IGF2BP2;HHEX;CACNA1D;GAD1;PDX1;INSR
+50,beta_cell_biology,9,5,0,1,-1,-4.8889,1.0,,DPP4,NEUROD1;ISL1;CACNA1D;GAD1;PDX1
+50,glucose_metabolism,3,0,0,1,-1,-8.6667,-3.0,,SLC5A1,
+50,insulin_signalling,1,1,0,0,0,0.0,0.0,,,INSR
+50,lipid_metabolism,1,1,0,0,0,5.0,5.0,,,SCD5
+50,pancreatic_development,4,3,0,0,0,-10.25,-6.5,,,NEUROD1;ISL1;PDX1
+100,mitochondrial_function,10,5,1,2,-1,-21.6,-8.5,NDUFA9,NDUFA13;NDUFB3,NDUFA7;NDUFB1;NDUFB2;NDUFC2;NDUFV1
+100,oxidative_phosphorylation,10,5,1,2,-1,-21.6,-8.5,NDUFA9,NDUFA13;NDUFB3,NDUFA7;NDUFB1;NDUFB2;NDUFC2;NDUFV1
+100,beta_cell_biology,9,7,0,0,0,-4.8889,1.0,,,NEUROD1;DPP4;ISL1;CACNA1D;KCNJ11;GAD1;PDX1
+100,glucose_metabolism,3,2,0,0,0,-8.6667,-3.0,,,SLC5A1;SLC5A2
+100,insulin_signalling,1,1,0,0,0,0.0,0.0,,,INSR
+100,known_t2d_gwas_or_monogenic,14,10,0,0,0,-11.2143,-4.0,,,SLC5A1;NEUROD1;IGF2BP2;DPP4;HHEX;CACNA1D;KCNJ11;GAD1;PDX1;INSR
+100,lipid_metabolism,1,1,0,0,0,5.0,5.0,,,SCD5
+100,pancreatic_development,4,3,0,0,0,-10.25,-6.5,,,NEUROD1;ISL1;PDX1

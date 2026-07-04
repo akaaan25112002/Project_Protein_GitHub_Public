@@ -1,0 +1,17 @@
+display_name,model_name,top_k,observed_positive_in_topk,random_mean_positive_in_topk,fold_enrichment_vs_random,empirical_p,empirical_bh_fdr_within_topk
+Handcrafted multimodal,Handcrafted_multimodal,25,23,12.5278,1.8359,0.0002,0.0008
+Genomic-only,Genomic_only_K3K4Basic,25,21,12.508,1.6789,0.0006,0.0012
+Protein-only,Protein_only_ProtBERT_SW,25,20,12.4708,1.6038,0.0026,0.0026
+DNABERT-2 multimodal,DNABERT2_multimodal,25,20,12.5204,1.5974,0.0024,0.0026
+DNABERT-2 multimodal,DNABERT2_multimodal,50,44,25.0434,1.757,0.0002,0.0003
+Protein-only,Protein_only_ProtBERT_SW,50,41,25.02,1.6387,0.0002,0.0003
+Handcrafted multimodal,Handcrafted_multimodal,50,39,25.057,1.5564,0.0004,0.0004
+Genomic-only,Genomic_only_K3K4Basic,50,38,24.9866,1.5208,0.0002,0.0003
+Handcrafted multimodal,Handcrafted_multimodal,100,84,50.0904,1.677,0.0002,0.0002
+DNABERT-2 multimodal,DNABERT2_multimodal,100,83,50.075,1.6575,0.0002,0.0002
+Genomic-only,Genomic_only_K3K4Basic,100,77,49.898,1.5432,0.0002,0.0002
+Protein-only,Protein_only_ProtBERT_SW,100,77,50.1172,1.5364,0.0002,0.0002
+Handcrafted multimodal,Handcrafted_multimodal,200,166,99.7848,1.6636,0.0002,0.0002
+Protein-only,Protein_only_ProtBERT_SW,200,163,100.025,1.6296,0.0002,0.0002
+DNABERT-2 multimodal,DNABERT2_multimodal,200,157,100.0532,1.5692,0.0002,0.0002
+Genomic-only,Genomic_only_K3K4Basic,200,150,100.1818,1.4973,0.0002,0.0002

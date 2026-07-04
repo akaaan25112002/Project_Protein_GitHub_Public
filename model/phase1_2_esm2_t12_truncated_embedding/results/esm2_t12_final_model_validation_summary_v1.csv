@@ -1,0 +1,2 @@
+model,dataset,accuracy,precision,recall_sensitivity,specificity,f1,roc_auc,pr_auc,mcc,tn,fp,fn,tp,representation
+Soft Voting,validation,0.6703296703296703,0.6850393700787402,0.635036496350365,0.7058823529411765,0.6590909090909091,0.747638471446973,0.7381613728246129,0.34174523140396773,96,40,50,87,ESM2_t12_35M_mean_pool_truncated_1022

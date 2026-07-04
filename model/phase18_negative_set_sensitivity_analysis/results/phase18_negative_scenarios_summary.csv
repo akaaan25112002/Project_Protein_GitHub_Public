@@ -1,0 +1,9 @@
+scenario_name,scenario_type,n_total,n_positive,n_negative,description
+Original_All,original,1806,903,903,All original positives and all original negatives.
+Random_Negatives_1,random_negative_subset,1400,700,700,Random subset of 700 negatives.
+Random_Negatives_2,random_negative_subset,1400,700,700,Random subset of 700 negatives.
+Random_Negatives_3,random_negative_subset,1400,700,700,Random subset of 700 negatives.
+Random_Negatives_4,random_negative_subset,1400,700,700,Random subset of 700 negatives.
+Random_Negatives_5,random_negative_subset,1400,700,700,Random subset of 700 negatives.
+Hard_Negatives_Closest,hard_negatives,1400,700,700,Negatives closest to the positive centroid in standardized ProtBERT embedding space.
+Easy_Negatives_Farthest,easy_negatives,1400,700,700,Negatives farthest from the positive centroid in standardized ProtBERT embedding space.

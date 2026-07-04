@@ -1,0 +1,33 @@
+display_name,model_name,ranking_target,top_k,n_positive_in_topk,precision_at_k,recall_at_k,enrichment_factor_at_k,ndcg_at_k
+DNABERT-2 multimodal,DNABERT2_multimodal,external_supported,25,1,0.04,0.011,0.7938,0.0268
+Handcrafted multimodal,Handcrafted_multimodal,external_supported,25,1,0.04,0.011,0.7938,0.0356
+Protein-only,Protein_only_ProtBERT_SW,external_supported,25,1,0.04,0.011,0.7938,0.0438
+Genomic-only,Genomic_only_K3K4Basic,external_supported,25,0,0.0,0.0,0.0,0.0
+DNABERT-2 multimodal,DNABERT2_multimodal,external_supported,50,3,0.06,0.033,1.1908,0.0472
+Genomic-only,Genomic_only_K3K4Basic,external_supported,50,3,0.06,0.033,1.1908,0.0435
+Handcrafted multimodal,Handcrafted_multimodal,external_supported,50,2,0.04,0.022,0.7938,0.0384
+Protein-only,Protein_only_ProtBERT_SW,external_supported,50,2,0.04,0.022,0.7938,0.0422
+DNABERT-2 multimodal,DNABERT2_multimodal,external_supported,100,7,0.07,0.0769,1.3892,0.064
+Genomic-only,Genomic_only_K3K4Basic,external_supported,100,4,0.04,0.044,0.7938,0.0366
+Handcrafted multimodal,Handcrafted_multimodal,external_supported,100,4,0.04,0.044,0.7938,0.0419
+Protein-only,Protein_only_ProtBERT_SW,external_supported,100,4,0.04,0.044,0.7938,0.0436
+DNABERT-2 multimodal,DNABERT2_multimodal,external_supported,200,11,0.055,0.1209,1.0915,0.0916
+Genomic-only,Genomic_only_K3K4Basic,external_supported,200,10,0.05,0.1099,0.9923,0.079
+Protein-only,Protein_only_ProtBERT_SW,external_supported,200,10,0.05,0.1099,0.9923,0.0858
+Handcrafted multimodal,Handcrafted_multimodal,external_supported,200,9,0.045,0.0989,0.8931,0.078
+DNABERT-2 multimodal,DNABERT2_multimodal,pathway_supported,25,1,0.04,0.011,0.7938,0.0268
+Handcrafted multimodal,Handcrafted_multimodal,pathway_supported,25,1,0.04,0.011,0.7938,0.0356
+Protein-only,Protein_only_ProtBERT_SW,pathway_supported,25,1,0.04,0.011,0.7938,0.0438
+Genomic-only,Genomic_only_K3K4Basic,pathway_supported,25,0,0.0,0.0,0.0,0.0
+DNABERT-2 multimodal,DNABERT2_multimodal,pathway_supported,50,3,0.06,0.033,1.1908,0.0472
+Genomic-only,Genomic_only_K3K4Basic,pathway_supported,50,3,0.06,0.033,1.1908,0.0435
+Handcrafted multimodal,Handcrafted_multimodal,pathway_supported,50,2,0.04,0.022,0.7938,0.0384
+Protein-only,Protein_only_ProtBERT_SW,pathway_supported,50,2,0.04,0.022,0.7938,0.0422
+DNABERT-2 multimodal,DNABERT2_multimodal,pathway_supported,100,7,0.07,0.0769,1.3892,0.064
+Genomic-only,Genomic_only_K3K4Basic,pathway_supported,100,4,0.04,0.044,0.7938,0.0366
+Handcrafted multimodal,Handcrafted_multimodal,pathway_supported,100,4,0.04,0.044,0.7938,0.0419
+Protein-only,Protein_only_ProtBERT_SW,pathway_supported,100,4,0.04,0.044,0.7938,0.0436
+DNABERT-2 multimodal,DNABERT2_multimodal,pathway_supported,200,11,0.055,0.1209,1.0915,0.0916
+Genomic-only,Genomic_only_K3K4Basic,pathway_supported,200,10,0.05,0.1099,0.9923,0.079
+Protein-only,Protein_only_ProtBERT_SW,pathway_supported,200,10,0.05,0.1099,0.9923,0.0858
+Handcrafted multimodal,Handcrafted_multimodal,pathway_supported,200,9,0.045,0.0989,0.8931,0.078

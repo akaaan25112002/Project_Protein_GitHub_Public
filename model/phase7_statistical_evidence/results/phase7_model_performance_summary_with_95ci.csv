@@ -1,0 +1,5 @@
+model_key,roc_auc,roc_auc_ci_lower,roc_auc_ci_upper,pr_auc,pr_auc_ci_lower,pr_auc_ci_upper,threshold,accuracy,precision,recall_sensitivity,specificity,f1,mcc,tn,fp,fn,tp
+Multimodal_DNABERT2,0.7568,0.7002,0.8108,0.7447,0.6692,0.8225,0.5,0.6716,0.6769,0.6519,0.6912,0.6642,0.3433,94,42,47,88
+Multimodal_handcrafted,0.729,0.6707,0.7857,0.7573,0.6893,0.8212,0.5,0.6716,0.6825,0.637,0.7059,0.659,0.3438,96,40,49,86
+Protein_only_ProtBERT_SW,0.7274,0.6677,0.7858,0.7433,0.6675,0.8175,0.5,0.6605,0.6525,0.6815,0.6397,0.6667,0.3215,87,49,43,92
+Genomic_only_K3K4Basic,0.6397,0.5722,0.7045,0.6215,0.5386,0.7124,0.5,0.5683,0.5763,0.5037,0.6324,0.5375,0.1372,86,50,67,68

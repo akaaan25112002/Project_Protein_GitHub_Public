@@ -1,0 +1,13 @@
+pathway_group,n_candidate_genes,genes
+Beta-cell function,9,PDX1; NEUROD1; HHEX; IGF2BP2; CACNA1D; KCNJ11; ABCC8; GAD1; MTNR1B
+Mitochondrial function,6,NDUFB2; NDUFV1; NDUFA7; NDUFB1; NDUFB3; NDUFA13
+Oxidative phosphorylation,6,NDUFB2; NDUFV1; NDUFA7; NDUFB1; NDUFB3; NDUFA13
+Glucose metabolism,3,INSR; DPP4; SLC5A1
+T2D GWAS / genetic risk,2,HHEX; IGF2BP2
+Pancreatic development,2,PDX1; NEUROD1
+Insulin secretion,2,KCNJ11; ABCC8
+Insulin signalling,1,INSR
+Glucose transport,1,SLC5A1
+Incretin signalling / diabetes pharmacology,1,DPP4
+Calcium signalling / insulin secretion,1,CACNA1D
+Lipid metabolism,1,SCD5

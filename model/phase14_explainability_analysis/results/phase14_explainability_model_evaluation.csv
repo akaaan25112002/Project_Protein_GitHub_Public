@@ -1,0 +1,6 @@
+model_name,validation_selected_threshold,validation_mcc_at_threshold,roc_auc,pr_auc,accuracy,precision,recall,specificity,f1,mcc,tn,fp,fn,tp,threshold
+Genomic_RF_explainability,0.4859,0.2629,0.6237,0.6432,0.6052,0.6167,0.5481,0.6618,0.5804,0.2113,90,46,61,74,0.4859
+Handcrafted_multimodal_LR_surrogate,0.008,0.2903,0.6399,0.6161,0.5756,0.5463,0.8741,0.2794,0.6724,0.1908,38,98,17,118,0.008
+DNABERT2_multimodal_LR_surrogate,0.957,0.2267,0.693,0.679,0.6494,0.7174,0.4889,0.8088,0.5815,0.3143,110,26,69,66,0.957
+Handcrafted_multimodal_primary_for_block,0.008,0.2903,0.6399,0.6161,0.5756,0.5463,0.8741,0.2794,0.6724,0.1908,38,98,17,118,0.008
+DNABERT2_multimodal_primary_for_block,0.957,0.2267,0.693,0.679,0.6494,0.7174,0.4889,0.8088,0.5815,0.3143,110,26,69,66,0.957

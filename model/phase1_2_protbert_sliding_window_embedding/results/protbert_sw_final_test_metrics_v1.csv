@@ -1,0 +1,2 @@
+model,dataset,accuracy,precision,recall_sensitivity,specificity,f1,roc_auc,pr_auc,mcc,tn,fp,fn,tp,representation
+Logistic Regression,test,0.5970695970695971,0.5984848484848485,0.5808823529411765,0.6131386861313869,0.5895522388059702,0.6487226277372263,0.6551002354519113,0.19412525621445714,84,53,57,79,ProtBERT_sliding_window_mean_pool_1022_stride_1022

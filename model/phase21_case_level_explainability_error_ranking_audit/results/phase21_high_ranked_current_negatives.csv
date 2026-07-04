@@ -1,0 +1,51 @@
+sample_index,gene_symbol,true_label,mean_percentile_rank,sd_percentile_rank,mean_rank,best_rank,consensus_rank,external_sets_x,n_external_sets_x,is_external_supported,n_curated_pathways,curated_pathways,is_pathway_supported,n_external_sets_y,external_sets_y,n_external_sets,external_sets,relabel_audit_priority,external_evidence_strength,case_interpretation
+21,NEXMIF,0,0.97258,0.05227,50.5,1,10,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1014,LRRIQ1,0,0.96759,0.02861,59.5,13,14,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+612,SMARCAD1,0,0.96385,0.0137,66.25,38,16,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1161,PNLIP,0,0.9554,0.0473,81.5,7,20,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+268,NDUFV1,0,0.95374,0.02523,84.5,28,22,Mitochondrial_OXPHOS_complex_I,1,False,1,Mitochondrial_complex_I_OXPHOS,True,1.0,Mitochondrial_OXPHOS_complex_I,0,,high,single_source,Current-negative but pathway-supported hypothesis candidate
+401,SEPTIN4,0,0.95291,0.03932,86.0,30,23,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+702,KMT5B,0,0.94404,0.03965,102.0,45,35,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+277,LRMDA,0,0.94238,0.06299,105.0,19,38,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1054,IGF2BP3,0,0.92313,0.06227,139.75,29,64,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1258,ZC3H12C,0,0.92202,0.06693,141.75,71,67,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1717,KRT81,0,0.91066,0.02727,162.25,109,78,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+890,C8ORF88,0,0.90443,0.05091,173.5,102,91,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+127,MPPED2,0,0.90097,0.03854,179.75,108,96,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1524,SETD5,0,0.90042,0.05605,180.75,107,98,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+506,IL17REL,0,0.9,0.10096,181.5,1,99,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+469,SLC12A8,0,0.89834,0.06523,184.5,86,103,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+479,HAUS6,0,0.8928,0.20077,194.5,4,111,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1772,ANKMY1,0,0.89058,0.05461,198.5,60,113,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+358,DNMT3A,0,0.88781,0.09747,203.5,36,116,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+273,NRAP,0,0.88476,0.09632,209.0,71,119,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1363,RRP12,0,0.87867,0.06347,220.0,93,129,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1522,TNFRSF19,0,0.87562,0.04325,225.5,115,135,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1000,BMF,0,0.87271,0.0808,230.75,92,139,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+719,ARID3B,0,0.8723,0.12058,231.5,15,140,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+556,SYDE2,0,0.8723,0.08485,231.5,80,140,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1053,RAB11FIP4,0,0.86939,0.03765,236.75,141,146,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1640,RPAP1,0,0.8615,0.14411,251.0,31,155,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+585,NDUFA12,0,0.85997,0.14321,253.75,30,158,Mitochondrial_OXPHOS_complex_I,1,False,1,Mitochondrial_complex_I_OXPHOS,True,1.0,Mitochondrial_OXPHOS_complex_I,0,,high,single_source,Current-negative but pathway-supported hypothesis candidate
+404,CLEC18A,0,0.85263,0.08915,267.0,129,173,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1403,NBPF3,0,0.85249,0.16828,267.25,23,174,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+475,GPR85,0,0.85249,0.04117,267.25,168,175,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+168,ZFHX3,0,0.85028,0.06715,271.25,178,177,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1175,KLB,0,0.85028,0.05242,271.25,212,179,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1418,IFIH1,0,0.84986,0.08375,272.0,133,180,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+842,LDB2,0,0.8482,0.13881,275.0,58,183,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+248,EVI2A,0,0.84778,0.01838,275.75,243,184,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1761,JPT2,0,0.84017,0.11236,289.5,67,194,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1189,TRIM11,0,0.8385,0.06271,292.5,123,198,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+1106,MAPK8IP1,0,0.83837,0.06418,292.75,126,199,,0,False,0,,False,,,0,,,,High-ranked current-negative candidate requiring audit
+695,PDGFC,0,0.83546,0.10713,298.0,82,201,,0,False,0,,False,,,0,,,,Lower-priority / background candidate
+914,HIVEP2,0,0.83033,0.074,307.25,213,208,,0,False,0,,False,,,0,,,,Lower-priority / background candidate
+247,SCART1,0,0.82964,0.11639,308.5,174,210,,0,False,0,,False,,,0,,,,Lower-priority / background candidate
+747,MARCHF10,0,0.81717,0.24348,331.0,7,235,,0,False,0,,False,,,0,,,,Lower-priority / background candidate
+1230,POU5F1B,0,0.8126,0.14893,339.25,78,238,,0,False,0,,False,,,0,,,,Lower-priority / background candidate
+1088,RASSF9,0,0.81108,0.11568,342.0,139,242,,0,False,0,,False,,,0,,,,Lower-priority / background candidate
+121,SORT1,0,0.81011,0.10574,343.75,217,243,,0,False,0,,False,,,0,,,,Lower-priority / background candidate
+210,COL23A1,0,0.80776,0.26343,348.0,3,248,,0,False,0,,False,,,0,,,,Lower-priority / background candidate
+1315,NKX6-3,0,0.80679,0.08865,349.75,180,252,,0,False,0,,False,,,0,,,,Lower-priority / background candidate
+77,EXOSC10,0,0.80582,0.10447,351.5,103,254,,0,False,0,,False,,,0,,,,Lower-priority / background candidate
+803,KL,0,0.79945,0.08266,363.0,149,265,,0,False,0,,False,,,0,,,,Lower-priority / background candidate

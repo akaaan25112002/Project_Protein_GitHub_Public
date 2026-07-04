@@ -1,0 +1,8 @@
+| section                | key_result                           | value                                        | interpretation                                                               |
+|:-----------------------|:-------------------------------------|:---------------------------------------------|:-----------------------------------------------------------------------------|
+| Model performance      | Official model                       | Official Combined Protein+Genomic SVM RBF    | Selected multimodal model for final evaluation                               |
+| Model performance      | ROC-AUC / PR-AUC / F1 / MCC          | 0.7290 / 0.7573 / 0.6590 / 0.3438            | Overall held-out test performance                                            |
+| Biological validation  | Top true positives enrichment        | 175 significant terms; 63 T2D-relevant terms | Correct model predictions are biologically enriched                          |
+| Biological validation  | Top 50 predictions enrichment        | 102 significant terms; 41 T2D-relevant terms | Top-ranked predictions show pathway-level biological signal                  |
+| Curated support        | Top 50 curated T2D support           | 15/50 genes (30.0%)                          | Top-ranked genes overlap with curated T2D/metabolic gene sets                |
+| Multimodal integration | Biologically supported rescued genes | ABCC8; MTNR1B                                | Some genes corrected by multimodal integration have known diabetes relevance |

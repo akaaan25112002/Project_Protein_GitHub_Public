@@ -1,0 +1,17 @@
+top_n,theme,Multimodal_DNABERT2,Multimodal_handcrafted,delta_DNABERT2_minus_handcrafted
+50,insulin_signalling,1,1,0
+50,lipid_metabolism,1,1,0
+50,pancreatic_development,3,3,0
+50,beta_cell_biology,5,6,-1
+50,glucose_metabolism,0,1,-1
+50,known_t2d_gwas_or_monogenic,7,9,-2
+50,mitochondrial_function,2,5,-3
+50,oxidative_phosphorylation,2,5,-3
+100,beta_cell_biology,7,7,0
+100,glucose_metabolism,2,2,0
+100,insulin_signalling,1,1,0
+100,known_t2d_gwas_or_monogenic,10,10,0
+100,lipid_metabolism,1,1,0
+100,pancreatic_development,3,3,0
+100,mitochondrial_function,6,7,-1
+100,oxidative_phosphorylation,6,7,-1

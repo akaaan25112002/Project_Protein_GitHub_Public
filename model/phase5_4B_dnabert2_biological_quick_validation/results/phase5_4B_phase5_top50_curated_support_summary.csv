@@ -1,0 +1,2 @@
+n_top50_genes,n_true_positive,n_false_positive,n_with_curated_t2d_support,pct_with_curated_t2d_support,supported_genes
+50,43,7,10,20.0,CACNA1D;GAD1;INSR;NDUFV1;NDUFB2;HHEX;SCD5;NEUROD1;PDX1;IGF2BP2

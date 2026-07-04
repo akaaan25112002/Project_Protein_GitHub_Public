@@ -1,0 +1,11 @@
+feature_set,modality,n_features,model,best_cv_roc_auc,best_train_roc_auc,overfit_gap_train_minus_cv,best_params
+Combined Protein+Genomic,multimodal,1380,Logistic Regression,0.7280421296544282,0.8469293411554594,0.11888721150103121,"{'model__C': 0.001, 'model__penalty': 'l2', 'model__solver': 'lbfgs'}"
+Combined Protein+Genomic,multimodal,1380,SVM RBF,0.7135643758815863,0.9690703179271356,0.25550594204554933,"{'model__C': 1, 'model__gamma': 'scale'}"
+Protein-only ProtBERT-SW,protein,1024,Logistic Regression,0.7122315067759388,0.8057046526099594,0.09347314583402055,"{'model__C': 0.001, 'model__penalty': 'l2', 'model__solver': 'lbfgs'}"
+Combined Protein+Genomic,multimodal,1380,Random Forest,0.7102436600186882,0.9872144959813047,0.2769708359626165,"{'model__bootstrap': True, 'model__max_depth': 8, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 10, 'model__n_estimators': 300}"
+Protein-only ProtBERT-SW,protein,1024,SVM RBF,0.7076580705189628,0.9379688113166017,0.2303107407976389,"{'model__C': 1, 'model__gamma': 'scale'}"
+Protein-only ProtBERT-SW,protein,1024,Random Forest,0.7033881677488727,0.9850160938073529,0.2816279260584802,"{'model__bootstrap': True, 'model__max_depth': 8, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 10, 'model__n_estimators': 300}"
+Genomic-only K3K4Basic,genomic,356,Logistic Regression,0.6464658187567824,0.7275626849503991,0.08109686619361667,"{'model__C': 0.001, 'model__penalty': 'l2', 'model__solver': 'lbfgs'}"
+Genomic-only K3K4Basic,genomic,356,SVM RBF,0.6446009724974854,0.8078589768239585,0.16325800432647308,"{'model__C': 1, 'model__gamma': 0.001}"
+Genomic-only K3K4Basic,genomic,356,Random Forest,0.6270729055693436,0.9851327976928987,0.35805989212355516,"{'model__bootstrap': True, 'model__max_depth': 8, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 10, 'model__n_estimators': 300}"
+Genomic-only K3K4Basic,genomic,356,LightGBM,0.6237895858255813,0.9265138875117962,0.3027243016862149,"{'model__colsample_bytree': 0.8, 'model__learning_rate': 0.05, 'model__max_depth': 3, 'model__min_child_samples': 50, 'model__n_estimators': 100, 'model__num_leaves': 7, 'model__reg_alpha': 0.1, 'model__reg_lambda': 5, 'model__subsample': 0.8}"

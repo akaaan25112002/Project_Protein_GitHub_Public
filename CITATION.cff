@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Project Protein: Bias-Audited Multimodal Sequence-Based Framework for Type 2 Diabetes Gene/Protein Prioritization"
+message: "If you use this repository, please cite the associated manuscript and this repository."
+type: software
+authors:
+  - family-names: "Nguyen"
+    given-names: "Anh Khoa"
+year: 2026
+repository-code: "https://github.com/akaaan25112002/Project_Protein_GitHub_Public"
+license: MIT
+keywords:
+  - Type 2 Diabetes
+  - gene prioritization
+  - protein embeddings
+  - genomic features
+  - multimodal learning
+  - bias audit
+  - machine learning
+abstract: "This repository contains supporting files for a gene/protein-level Type 2 Diabetes candidate prioritization study using sequence-derived protein and genomic representations with repeated cross-validation, fusion comparison, leakage/bias auditing, Top-K ranking utility analysis, and biological validation."

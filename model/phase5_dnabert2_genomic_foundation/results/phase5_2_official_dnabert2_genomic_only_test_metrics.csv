@@ -1,0 +1,2 @@
+representation,model,dataset,accuracy,precision,recall_sensitivity,specificity,f1,roc_auc,pr_auc,mcc,tn,fp,fn,tp
+Genomic DNABERT-2 sliding-window,Random Forest,test,0.6162361623616236,0.6631578947368421,0.4666666666666667,0.7647058823529411,0.5478260869565217,0.6832788671023965,0.6838355849863269,0.24245437940080117,104,32,72,63

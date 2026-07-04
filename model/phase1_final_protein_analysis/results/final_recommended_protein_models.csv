@@ -1,0 +1,4 @@
+use_case,recommended_representation,model,threshold,test_roc_auc,test_pr_auc,test_f1,test_mcc,main_reason
+Ranking / candidate prioritization,ProtBERT sliding-window,Logistic Regression,Not required,0.648723,0.6551,,,Best ROC-AUC and PR-AUC
+Binary classification - high recall,ProtBERT sliding-window,Logistic Regression,0.348,0.648723,0.6551,0.690608,0.240901,Best tuned F1 and MCC on test
+Binary classification - more conservative,ProtBERT truncated,Logistic Regression,0.38,0.637076,0.642279,0.676471,0.225446,Strong F1/MCC with simpler embedding

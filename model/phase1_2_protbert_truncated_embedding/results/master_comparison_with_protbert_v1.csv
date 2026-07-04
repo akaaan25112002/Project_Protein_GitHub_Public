@@ -1,0 +1,6 @@
+phase,representation,embedding_policy,final_model,test_roc_auc,test_pr_auc,test_f1,test_mcc
+1.1,AAC + Physchem,handcrafted,Random Forest,0.552,0.555,0.539,0.048
+1.2A,ESM2_t6_8M,truncated_1022,Stacking,0.6202,0.6188,0.5926,0.1941
+1.2B,ESM2_t6_8M,sliding_window_1022_stride_1022,Soft Voting,0.6277,0.6278,0.587,0.165
+1.2C,ESM2_t12_35M,truncated_1022,Soft Voting,0.5875,0.5942,0.5654,0.0995
+1.2D,ProtBERT,truncated_1022,Logistic Regression,0.6370759982825247,0.6422789673606879,0.6014492753623188,0.19429830279008636

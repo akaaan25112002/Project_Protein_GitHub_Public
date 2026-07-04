@@ -1,0 +1,4 @@
+split,n,mean_sequence_length,median_sequence_length,max_sequence_length,mean_n_windows,median_n_windows,max_n_windows,n_multi_window_sequences,pct_multi_window_sequences
+train,1264,2500.0,2500.0,2500,2.0,2.0,2,1264,100.0
+validation,271,2500.0,2500.0,2500,2.0,2.0,2,271,100.0
+test,271,2500.0,2500.0,2500,2.0,2.0,2,271,100.0

@@ -1,0 +1,4 @@
+feature_set,modality,n_train,n_val,n_test,n_features
+Protein-only ProtBERT-SW,protein,1264,271,271,1024
+Genomic-only K3K4Basic,genomic,1264,271,271,356
+Combined Protein+Genomic,multimodal,1264,271,271,1380
