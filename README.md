@@ -66,6 +66,8 @@ Project_Protein_GitHub_Public/
 │   ├── fig5_topk_ranking.png
 │   └── fig6_candidate_gene_pathway_heatmap.png
 │
+├── notebooks/
+
 └── results/
     └── final_report_tables/
 ```
