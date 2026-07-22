@@ -230,7 +230,7 @@ in collaboration with
 
 ## Contact
 
-### Nguyen Anh Khoa
+### Anh Khoa Nguyen
 
 Swinburne Vietnam
 
