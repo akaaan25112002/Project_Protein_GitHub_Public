@@ -1,30 +1,61 @@
 cff-version: 1.2.0
+
 title: "Leakage-Safe Explainable Multi-Omics Framework for Type 2 Diabetes Gene Prioritization Using Protein and Genomic Sequence Representations"
-message: "If you use this software or data in your research, please cite both the associated manuscript and this repository."
+
+message: >
+  If you use this repository in your research,
+  please cite both the associated manuscript and this repository.
+
 type: software
-authors:
-  - family-names: "Nguyen"
-    given-names: "Anh Khoa"
-    affiliation: "Swinburne University of Technology, Swinburne Vietnam"
-    email: "khoa.nguyenanh2511@gmail.com"
-  - family-names: "Dubey"
-    given-names: "Sandhya"
-    affiliation: "Manipal Academy of Higher Education"
-    email: "sandhya.dubey@manipal.edu"
+
+version: "1.0.0"
+
+date-released: 2026-07-22
+
+license: MIT
+
+repository-code: "https://github.com/akaaan25112002/Project_Protein_GitHub_Public"
+
+url: "https://github.com/akaaan25112002/Project_Protein_GitHub_Public"
+
+repository-artifact: "https://doi.org/10.5281/zenodo.21489228"
+
 identifiers:
   - type: doi
     value: "10.5281/zenodo.21489228"
-    description: "The permanent archive of the datasets and model checkpoints on Zenodo."
-repository-code: "https://github.com/akaaan25112002/Project_Protein_GitHub_Public"
-license: MIT
+    description: "Permanent Zenodo archive."
+
+authors:
+
+  - family-names: Nguyen
+    given-names: Anh Khoa
+    affiliation: Swinburne Vietnam, Swinburne University of Technology
+    email: khoa.nguyenanh2511@gmail.com
+
+  - family-names: Dubey
+    given-names: Sandhya
+    affiliation: Department of Computer Science and Engineering, Manipal Institute of Technology, Manipal Academy of Higher Education
+    email: sandhya.dubey@manipal.edu
+
 keywords:
   - Type 2 Diabetes
-  - gene prioritization
-  - protein embeddings
-  - genomic features
-  - multimodal learning
-  - bias audit
-  - machine learning
-  - explainable ai
-year: 2026
-abstract: "This repository contains supporting source code, phase-based pipelines, and structural definitions for a leakage-audited gene/protein-level Type 2 Diabetes candidate prioritization framework. It integrates protein sequence embeddings and genomic regulatory representations with robust repeated cross-validation, explainability analysis, and literature-supported biological validation."
+  - Gene Prioritization
+  - Bioinformatics
+  - Explainable AI
+  - Multi-Omics
+  - ProtBERT
+  - DNABERT-2
+  - Protein Embeddings
+  - Genomic Sequence
+  - Machine Learning
+  - Leakage Audit
+  - Reproducible Research
+
+abstract: >
+  This repository contains the complete implementation of a leakage-safe,
+  explainable multi-omics framework for Type 2 Diabetes gene prioritization.
+  The framework integrates protein language model embeddings, genomic regulatory
+  sequence representations, multimodal machine learning, repeated-split
+  robustness evaluation, statistical calibration, explainability analysis,
+  biological validation, and leakage auditing under a fully reproducible
+  phase-based workflow.

@@ -1,48 +1,60 @@
-# Leakage-Safe Explainable Multi-Omics Framework for Type 2 Diabetes Gene Prioritization
+# Leakage-Safe Explainable Multi-Omics Framework for Type 2 Diabetes Gene Prioritization Using Protein and Genomic Sequence Representations
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21489228.svg)](https://doi.org/10.5281/zenodo.21489228)
 
+---
+
 ## Overview
 
-This repository accompanies the manuscript:
+This repository accompanies the research manuscript:
 
 > **Leakage-Safe Explainable Multi-Omics Framework for Type 2 Diabetes Gene Prioritization Using Protein and Genomic Sequence Representations**
 
-The project presents a **gene/protein prioritization framework** that integrates protein sequence embeddings, genomic regulatory sequence representations, multimodal machine learning, explainability analysis, and biological validation under a leakage-aware evaluation protocol.
+The framework introduces a **leakage-safe, explainable, multimodal computational pipeline** for prioritizing Type 2 Diabetes (T2D)-associated genes using complementary protein and genomic sequence representations.
 
-Unlike patient-level diagnostic models, this work focuses on **prioritizing T2D-associated genes and proteins** for downstream biological interpretation and hypothesis generation.
+Rather than performing patient-level diagnosis, the framework aims to prioritize candidate genes for downstream biological interpretation and hypothesis generation.
 
 ---
 
 ## Highlights
 
-The framework includes:
-- Leakage-safe multimodal machine learning pipeline
-- Protein and genomic sequence representations
+The repository provides a complete and reproducible implementation of the proposed framework, including:
+
+- Leakage-safe evaluation protocol
+- Protein language model embeddings (ProtBERT)
+- Genomic regulatory sequence representations
+- Handcrafted genomic features
+- DNABERT-2 genomic embeddings
+- Multimodal feature integration
 - Repeated-split robustness evaluation
 - Paired statistical testing with BH-FDR correction
-- Explainability using block-level feature analysis
-- Literature-supported biological validation
-- Top-K ranking utility evaluation
-- Bias and negative-set sensitivity auditing
-- Fully reproducible phase-based research workflow
+- Explainability analysis
+- Biological validation
+- Top-K gene prioritization analysis
+- Negative-set sensitivity analysis
+- Leakage and bias auditing
+- Publication-ready figures and supplementary analyses
 
 ---
 
 ## Research Scope
 
-This repository **does NOT** implement a clinical diagnosis system.
+This repository **does not implement a clinical diagnosis model.**
 
-The prediction target is:
-> **candidate T2D gene/protein prioritization**
+The prediction target is
 
-Model outputs should **not** be interpreted as:
-- Patient diagnosis / Disease probability
-- Clinical risk prediction / Causal evidence
+> **Candidate Type 2 Diabetes gene/protein prioritization.**
 
-Instead, the framework is intended to assist computational prioritization of candidate genes for downstream biological investigation.
+The model outputs should **NOT** be interpreted as
+
+- patient diagnosis
+- disease probability
+- clinical risk prediction
+- causal inference
+
+Instead, the framework is designed to prioritize biologically relevant candidate genes for downstream experimental investigation.
 
 ---
 
@@ -50,88 +62,188 @@ Instead, the framework is intended to assist computational prioritization of can
 
 ```text
 Project_Protein_GitHub_Public/
-│
-├── README.md
-├── LICENSE
-├── CITATION.cff
-├── DATA_LICENSE_NOTICE.md
-├── requirements.txt
-├── environment.yml
-│
-├── manuscript/          # Manuscript source files
-├── data/                # Data directories (GWAS, UniProt, OpenTargets, processed)
-├── notebooks/           # Phase-based Jupyter notebooks
-├── model/               # Trained model checkpoints
-├── figures/             # Generated publication figures
-├── graphical_abstract/  # Graphical abstract assets
-├── supplementary/       # Supplementary materials
-└── results/             # Evaluation tables and statistical outputs
+
+README.md
+LICENSE
+CITATION.cff
+DATA_LICENSE_NOTICE.md
+
+requirements.txt
+environment.yml
+
+data/
+    GWAS/
+    UniProt/
+    opentargets/
+
+model/
+
+notebooks/
+
+graphical_abstract/
+
+manuscript/
+
+figures/
+
+results/
 ```
 
 ---
 
-## Workflow & Phase Organization
+## Phase-Based Workflow
 
-The repository follows a sequential, phase-based research pipeline. Execute the notebooks in `notebooks/` chronologically to reproduce the complete study.
+The project follows a complete end-to-end research pipeline.
 
 ```text
-Dataset Construction ➔ Sequence Feature Extraction ➔ Embedding Generation ➔ Multimodal Integration ➔ Robust Evaluation ➔ Explainability & Validation
+Dataset Construction
+        ↓
+Protein Sequence Processing
+        ↓
+Genomic Sequence Processing
+        ↓
+Feature Engineering
+        ↓
+Protein Embedding Extraction
+        ↓
+Multimodal Integration
+        ↓
+Model Training
+        ↓
+Repeated Evaluation
+        ↓
+Statistical Validation
+        ↓
+Explainability
+        ↓
+Biological Validation
+        ↓
+Bias & Leakage Audit
+        ↓
+Final Manuscript
 ```
 
-| Phase | Purpose | Phase | Purpose |
-| :--- | :--- | :--- | :--- |
-| **Phase 1** | Dataset construction | **Phase 14** | Explainability analysis |
-| **Phase 2** | Protein embedding | **Phase 15** | Biological validation |
-| **Phase 3** | Baseline models | **Phase 16** | Manuscript figures generation |
-| **Phase 10** | Modality contribution | **Phase 17** | Robust repeated benchmarking |
-| **Phase 11** | Repeated robustness | **Phase 18** | Negative-set sensitivity |
-| **Phase 12** | Random gene-set analysis | **Phase 19** | External validation |
-| **Phase 13** | Statistical calibration | **Phase 20–21** | Genomic preprocessing |
-| **Phase 22** | Fusion strategy comparison | **Phase 23** | Leakage and bias audit |
-| **Phase 23B**| Bias-controlled robustness | **Phase 24** | Top-K ranking utility |
+Major analysis stages include:
+
+| Phase | Description |
+|---------|------------|
+| Phase 1 | Dataset construction |
+| Phase 2 | Protein feature extraction |
+| Phase 3 | Protein baseline models |
+| Phase 10 | Modality contribution |
+| Phase 11 | Repeated robustness evaluation |
+| Phase 12 | Random gene-set validation |
+| Phase 13 | Statistical calibration |
+| Phase 14 | Explainability analysis |
+| Phase 15 | Literature-supported biological validation |
+| Phase 16 | Manuscript figure generation |
+| Phase 17 | Robust repeated benchmarking |
+| Phase 18 | Negative-set sensitivity analysis |
+| Phase 19 | External validation |
+| Phase 20 | Genomic dataset preprocessing |
+| Phase 21 | Handcrafted genomic feature engineering |
+| Phase 22 | Fusion strategy comparison |
+| Phase 23 | Leakage and bias auditing |
+| Phase 23B | Bias-controlled robustness audit |
+| Phase 24 | Top-K ranking utility analysis |
 
 ---
 
-## Installation & Setup
+## Installation
 
-### Option 1: Using Pip (Recommended with venv)
+### Using pip
+
 ```bash
-# Create and activate environment
 python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
-# Install dependencies
+source venv/bin/activate
+# Windows:
+# venv\Scripts\activate
+
 pip install -r requirements.txt
 ```
 
-### Option 2: Using Conda
+### Using Conda
+
 ```bash
 conda env create -f environment.yml
+
 conda activate t2d_gene_prioritization
 ```
 
 ---
 
-## Reproducibility & Data Availability
+## Reproducing the Study
 
-All frozen datasets, processed feature matrices, trained model checkpoints, evaluation tables, and generated manuscript/supplementary figures supporting this study are permanently archived on Zenodo.
+Execute the notebooks sequentially inside the `notebooks/` directory.
 
-- **Zenodo Archive & DOI:** [https://doi.org/10.5281/zenodo.21489228](https://doi.org/10.5281/zenodo.21489228)
-- **Data Sources:** Integrates data from GWAS Catalog, Open Targets Platform, UniProt, and regulatory genomic sequence resources. (See `DATA_LICENSE_NOTICE.md` for license details).
+The output generated from each phase is used as the input for subsequent analyses.
+
+The final manuscript results are reproduced through the complete phase-based workflow.
+
+---
+
+## Data Availability
+
+All processed datasets, trained models, evaluation tables, manuscript figures and supplementary outputs supporting this study are permanently archived on Zenodo.
+
+**Zenodo DOI**
+
+https://doi.org/10.5281/zenodo.21489228
+
+Raw third-party resources (e.g., UniProt, Open Targets, GWAS Catalog and Ensembl-derived data) remain subject to their original licenses and are documented in `DATA_LICENSE_NOTICE.md`.
 
 ---
 
 ## Citation
 
-If this repository or the associated framework contributes to your research, please cite using the metadata provided in `CITATION.cff`.
+If this repository contributes to your research, please cite both:
+
+- the associated manuscript
+- this GitHub repository
+
+Citation metadata is provided in `CITATION.cff`.
+
+---
+
+## License
+
+Released under the MIT License.
+
+---
+
+## Acknowledgements
+
+This work was conducted at
+
+- Department of Computer Science and Engineering,
+  Manipal Institute of Technology,
+  Manipal Academy of Higher Education,
+  India
+
+in collaboration with
+
+- Swinburne Vietnam,
+  Swinburne University of Technology.
 
 ---
 
 ## Contact
 
-*   **Nguyen Anh Khoa** (Repository Maintainer)  
-    Faculty of Information Technology, Swinburne Vietnam  
-    Email: [khoa.nguyenanh2511@gmail.com](mailto:khoa.nguyenanh2511@gmail.com)
-*   **Sandhya Dubey** (Corresponding Author)  
-    Manipal Academy of Higher Education  
-    Email: [sandhya.dubey@manipal.edu](mailto:sandhya.dubey@manipal.edu)
+### Nguyen Anh Khoa
+
+Swinburne Vietnam
+
+Email:
+
+khoa.nguyenanh2511@gmail.com
+
+---
+
+GitHub
+
+https://github.com/akaaan25112002/Project_Protein_GitHub_Public
+
+Zenodo
+
+https://doi.org/10.5281/zenodo.21489228
