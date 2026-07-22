@@ -1,8 +1,8 @@
 # Leakage-Safe Explainable Multi-Omics Framework for Type 2 Diabetes Gene Prioritization
 
-[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![DOI](https://img.shields.io/badge/DOI-Coming%20Soon-lightgrey.svg)]()
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21489228.svg)](https://doi.org/10.5281/zenodo.21489228)
 
 ## Overview
 
@@ -16,10 +16,9 @@ Unlike patient-level diagnostic models, this work focuses on **prioritizing T2D-
 
 ---
 
-# Highlights
+## Highlights
 
 The framework includes:
-
 - Leakage-safe multimodal machine learning pipeline
 - Protein and genomic sequence representations
 - Repeated-split robustness evaluation
@@ -32,26 +31,22 @@ The framework includes:
 
 ---
 
-# Research Scope
+## Research Scope
 
 This repository **does NOT** implement a clinical diagnosis system.
 
-The prediction target is
-
+The prediction target is:
 > **candidate T2D gene/protein prioritization**
 
 Model outputs should **not** be interpreted as:
-
-- patient diagnosis
-- disease probability
-- clinical risk prediction
-- causal evidence
+- Patient diagnosis / Disease probability
+- Clinical risk prediction / Causal evidence
 
 Instead, the framework is intended to assist computational prioritization of candidate genes for downstream biological investigation.
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```text
 Project_Protein_GitHub_Public/
@@ -63,131 +58,53 @@ Project_Protein_GitHub_Public/
 ├── requirements.txt
 ├── environment.yml
 │
-├── manuscript/
-│
-├── data/
-│   ├── GWAS/
-│   ├── UniProt/
-│   ├── OpenTargets/
-│   └── processed/
-│
-├── notebooks/
-│
-├── model/
-│
-├── figures/
-│
-├── graphical_abstract/
-│
-├── supplementary/
-│
-└── results/
+├── manuscript/          # Manuscript source files
+├── data/                # Data directories (GWAS, UniProt, OpenTargets, processed)
+├── notebooks/           # Phase-based Jupyter notebooks
+├── model/               # Trained model checkpoints
+├── figures/             # Generated publication figures
+├── graphical_abstract/  # Graphical abstract assets
+├── supplementary/       # Supplementary materials
+└── results/             # Evaluation tables and statistical outputs
 ```
 
 ---
 
-# Workflow
+## Workflow & Phase Organization
 
-The repository follows the complete research workflow used in the manuscript.
+The repository follows a sequential, phase-based research pipeline. Execute the notebooks in `notebooks/` chronologically to reproduce the complete study.
 
 ```text
-Phase 1
-Dataset construction
-        │
-        ▼
-Protein sequence extraction
-        │
-        ▼
-Genomic regulatory sequence extraction
-        │
-        ▼
-Feature engineering
-        │
-        ▼
-Protein embedding generation
-        │
-        ▼
-Baseline model development
-        │
-        ▼
-Multimodal integration
-        │
-        ▼
-Robust repeated evaluation
-        │
-        ▼
-Explainability analysis
-        │
-        ▼
-Biological validation
-        │
-        ▼
-Bias auditing
-        │
-        ▼
-Top-K prioritization
-        │
-        ▼
-Final manuscript generation
+Dataset Construction ➔ Sequence Feature Extraction ➔ Embedding Generation ➔ Multimodal Integration ➔ Robust Evaluation ➔ Explainability & Validation
 ```
 
----
-
-# Phase Organization
-
-Each notebook corresponds to one stage of the research pipeline.
-
-Examples include:
-
-| Phase | Purpose |
-|-------|---------|
-| Phase 1 | Dataset construction |
-| Phase 2 | Protein embedding |
-| Phase 3 | Baseline models |
-| Phase 10 | Modality contribution |
-| Phase 11 | Repeated robustness |
-| Phase 12 | Random gene-set analysis |
-| Phase 13 | Statistical calibration |
-| Phase 14 | Explainability |
-| Phase 15 | Biological validation |
-| Phase 16 | Manuscript figures |
-| Phase 17 | Robust repeated benchmarking |
-| Phase 18 | Negative-set sensitivity |
-| Phase 19 | External validation |
-| Phase 20–21 | Genomic preprocessing |
-| Phase 22 | Fusion strategy comparison |
-| Phase 23 | Leakage and bias audit |
-| Phase 23B | Bias-controlled robustness |
-| Phase 24 | Top-K ranking utility |
+| Phase | Purpose | Phase | Purpose |
+| :--- | :--- | :--- | :--- |
+| **Phase 1** | Dataset construction | **Phase 14** | Explainability analysis |
+| **Phase 2** | Protein embedding | **Phase 15** | Biological validation |
+| **Phase 3** | Baseline models | **Phase 16** | Manuscript figures generation |
+| **Phase 10** | Modality contribution | **Phase 17** | Robust repeated benchmarking |
+| **Phase 11** | Repeated robustness | **Phase 18** | Negative-set sensitivity |
+| **Phase 12** | Random gene-set analysis | **Phase 19** | External validation |
+| **Phase 13** | Statistical calibration | **Phase 20–21** | Genomic preprocessing |
+| **Phase 22** | Fusion strategy comparison | **Phase 23** | Leakage and bias audit |
+| **Phase 23B**| Bias-controlled robustness | **Phase 24** | Top-K ranking utility |
 
 ---
 
-# Main Contributions
+## Installation & Setup
 
-The manuscript is primarily supported by the following analyses:
-
-- Leakage-safe evaluation strategy
-- Protein versus genomic representation comparison
-- Handcrafted versus foundation-model features
-- Multimodal integration strategies
-- Explainability analysis
-- Biological pathway validation
-- Literature-supported candidate prioritization
-- Top-K recovery analysis
-- Negative-set robustness auditing
-
----
-
-# Installation
-
-Using pip
-
+### Option 1: Using Pip (Recommended with venv)
 ```bash
+# Create and activate environment
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+# Install dependencies
 pip install -r requirements.txt
 ```
 
-Using Conda
-
+### Option 2: Using Conda
 ```bash
 conda env create -f environment.yml
 conda activate t2d_gene_prioritization
@@ -195,116 +112,26 @@ conda activate t2d_gene_prioritization
 
 ---
 
-# Reproducing the Study
+## Reproducibility & Data Availability
 
-The workflow can be reproduced by executing the phase notebooks sequentially.
+All frozen datasets, processed feature matrices, trained model checkpoints, evaluation tables, and generated manuscript/supplementary figures supporting this study are permanently archived on Zenodo.
 
-Each notebook contains:
-
-- preprocessing
-- model training
-- evaluation
-- visualization
-- exported manuscript figures
+- **Zenodo Archive & DOI:** [https://doi.org/10.5281/zenodo.21489228](https://doi.org/10.5281/zenodo.21489228)
+- **Data Sources:** Integrates data from GWAS Catalog, Open Targets Platform, UniProt, and regulatory genomic sequence resources. (See `DATA_LICENSE_NOTICE.md` for license details).
 
 ---
 
-# Data Sources
+## Citation
 
-The project integrates information from publicly available biological resources including:
-
-- GWAS Catalog
-- Open Targets Platform
-- UniProt
-- Protein sequence databases
-- Regulatory genomic sequence resources
-
-Please refer to `DATA_LICENSE_NOTICE.md` for redistribution restrictions of third-party datasets.
+If this repository or the associated framework contributes to your research, please cite using the metadata provided in `CITATION.cff`.
 
 ---
 
-# Outputs
+## Contact
 
-Repository outputs include:
-
-- trained models
-- processed datasets
-- manuscript figures
-- supplementary figures
-- evaluation tables
-- statistical analyses
-- explainability results
-
----
-
-# Manuscript
-
-The manuscript source is available in
-
-```text
-manuscript/
-```
-
-Generated publication figures are located in
-
-```text
-figures/
-```
-
-The graphical abstract is located in
-
-```text
-graphical_abstract/
-```
-
----
-
-# Reproducibility
-
-The project was developed under a reproducible research workflow.
-
-Random seeds, evaluation protocols, repeated validation, and statistical analyses are documented throughout the notebooks.
-
----
-
-# Data Availability
-
-Processed datasets, trained models, evaluation outputs, and manuscript figures are publicly available through this repository.
-
-Zenodo archival DOI will be added upon publication.
-
----
-
-# Citation
-
-If this repository contributes to your research, please cite both:
-
-- the associated manuscript
-- this GitHub repository
-
-Citation metadata is provided in `CITATION.cff`.
-
----
-
-# Repository
-
-GitHub
-
-https://github.com/akaaan25112002/Project_Protein_GitHub_Public
-
-Zenodo DOI
-
-**Coming Soon**
-
----
-
-# Contact
-
-**Nguyen Anh Khoa**
-
-Faculty of Information Technology  
-Swinburne Vietnam  
-Swinburne University of Technology
-
-Email:
-khoa.nguyenanh2511@gmail.com
+*   **Nguyen Anh Khoa** (Repository Maintainer)  
+    Faculty of Information Technology, Swinburne Vietnam  
+    Email: [khoa.nguyenanh2511@gmail.com](mailto:khoa.nguyenanh2511@gmail.com)
+*   **Sandhya Dubey** (Corresponding Author)  
+    Manipal Academy of Higher Education  
+    Email: [sandhya.dubey@manipal.edu](mailto:sandhya.dubey@manipal.edu)

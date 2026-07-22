@@ -1,11 +1,20 @@
 cff-version: 1.2.0
-title: "Project Protein: Bias-Audited Multimodal Sequence-Based Framework for Type 2 Diabetes Gene/Protein Prioritization"
-message: "If you use this repository, please cite the associated manuscript and this repository."
+title: "Leakage-Safe Explainable Multi-Omics Framework for Type 2 Diabetes Gene Prioritization Using Protein and Genomic Sequence Representations"
+message: "If you use this software or data in your research, please cite both the associated manuscript and this repository."
 type: software
 authors:
   - family-names: "Nguyen"
     given-names: "Anh Khoa"
-year: 2026
+    affiliation: "Swinburne University of Technology, Swinburne Vietnam"
+    email: "khoa.nguyenanh2511@gmail.com"
+  - family-names: "Dubey"
+    given-names: "Sandhya"
+    affiliation: "Manipal Academy of Higher Education"
+    email: "sandhya.dubey@manipal.edu"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21489228"
+    description: "The permanent archive of the datasets and model checkpoints on Zenodo."
 repository-code: "https://github.com/akaaan25112002/Project_Protein_GitHub_Public"
 license: MIT
 keywords:
@@ -16,4 +25,6 @@ keywords:
   - multimodal learning
   - bias audit
   - machine learning
-abstract: "This repository contains supporting files for a gene/protein-level Type 2 Diabetes candidate prioritization study using sequence-derived protein and genomic representations with repeated cross-validation, fusion comparison, leakage/bias auditing, Top-K ranking utility analysis, and biological validation."
+  - explainable ai
+year: 2026
+abstract: "This repository contains supporting source code, phase-based pipelines, and structural definitions for a leakage-audited gene/protein-level Type 2 Diabetes candidate prioritization framework. It integrates protein sequence embeddings and genomic regulatory representations with robust repeated cross-validation, explainability analysis, and literature-supported biological validation."
